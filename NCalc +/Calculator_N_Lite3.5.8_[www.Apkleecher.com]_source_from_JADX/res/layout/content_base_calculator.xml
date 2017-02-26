@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:weightSum="1.0">
+        <View app:layout_width="-2" app:layout_height="0dp" app:layout_weight="0.3" />
+        <include app:layout_width="-1" app:layout_height="0dp" app:layout_weight="0.7" layout="@layout/pad_base" />
+    </LinearLayout>
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:weightSum="1.0">
+        <include app:layout_width="-1" app:layout_height="0dp" app:layout_weight="0.3" layout="@layout/display" />
+    </LinearLayout>
+</FrameLayout>

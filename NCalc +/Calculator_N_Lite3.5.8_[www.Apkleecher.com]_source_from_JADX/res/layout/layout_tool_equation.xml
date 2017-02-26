@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<io.codetail.widget.RevealFrameLayout android:id="@id/container_tool" android:visibility="0" android:layout_width="-1" android:layout_height="-2">
+    <HorizontalScrollView app:scrollbars="0" app:layout_width="-1" app:layout_height="-2" app:overScrollMode="2" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <io.codetail.widget.RevealLinearLayout app:paddingLeft="16dp" app:layout_width="-2" app:layout_height="-1">
+            <android.support.v7.widget.AppCompatButton app:id="@id/btn_solve" app:layout_width="-2" app:layout_height="-1" app:text="@string/solve" style="@style/Widget_AppCompat_Button_Colored" />
+            <android.support.v7.widget.AppCompatButton app:id="@id/btn_graph" app:layout_width="-2" app:layout_height="-1" app:text="@string/graph" style="@style/Widget_AppCompat_Button_Colored" />
+            <android.support.v7.widget.AppCompatButton app:id="@id/btn_factor" app:layout_width="-2" app:layout_height="-1" app:text="@string/analyze" style="@style/Widget_AppCompat_Button_Colored" />
+            <android.support.v7.widget.AppCompatButton app:id="@id/btn_derivative" app:layout_width="-2" app:layout_height="-1" app:text="@string/derivative" style="@style/Widget_AppCompat_Button_Colored" />
+            <android.support.v7.widget.AppCompatButton app:id="@id/btn_simplfy" app:layout_width="-2" app:layout_height="-1" app:text="@string/simplify" style="@style/Widget_AppCompat_Button_Colored" />
+            <android.support.v7.widget.AppCompatButton app:id="@id/btn_expand" app:layout_width="-2" app:layout_height="-1" app:text="@string/expand" style="@style/Widget_AppCompat_Button_Colored" />
+            <android.support.v7.widget.AppCompatButton app:id="@id/btn_factor_int" app:visibility="2" app:layout_width="-2" app:layout_height="-1" app:text="@string/factor_prime" style="@style/Widget_AppCompat_Button_Colored" />
+        </io.codetail.widget.RevealLinearLayout>
+    </HorizontalScrollView>
+</io.codetail.widget.RevealFrameLayout>

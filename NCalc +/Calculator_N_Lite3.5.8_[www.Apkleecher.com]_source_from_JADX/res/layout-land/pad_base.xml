@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:id="@id/pad_hex" app:background="@color/background_pad_numberic" app:layout_width="-1" app:layout_height="-1" app:weightSum="5.0">
+    <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0" app:cardCornerRadius="0dp" app:cardElevation="4dp" app:cardUseCompatPadding="false">
+        <LinearLayout app:background="@color/background_pad_advance" app:layout_width="-1" app:layout_height="-1" app:weightSum="6.0">
+            <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/dec" app:text="@string/dec" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+            <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/hex" app:text="@string/hex" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+            <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/bin" app:text="@string/bin" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+            <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/oct" app:text="@string/oct" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+            <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btn_clear" app:scaleType="5" app:text="@string/clear" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+            <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btnDelete" app:scaleType="5" app:text="@string/delete" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <LinearLayout app:layout_width="-1" app:layout_height="0dp" app:weightSum="9.0" app:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/op_and" app:visibility="0" app:text="@string/and" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/op_or" app:visibility="0" app:text="@string/or" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/op_xor" app:visibility="0" app:text="@string/not" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/F" app:text="@string/F" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btn_neq" app:text="@string/neq" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btnLeftParen" app:text="@string/leftParen" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btnRightParen" app:text="@string/rightParen" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btn_true" app:text="@string/mtrue" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btn_false" app:text="@string/mfalse" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100bd" />
+    </LinearLayout>
+    <LinearLayout app:layout_width="-1" app:layout_height="0dp" app:weightSum="8.0" app:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/A" app:text="A" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/B" app:text="B" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/C" app:text="C" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/D" app:text="@string/D" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/E" app:text="@string/E" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btn_geq" app:text="@string/geq" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btn_leq" app:text="@string/leq" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btn_gt" app:text="@string/gt" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+    </LinearLayout>
+    <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="0dp" app:weightSum="8.0" app:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit5" app:text="@string/digit5" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit6" app:text="@string/digit6" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit7" app:text="@string/digit7" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit8" app:text="@string/digit8" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit9" app:text="@string/digit9" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btnMul" app:text="@string/mul" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:enabled="false" app:id="@id/btnDiv" app:text="@string/div" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btn_lt" app:visibility="0" app:text="@string/lt" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+    </LinearLayout>
+    <LinearLayout app:layout_width="-1" app:layout_height="0dp" app:weightSum="8.0" app:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit0" app:text="@string/digit0" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit1" app:text="@string/digit1" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit2" app:text="@string/digit2" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit3" app:text="@string/digit3" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/digit4" app:text="@string/digit4" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btnPlus" app:text="@string/plus" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <com.example.duy.calculator.view.PadButtonBaseCalculator app:id="@id/btnMinus" app:text="@string/minus" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100aa" />
+        <ImageButton app:id="@id/btnEqual" app:src="@drawable/ic_equal" app:text="@string/equal" app:onClick="onButtonClick" style="?unknown_attr_ref: 7f0100ac" />
+    </LinearLayout>
+</LinearLayout>

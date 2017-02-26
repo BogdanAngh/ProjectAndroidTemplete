@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="area">
+        <item>square mm</item>
+        <item>square m</item>
+        <item>square cm</item>
+        <item>square km</item>
+        <item>square miles</item>
+        <item>square yards</item>
+    </string-array>
+    <string-array name="arr_name_theme">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="bitrate">
+        <item>@string/bitrateunitbytes</item>
+        <item>@string/bitrateunitkilobytes</item>
+        <item>@string/bitrateunitmegabytes</item>
+        <item>@string/bitrateunitgigabytes</item>
+        <item>@string/bitrateunitterabytes</item>
+        <item>@string/bitrateunitbits</item>
+        <item>@string/bitrateunitkilobits</item>
+        <item>@string/bitrateunitmegabits</item>
+        <item>@string/bitrateunitgigabits</item>
+        <item>T@string/bitrateunitterabits</item>
+    </string-array>
+    <string-array name="energy">
+        <item>calories</item>
+        <item>joules</item>
+        <item>kilocalories</item>
+    </string-array>
+    <string-array name="length">
+        <item>cm</item>
+        <item>m</item>
+        <item>mm</item>
+        <item>km</item>
+        <item>ft</item>
+        <item>mile</item>
+        <item>inch</item>
+        <item>nm</item>
+        <item>µm</item>
+        <item>pm</item>
+        <item>dm</item>
+    </string-array>
+    <string-array name="libs">
+        <item>@string/android</item>
+        <item>@string/android_tool</item>
+        <item>@string/appcompat</item>
+        <item>@string/cardview</item>
+        <item>@string/recycleview</item>
+        <item>@string/android_design</item>
+        <item>@string/support_v4</item>
+        <item>@string/support_v7</item>
+        <item>@string/support_annotations</item>
+        <item>@string/support_multidex</item>
+        <item>@string/common_math</item>
+        <item>@string/log4j</item>
+        <item>@string/jsr305</item>
+        <item>@string/mathview</item>
+        <item>@string/nineoldandroids</item>
+        <item>@string/mpchart</item>
+        <item>@string/symja</item>
+        <item>@string/fab_clan</item>
+        <item>@string/tapview</item>
+        <item>@string/butterknife</item>
+        <item>@string/circularreveal</item>
+    </string-array>
+    <string-array name="lics">
+        <item>@string/android_lic</item>
+        <item>@string/android_tool_lic</item>
+        <item>@string/appcompat_lic</item>
+        <item>@string/cardview_lic</item>
+        <item>@string/recycleview_lic</item>
+        <item>@string/android_design_lic</item>
+        <item>@string/support_v4_lic</item>
+        <item>@string/support_v7_lic</item>
+        <item>@string/support_annotations_lic</item>
+        <item>@string/support_multidex_lic</item>
+        <item>@string/common_math_lic</item>
+        <item>@string/log4j_lic</item>
+        <item>@string/jsr305_lic</item>
+        <item>@string/mathview_lic</item>
+        <item>@string/nineoldandroids_lic</item>
+        <item>@string/mpchart_lic</item>
+        <item>@string/symja_lic</item>
+        <item>@string/fab_clan_lic</item>
+        <item>@string/tapview_lic</item>
+        <item>@string/butterknife_lic</item>
+        <item>@string/circularreveal_lic</item>
+    </string-array>
+    <string-array name="matrix_operator">
+        <item>@string/matrix_add</item>
+        <item>@string/matrix_op_sub</item>
+        <item>@string/matrix_op_mul</item>
+        <item>@string/matrix_op_inverse_a</item>
+        <item>@string/matrix_op_inverse_b</item>
+        <item>@string/matrix_op_tranpose_a</item>
+        <item>@string/matrix_op_tranpose_b</item>
+    </string-array>
+    <string-array name="power">
+        <item>Horse Power (HP)</item>
+        <item>Watt</item>
+        <item>Kilowatt</item>
+        <item>Megawatt</item>
+        <item>Gigawatt</item>
+    </string-array>
+    <string-array name="temp">
+        <item>Celsius (C)</item>
+        <item>Fahrenheit (F)</item>
+        <item>Kelvin (K)</item>
+        <item>Newton (N)</item>
+    </string-array>
+    <string-array name="text_fonts">
+        <item>sans</item>
+        <item>normal</item>
+        <item>serif</item>
+        <item>monospace</item>
+    </string-array>
+    <string-array name="text_styles">
+        <item>bold</item>
+        <item>italic</item>
+        <item>normal</item>
+    </string-array>
+    <string-array name="time">
+        <item>@string/timeunitsecond</item>
+        <item>@string/timeunitminutes</item>
+        <item>@string/timeunithours</item>
+        <item>@string/timeunitdays</item>
+        <item>@string/timeunitweeks</item>
+        <item>@string/timeunitmiliseconds</item>
+    </string-array>
+    <string-array name="unit">
+        <item>@string/unit1</item>
+        <item>@string/unit2</item>
+        <item>@string/unit3</item>
+        <item>@string/unit4</item>
+        <item>@string/unit5</item>
+        <item>@string/unit6</item>
+        <item>@string/unit7</item>
+        <item>@string/unit8</item>
+        <item>@string/unit9</item>
+        <item>@string/unit10</item>
+    </string-array>
+    <string-array name="velocity">
+        <item>Km/hr</item>
+        <item>m/s</item>
+        <item>miles/hr</item>
+        <item>feet/s</item>
+    </string-array>
+    <string-array name="volume">
+        <item>millilitre</item>
+        <item>litre</item>
+        <item>cubic mm</item>
+        <item>cubic cm</item>
+        <item>cubic m</item>
+        <item>cubic feet</item>
+    </string-array>
+    <string-array name="weight">
+        <item>Kilogam (Kg)</item>
+        <item>Gam (g)</item>
+        <item>lb</item>
+        <item>ounce</item>
+        <item>Miligam (mg)</item>
+    </string-array>
+</resources>

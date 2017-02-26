@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <ListView android:id="@id/listView" android:layout_width="-1" android:layout_height="-1" android:layout_above="@id/adViewContainer" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <RelativeLayout android:id="@id/adViewContainer" android:background="@color/colorPrimary" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentBottom="true">
+        <com.google.android.gms.ads.AdView ads:id="@id/ad_view" ads:layout_width="-1" ads:layout_height="-2" ads:layout_alignParentLeft="true" ads:layout_alignParentRight="true" ads:layout_alignParentStart="true" ads:layout_alignParentEnd="true" ads:adSize="BANNER" ads:adUnitId="@string/admob_banner_ad_unit_id" />
+    </RelativeLayout>
+</RelativeLayout>

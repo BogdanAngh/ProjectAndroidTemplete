@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+    <android.support.design.widget.AppBarLayout app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.Toolbar app:id="@id/toolbar" app:layout_width="-1" app:layout_height="?unknown_attr_ref: 7f010049" />
+    </android.support.design.widget.AppBarLayout>
+    <ScrollView app:visibility="2" app:layout_width="-1" app:layout_height="-1">
+        <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:minHeight="64dp" app:cardUseCompatPadding="true">
+                <TextView app:gravity="13" app:layout_gravity="11" app:id="@id/btnDiscrimation" app:paddingLeft="16dp" app:layout_width="-1" app:layout_height="-2" app:text="@string/bi_t_th_c_delta" app:onClick="onClick" style="@style/TextAppearance_AppCompat_Large" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:minHeight="64dp" app:cardUseCompatPadding="true">
+                <TextView app:gravity="13" app:layout_gravity="11" app:id="@id/btnInterpolation" app:paddingLeft="16dp" app:layout_width="-1" app:layout_height="-2" app:text="@string/n_i_suy" app:onClick="onClick" style="@style/TextAppearance_AppCompat_Large" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:minHeight="64dp" app:cardUseCompatPadding="true">
+                <TextView app:gravity="13" app:layout_gravity="11" app:id="@id/btnPowExpand" app:paddingLeft="16dp" app:layout_width="-1" app:layout_height="-2" app:text="@string/ph_n_t_ch_bi_u_th_c_ch_a_m" app:onClick="onClick" style="@style/TextAppearance_AppCompat_Large" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:minHeight="64dp" app:cardUseCompatPadding="true">
+                <TextView app:gravity="13" app:layout_gravity="11" app:id="@id/btnRealToFrac" app:paddingLeft="16dp" app:layout_width="-1" app:layout_height="-2" app:text="@string/chuy_n_s_th_c_v_ph_n_s" app:onClick="onClick" style="@style/TextAppearance_AppCompat_Large" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:minHeight="64dp" app:cardUseCompatPadding="true">
+                <TextView app:gravity="13" app:layout_gravity="11" app:id="@id/btnSpecialNum" app:paddingLeft="16dp" app:layout_width="-1" app:layout_height="-2" app:text="@string/s_c_bi_t" app:onClick="onClick" style="@style/TextAppearance_AppCompat_Large" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:minHeight="64dp" app:cardUseCompatPadding="true">
+                <TextView app:gravity="13" app:layout_gravity="11" app:id="@id/btnTrigExpand" app:paddingLeft="16dp" app:layout_width="-1" app:layout_height="-2" app:text="@string/ph_n_t_ch_h_m_l_ng_gi_c" app:onClick="onClick" style="@style/TextAppearance_AppCompat_Large" />
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:minHeight="64dp" app:cardUseCompatPadding="true">
+                <TextView app:gravity="13" app:layout_gravity="11" app:id="@id/btnTrigToExp" app:paddingLeft="16dp" app:layout_width="-1" app:layout_height="-2" app:text="@string/chuy_n_h_m_l_ng_gi_c_sang_h_m_m" app:onClick="onClick" style="@style/TextAppearance_AppCompat_Large" />
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

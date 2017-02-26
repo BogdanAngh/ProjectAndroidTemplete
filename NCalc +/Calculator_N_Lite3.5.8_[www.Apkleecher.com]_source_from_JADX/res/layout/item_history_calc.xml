@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:id="@id/cardview" android:layout_width="-1" android:layout_height="-2" android:layout_margin="2dp">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textStyle="1" android:gravity="3" android:id="@id/txt_math" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="0" style="@style/TextAppearance_AppCompat_Large" />
+        <TextView android:typeface="1" android:id="@id/txtResult" android:padding="8dp" android:layout_width="-1" android:layout_height="-2" android:text="0" style="@style/TextAppearance_AppCompat_Medium" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

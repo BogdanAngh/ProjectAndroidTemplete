@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:cardCornerRadius="0dp" app:cardElevation="2dp" app:cardUseCompatPadding="true">
+    <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:layout_marginLeft="4dp" app:weightSum="1.0">
+        <android.support.v7.widget.AppCompatEditText app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/name" app:padding="16dp" app:layout_width="0dp" app:layout_height="-1" app:hint="@string/name" app:layout_weight="0.4" />
+        <TextView app:textColor="?unknown_attr_ref: 7f010088" app:gravity="11" app:layout_gravity="11" app:padding="16dp" app:layout_width="-2" app:layout_height="-2" app:text="=" />
+        <android.support.v7.widget.AppCompatEditText app:id="@id/edit_value" app:layout_width="-2" app:layout_height="-1" app:hint="@string/enter_value" app:layout_weight="0.6" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

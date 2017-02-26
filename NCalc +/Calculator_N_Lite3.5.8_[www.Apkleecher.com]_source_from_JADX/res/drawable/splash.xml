@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <color android:color="@color/color_light" />
+    </item>
+    <item>
+        <bitmap android:gravity="11" android:src="@mipmap/splash" android:tileMode="-1" />
+    </item>
+</layer-list>

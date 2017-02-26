@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-1" app:cardCornerRadius="0dp" app:cardElevation="6dp" app:cardUseCompatPadding="false">
+    <io.codetail.widget.RevealFrameLayout android:id="@id/the_clear_animation" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:id="@id/calculations" android:layout_width="-1" android:layout_height="-1" android:weightSum="1.0">
+            <com.example.duy.calculator.view.CalculatorEditText android:textSize="40sp" android:gravity="15" android:id="@id/txtDisplay" android:layout_width="-1" android:layout_height="0dp" android:text="0123123123123" android:layout_weight="0.6" style="@style/AppTheme_EditText_Formula" />
+            <TextView android:gravity="15" android:id="@id/txtResult" android:layout_width="-1" android:layout_height="0dp" android:text="static" android:layout_weight="0.4" android:textIsSelectable="true" style="@style/AppTheme_EditText_Result" />
+        </LinearLayout>
+    </io.codetail.widget.RevealFrameLayout>
+</android.support.v7.widget.CardView>

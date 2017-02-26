@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout app:layout_width="-1" app:layout_height="-1" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <ScrollView app:padding="16dp" app:layout_width="-1" app:layout_height="-1">
+        <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+            <android.support.design.widget.TextInputLayout app:layout_width="-1" app:layout_height="-2">
+                <android.support.v7.widget.AppCompatEditText app:id="@id/edit_params" app:layout_width="-1" app:layout_height="-2" app:hint="@string/nh_p_c_c_n_c_a_h" />
+            </android.support.design.widget.TextInputLayout>
+            <LinearLayout app:orientation="1" app:id="@id/container" app:layout_width="-1" app:layout_height="-2" />
+            <android.support.v7.widget.AppCompatTextView app:id="@id/txt_num_params" app:layout_width="-1" app:layout_height="-2" />
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:minHeight="150dp" app:cardUseCompatPadding="true">
+                <FrameLayout app:layout_width="-1" app:layout_height="-2">
+                    <TextView app:id="@id/txt_result" app:visibility="2" app:layout_width="-2" app:layout_height="-2" />
+                    <ProgressBar app:id="@id/progressBar2" app:visibility="2" app:layout_width="-1" app:layout_height="-2" style="?unknown_attr_ref: 1010077" />
+                    <io.github.kexanie.library.MathView app:id="@id/math_view" app:layout_width="-2" app:layout_height="-2" app:text="$$NCalc+$$" app:engine="0" />
+                </FrameLayout>
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.AppCompatButton app:id="@id/btn_solve" app:layout_width="-2" app:layout_height="-2" app:text="@string/solve" app:layout_weight="1.0" style="@style/Widget_AppCompat_Button_Colored" />
+            <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:cardUseCompatPadding="true">
+                <TextView app:padding="4dp" app:layout_width="-2" app:layout_height="-2" app:text="@string/nh_p_c_c_ph_ng_tr_nh_t_o_th_nh_h_ph" />
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout app:layout_gravity="55" app:orientation="1" app:layout_width="-2" app:layout_height="-2">
+        <android.support.design.widget.FloatingActionButton app:id="@id/btn_add" app:layout_width="@dimen/fab_size_normal" app:layout_height="@dimen/fab_size_normal" app:layout_marginRight="@dimen/fab_margin" app:layout_marginBottom="@dimen/fab_margin" app:src="@drawable/ic_add_white_24dp" app:text="@string/th_m_ph_ng_tr_nh" app:layout_weight="1.0" />
+        <android.support.design.widget.FloatingActionButton app:id="@id/btn_clear" app:layout_width="@dimen/fab_size_normal" app:layout_height="@dimen/fab_size_normal" app:layout_marginRight="@dimen/fab_margin" app:layout_marginBottom="@dimen/fab_margin" app:src="@drawable/ic_delete_white_48dp" app:text="@string/delete_desc" app:layout_weight="1.0" />
+    </LinearLayout>
+</FrameLayout>

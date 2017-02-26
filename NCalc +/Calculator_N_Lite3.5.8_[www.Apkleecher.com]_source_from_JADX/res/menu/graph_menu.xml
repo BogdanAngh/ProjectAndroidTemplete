@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item app:icon="0x108002b" app:id="@id/menu_input" app:orderInCategory="100" app:title="@string/input" app:showAsAction="2" />
+    <item app:icon="@drawable/ic_settings_black_48dp" app:id="@id/menu_windowsettings" app:orderInCategory="100" app:title="@string/windowsettings" app:showAsAction="2" />
+</menu>

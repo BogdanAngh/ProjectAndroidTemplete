@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="about">Author</string>
+    <string name="above_circle">Located on the circle</string>
+    <string name="action_settings">Setting</string>
+    <string name="add_equation">Add equation</string>
+    <string name="add_function">Add function</string>
+    <string name="add_point">Add new point</string>
+    <string name="advanced">Advanced</string>
+    <string name="all_calculator">Calculator</string>
+    <string name="all_equation">Equation</string>
+    <string name="all_unit_converter">Unit Converter</string>
+    <string name="analyze">Analyze</string>
+    <string name="and_desc">Operations and</string>
+    <string name="app_information">Introduce</string>
+    <string name="auto_process">Automatic data processing</string>
+    <string name="b_t_ph_ng_tr_nh">Disequations</string>
+    <string name="basic">Basic</string>
+    <string name="bell_number">Number Bell</string>
+    <string name="bi_t_th_c_delta">Delta discriminant</string>
+    <string name="binomial_newton">Newton binomial expansion</string>
+    <string name="bpt_bac_hai">Any quadratic</string>
+    <string name="bpt_bac_nhat">No superlative equation</string>
+    <string name="calc">Calc</string>
+    <string name="calculator">Calculator</string>
+    <string name="cannot_factor">Can not prime factor</string>
+    <string name="cannotwrite">Can not write</string>
+    <string name="catalan_number">Number Catalan</string>
+    <string name="choose_color">Choose colors</string>
+    <string name="choose_mode">Select the mode 2D or 3D graphs</string>
+    <string name="chuy_n_h_m_l_ng_gi_c_sang_h_m_m">Transfer to exponential trigonometric functions</string>
+    <string name="chuy_n_s_th_c_v_ph_n_s">Transfer real numbers to fractions</string>
+    <string name="chuyen_doi_co_so">Radix conversion</string>
+    <string name="cimp_desc">Converse implication</string>
+    <string name="circle">Circle</string>
+    <string name="circle_interaction">Two circles intersect</string>
+    <string name="circle_tangent">Two circles intersect</string>
+    <string name="clear_desc">Clear</string>
+    <string name="clear_history">Clear history</string>
+    <string name="close">Close</string>
+    <string name="cnimp_desc">Converse nonimplication</string>
+    <string name="coefficent">The coefficient of variation in the polynomial</string>
+    <string name="collinear">Straight</string>
+    <string name="column">column</string>
+    <string name="complex_calculator">Computers complex numbers</string>
+    <string name="continued_fraction">Continued fractions</string>
+    <string name="copied">Copied</string>
+    <string name="copy">"Copy '%s'"</string>
+    <string name="copy_as_latex">Copy as LaTeX</string>
+    <string name="copy_as_mathml">Copy as MathML</string>
+    <string name="copy_as_text">Copy as text</string>
+    <string name="corner">Angel</string>
+    <string name="cosDesc">cosine</string>
+    <string name="create">Create</string>
+    <string name="d_n_ncalc">Project NCalc +</string>
+    <string name="d_n_ph_n_m_m_ncalc">Software project NCalc +</string>
+    <string name="define_var">Define Variable</string>
+    <string name="delDesc">Delete</string>
+    <string name="delete_desc">Erase</string>
+    <string name="delete_x">Erase</string>
+    <string name="der_level_desc">Select derivative level here</string>
+    <string name="derivative">Derivative</string>
+    <string name="derivative_level">Derivative level</string>
+    <string name="desc_bin">Binary</string>
+    <string name="desc_clr">Clear</string>
+    <string name="desc_const_e">"Euler's number"</string>
+    <string name="desc_const_pi">Pi</string>
+    <string name="desc_dec">Decimal</string>
+    <string name="desc_dec_point">Point</string>
+    <string name="desc_del">Delete</string>
+    <string name="desc_eq">Equals</string>
+    <string name="desc_fun_arccos">Arc Cosine</string>
+    <string name="desc_fun_arccot">Arc Cosine</string>
+    <string name="desc_fun_arccsc">Arc Cotangent</string>
+    <string name="desc_fun_arcsec">Arc Secent</string>
+    <string name="desc_fun_arcsin">Arc Sine</string>
+    <string name="desc_fun_arctan">Arc Tangent</string>
+    <string name="desc_fun_cos">Cosine</string>
+    <string name="desc_fun_cot">Cotangent</string>
+    <string name="desc_fun_csc">Cosecent</string>
+    <string name="desc_fun_det">Determinant</string>
+    <string name="desc_fun_eigen_value">Eigenvalues</string>
+    <string name="desc_fun_ln">Natural logarithm</string>
+    <string name="desc_fun_log">logarithm</string>
+    <string name="desc_fun_percentage">Percent</string>
+    <string name="desc_fun_sec">Secent</string>
+    <string name="desc_fun_sin">sine</string>
+    <string name="desc_fun_tan">tangent</string>
+    <string name="desc_hex">Hexadecimal</string>
+    <string name="desc_lparen">left parenthesis</string>
+    <string name="desc_oct">Octal</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_cbrt">cube root</string>
+    <string name="desc_op_div">divide</string>
+    <string name="desc_op_fact">factorial</string>
+    <string name="desc_op_mul">times</string>
+    <string name="desc_op_pow">power</string>
+    <string name="desc_op_sqrt">square root</string>
+    <string name="desc_op_sub">minus</string>
+    <string name="desc_parentheses">Parentheses</string>
+    <string name="desc_rparen">right parenthesis</string>
+    <string name="dialog_cancel">Come back</string>
+    <string name="dialog_picker_title">Select</string>
+    <string name="dialog_set_number">OK</string>
+    <string name="discriminant">Delta discriminant of the polynomial</string>
+    <string name="divDesc">Divide</string>
+    <string name="do_thi">Graph</string>
+    <string name="dot_desc">Dot</string>
+    <string name="eDesc">Euler number</string>
+    <string name="eliminate">Simple variables</string>
+    <string name="ellipse">Ellipse</string>
+    <string name="enter_from">From</string>
+    <string name="enter_function">Enter function</string>
+    <string name="enter_limit">Enter limit</string>
+    <string name="enter_params">Enter the variable of the system of equations</string>
+    <string name="enter_to">To</string>
+    <string name="enter_value">Enter value</string>
+    <string name="eq_desc">Equal</string>
+    <string name="equalDesc">equals</string>
+    <string name="eqv_desc">Logical biconditional</string>
+    <string name="error">Error</string>
+    <string name="error_input_num">Error type the number</string>
+    <string name="error_not_disequation">Not that any equation</string>
+    <string name="eval">Evaluate</string>
+    <string name="exception_messenge">Error in location</string>
+    <string name="exception_position">position</string>
+    <string name="expand">Expand</string>
+    <string name="factor_equation">Analysis of factorization polynomial</string>
+    <string name="factor_prime">Analysis prime factor</string>
+    <string name="factorialDesc">Factorial</string>
+    <string name="feedback">Feedback app functionality, error during use</string>
+    <string name="fibo_n">Nth Fibonacci number</string>
+    <string name="fibo_number">Fibonacci numbers</string>
+    <string name="find_root">Solve</string>
+    <string name="fn_entry">Add function</string>
+    <string name="font_and_style">Fonts, typefaces</string>
+    <string name="fragment_history_delete_all">Delete all</string>
+    <string name="from">from</string>
+    <string name="function">Function</string>
+    <string name="function_rename">Rename</string>
+    <string name="functions">Add function</string>
+    <string name="gcd_description">Least common multiple</string>
+    <string name="geq_desc">Greater than or equal</string>
+    <string name="gi_i_thi_u_v_calc">About Ncalc</string>
+    <string name="gi_tr_nh_nh_t">Smallest value</string>
+    <string name="giai">Solution</string>
+    <string name="giai_bpt">Solve any equation</string>
+    <string name="giai_pt">Solve the equation</string>
+    <string name="gop_y">Feedback</string>
+    <string name="graph">Graph</string>
+    <string name="graph_2">Graph</string>
+    <string name="gt_desc">larger</string>
+    <string name="h_ph_ng_tr_nh">Equations</string>
+    <string name="hand_calc">Hand Calculator</string>
+    <string name="he_vo_nghiem">No solution</string>
+    <string name="he_vo_so_nghiem">wealth of experience</string>
+    <string name="header_calc">Calculator</string>
+    <string name="help">Help</string>
+    <string name="help_derivative" formatted="false">&lt;p>Enter the expression in the box, use the phone keypad to enter.&lt;/p> &lt;p>Example: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p> &lt;p>sqrt (x) + 2&lt;/p> &lt;p>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2a ^ 2-1&lt;/p> &lt;p>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3m ^ 3 + log2 (x)&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;p>After entering the expression, press and derivative button.&lt;/p> &lt;p>If you want to maximize the results can use the button in the lower right edge of the screen.&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;table width=100%> &lt;tbody> &lt;tr> &lt;td colspan=2 width=100%> &lt;p>LEARN SOME OPERATORS SUPPORT&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>+ (Plus sign)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Drain&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>- (minus)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Minus&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>* (asterisk)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Ring&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>/ (Slash)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Divide&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>% (Percent sign)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Percent&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>^ (Caret)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Exponentiation&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>! (Exclamation)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Factorial&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p> &lt;table> &lt;tbody> &lt;tr> &lt;td colspan=2 width=590> &lt;p>Constants (keyboard input, not case sensitive or often)&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>Pi&lt;/p> &lt;/td> &lt;td width=337> &lt;p>pi&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>HEY&lt;/p> &lt;/td> &lt;td width=337> &lt;p>e&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>i&lt;/p> &lt;/td> &lt;td width=337> &lt;p>Imaginary unit (for complex numbers)&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p> &lt;table width=100%> &lt;tbody> &lt;tr> &lt;td colspan=2 width=100%> &lt;p>SIGHT AND MATHEMATICS CONTENT IS SUPPORTED&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sqrt (x) or &amp;radic; (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the positive square root of x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Abs (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the absolute value of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>sin (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the sine of angle x gave&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>cos (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the cosine of the angle x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>tan (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the tangent of the angle x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>asin (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the inverse cosine of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>acos (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the arccosine of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>atan (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the tangent of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Birth (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>birth function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>cosh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>cosh function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>C (n, k)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>combinations of n elements k convolution&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>P (n, k)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>conformable convolution of n element k&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>tanh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>fishy function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>asinh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Birth inverse function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>acosh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>the inverse of the function cosh&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>atanh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>the inverse of the function fishy&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>ln (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit nature of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit nature of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log2 (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic base 2-rit of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log10 (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit of a base 10 number.&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>exp (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the power of e with a certain exponent x.&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Celi (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Rounds a number away from 0&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Floor (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Get the integer part of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sign (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Ham sign&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Max (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the largest value in two numbers a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Min (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the smallest value in two numbers a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Rnd (a)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>random function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>GDC (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>The least common multiple of a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sign (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Determination of certain marks. Returns 1 if the number is positive, zero (0) if the number is 0, and -1 if negative.&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p></string>
+    <string name="help_expression" formatted="false">&lt;p>Enter the expression in the box, use the phone keypad to enter.&lt;/p> &lt;p>Example: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p> &lt;p>sqrt (x) + 2&lt;/p> &lt;p>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2a ^ 2-1&lt;/p> &lt;p>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3m ^ 3 + log2 (x)&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;p>After entering the expression, press the blue button.&lt;/p> &lt;p>If you want to maximize the results can use the button in the lower right edge of the screen.&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;table width=100%> &lt;tbody> &lt;tr> &lt;td colspan=2 width=100%> &lt;p>LEARN SOME OPERATORS SUPPORT&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>+ (Plus sign)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Drain&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>- (minus)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Minus&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>* (asterisk)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Ring&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>/ (Slash)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Divide&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>% (Percent sign)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Percent&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>^ (Caret)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Exponentiation&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>! (Exclamation)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Factorial&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p> &lt;table> &lt;tbody> &lt;tr> &lt;td colspan=2 width=590> &lt;p>Constants (keyboard input, not case sensitive or often)&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>Pi&lt;/p> &lt;/td> &lt;td width=337> &lt;p>pi&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>HEY&lt;/p> &lt;/td> &lt;td width=337> &lt;p>e&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>i&lt;/p> &lt;/td> &lt;td width=337> &lt;p>Imaginary unit (for complex numbers)&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p> &lt;table width=100%> &lt;tbody> &lt;tr> &lt;td colspan=2 width=100%> &lt;p>SIGHT AND MATHEMATICS CONTENT IS SUPPORTED&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sqrt (x) or &amp;radic; (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the positive square root of x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Abs (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the absolute value of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>sin (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the sine of angle x gave&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>cos (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the cosine of the angle x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>tan (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the tangent of the angle x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>asin (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the inverse cosine of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>acos (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the arccosine of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>atan (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the tangent of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Birth (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>birth function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>cosh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>cosh function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>C (n, k)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>combinations of n elements k convolution&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>P (n, k)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>conformable convolution of n element k&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>tanh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>fishy function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>asinh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Birth inverse function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>acosh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>the inverse of the function cosh&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>atanh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>the inverse of the function fishy&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>ln (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit nature of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit nature of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log2 (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic base 2-rit of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log10 (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit of a base 10 number.&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>exp (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the power of e with a certain exponent x.&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Celi (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Rounds a number away from 0&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Floor (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Get the integer part of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sign (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Ham sign&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Max (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the largest value in two numbers a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Min (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the smallest value in two numbers a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Rnd (a)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>random function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>GDC (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>The least common multiple of a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sign (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Determination of certain marks. Returns 1 if the number is positive, zero (0) if the number is 0, and -1 if negative.&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p></string>
+    <string name="help_main_calc" formatted="false">&lt;p>Drag right to display the Advanced panel.&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;p>Default computer mode Radian&lt;/p> &lt;p>To calculate sin, cos, tan … in degrees, type sin (30 &amp;deg;), cos (90 &amp;deg;), …&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;p>To convert fractions to decimals and vice versa, select the button [a / b] in science computer screen.&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;p>To calculate the complex, concordant, please switch to fractions.&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;p>Enter the expression and press [Solve] to test&lt;/p> &lt;p>Enter an expression containing variables, and then press [Calc] to define the values ​​of variables.&lt;/p> &lt;p>[Fact] used to analyze the prime factor&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;table width=100%> &lt;tbody> &lt;tr> &lt;td colspan=2 width=100%> &lt;p>LEARN SOME OPERATORS SUPPORT&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>+ (Plus sign)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Drain&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>- (minus)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Minus&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>* (asterisk)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Ring&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>/ (Slash)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Divide&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>% (Percent sign)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Percent&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>^ (Caret)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Exponentiation&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=42%> &lt;p>! (Exclamation)&lt;/p> &lt;/td> &lt;td width=57%> &lt;p>Factorial&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p> &lt;table> &lt;tbody> &lt;tr> &lt;td colspan=2 width=590> &lt;p>Constants (keyboard input, not case sensitive or often)&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>Pi&lt;/p> &lt;/td> &lt;td width=337> &lt;p>pi&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>HEY&lt;/p> &lt;/td> &lt;td width=337> &lt;p>e&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=253> &lt;p>i&lt;/p> &lt;/td> &lt;td width=337> &lt;p>Imaginary unit&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p> &lt;table width=100%> &lt;tbody> &lt;tr> &lt;td colspan=2 width=100%> &lt;p>SIGHT AND MATHEMATICS CONTENT IS SUPPORTED&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sqrt (x) or &amp;radic; (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the positive square root of x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Abs (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the absolute value of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>sin (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the sine of angle x gave&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>cos (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the cosine of the angle x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>tan (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the tangent of the angle x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>asin (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the inverse cosine of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>acos (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the arccosine of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>atan (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the tangent of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Birth (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>birth function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>cosh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>cosh function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>CNK (n, k)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>combinations of n elements k convolution&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>PNK (n, k)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>conformable convolution of n element k&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>tanh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>fishy function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>asinh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Birth inverse function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>acosh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>the inverse of the function cosh&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>atanh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>the inverse of the function fishy&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>ln (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit nature of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit nature of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log2 (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic base 2-rit of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log10 (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit of a base 10 number.&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>exp (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the power of e with a certain exponent x.&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Celi (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Rounds a number away from 0&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Floor (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Get the integer part of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sign (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Ham sign&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Max (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the largest value in two numbers a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Min (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the smallest value in two numbers a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Rnd (a)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>random function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>GDC (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>The least common multiple of a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sign (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Determination of certain marks. Returns 1 if the number is positive, zero (0) if the number is 0, and -1 if negative.&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p></string>
+    <string name="help_solve_equation" formatted="false">"&lt;p>Enter the equation in the box, using the phone's keypad.&lt;/p> &lt;p>Equation offline x.&lt;/p> &lt;p>Example: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2x ^ 2 + 3x + 1 = 0&lt;/p> &lt;p>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3x-6/2 + 3 + a = 2&lt;/p> &lt;p>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1 / 2x ^ 3 + 1 / x&lt;/p> &lt;p>If you do not enter an equals sign '=', the computer will automatically understand the equation is zero.&lt;/p> &lt;p>After entering the equation, press the test button and wait for the computer to find solutions.&lt;/p> &lt;p>If you want to maximize the results can use the button in the lower right edge of the screen.&lt;/p> &lt;p>&amp;nbsp;&lt;/p> &lt;table width=100%> &lt;tbody> &lt;tr> &lt;td colspan=2 width=100%> &lt;p>&lt;strong>LEARN SOME OPERATORS SUPPORT&lt;/strong>&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>+ (Plus sign)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Drain&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>- (minus)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Minus&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>* (asterisk)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Ring&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>/ (Slash)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Divide&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>% (Percent sign)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Percent&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>^ (Caret)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Exponentiation&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>! (Exclamation)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Factorial&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p> &lt;table> &lt;tbody> &lt;tr> &lt;td colspan=2 width=590> &lt;p>&lt;strong>Constants (keyboard input, not case sensitive or often)&lt;/strong>&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=295> &lt;p>Pi&lt;/p> &lt;/td> &lt;td width=295> &lt;p>pi&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=295> &lt;p>HEY&lt;/p> &lt;/td> &lt;td width=295> &lt;p>e&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=295> &lt;p>i&lt;/p> &lt;/td> &lt;td width=295> &lt;p>Imaginary unit (for complex numbers)&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p> &lt;table width=100%> &lt;tbody> &lt;tr> &lt;td colspan=2 width=100%> &lt;p>&lt;strong>SIGHT AND MATHEMATICS CONTENT IS SUPPORTED&lt;/strong>&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sqrt (x) or &amp;radic; (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the positive square root of x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Abs (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the absolute value of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>sin (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the sine of angle x gave&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>cos (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the cosine of the angle x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>tan (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the tangent of the angle x&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>asin (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the inverse cosine of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>acos (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the arccosine of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>atan (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the tangent of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Birth (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>birth function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>cosh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>cosh function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>C (n, k)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>combinations of n elements k convolution&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>P (n, k)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>conformable convolution of n element k&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>tanh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>fishy function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>asinh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Birth inverse function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>acosh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>the inverse of the function cosh&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>atanh (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>the inverse of the function fishy&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>ln (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit nature of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit nature of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log2 (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic base 2-rit of some&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>log10 (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns logarithmic-rit of a base 10 number.&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>exp (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the power of e with a certain exponent x.&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Celi (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Rounds a number away from 0&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Floor (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Get the integer part of a number&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sign (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Ham sign&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Max (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the largest value in two numbers a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Min (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Returns the smallest value in two numbers a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Rnd (a)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>random function&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>GDC (a, b)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>The least common multiple of a and b&lt;/p> &lt;/td> &lt;/tr> &lt;tr> &lt;td width=43%> &lt;p>Sign (x)&lt;/p> &lt;/td> &lt;td width=56%> &lt;p>Determination of certain marks. Returns 1 if the number is positive, zero (0) if the number is 0, and -1 if negative.&lt;/p> &lt;/td> &lt;/tr> &lt;/tbody> &lt;/table> &lt;p>&amp;nbsp;&lt;/p>"</string>
+    <string name="hide">Hide</string>
+    <string name="hideHistory">Hide history</string>
+    <string name="history">History</string>
+    <string name="how_to_use">Using</string>
+    <string name="huong_dan">Manual</string>
+    <string name="if_desc">material implication</string>
+    <string name="iff_desc">if and only if</string>
+    <string name="imp_desc">Implication</string>
+    <string name="in_position">in position</string>
+    <string name="inptu_disequationn">Enter any equation</string>
+    <string name="input">Insert information</string>
+    <string name="input_analyze_here">Enter polynomial needs analysis in this line!</string>
+    <string name="input_caption">Enter function</string>
+    <string name="input_der_here">Enter derivative functions needed in this line!</string>
+    <string name="input_disequation">Enter any equation</string>
+    <string name="input_equation">Enter the equation</string>
+    <string name="input_equation_here">Enter equation need find root in this line!</string>
+    <string name="input_expand_here">Enter the expression need expand in this line!</string>
+    <string name="input_expression">Enter expression</string>
+    <string name="input_fraction">Enter fractions</string>
+    <string name="input_graph">Enter function</string>
+    <string name="input_graph_here">Click here to add more functions</string>
+    <string name="input_integrate_here">Enter the function to integrate on this line!</string>
+    <string name="input_limit">Input limit of function</string>
+    <string name="input_primitive_here">Enter the function to primitive on this line!</string>
+    <string name="input_simplify_here">Enter the expression to simplify in this line!</string>
+    <string name="input_system_equation">Enter system equations</string>
+    <string name="inside">Inside</string>
+    <string name="integrate">Integrate</string>
+    <string name="interaction">Intersecting</string>
+    <string name="interpolate">Interpolate</string>
+    <string name="is_prime">Check Is primes</string>
+    <string name="kh_ng_h_tr_ocr">No support for OCR</string>
+    <string name="l_ch_chu_n">Standard deviation</string>
+    <string name="lcm_description">Greatest common divisor</string>
+    <string name="leftParenDesc">left parenthesis</string>
+    <string name="leq_desc">Less than or equal</string>
+    <string name="lgDesc">logarithm</string>
+    <string name="lic_desc">Open source license application</string>
+    <string name="limit">Find Limit</string>
+    <string name="limit_from_desc">Limit begin</string>
+    <string name="limit_to_desc">Limit end</string>
+    <string name="limit_x">x -></string>
+    <string name="line">Straight line</string>
+    <string name="line_width">Trail width function</string>
+    <string name="linear_system">Equations</string>
+    <string name="lnDesc">natural logarithm</string>
+    <string name="logic_calculator">Computer base</string>
+    <string name="lt_desc">Smaller</string>
+    <string name="lucas_n">Nth number lucas</string>
+    <string name="lucas_number">Lucas number</string>
+    <string name="math_error">Math Error</string>
+    <string name="matrix">Matrix</string>
+    <string name="matrix_op_inverse_a">Inverse A</string>
+    <string name="matrix_op_inverse_b">Inverse B</string>
+    <string name="matrix_op_tranpose_a">Trans A</string>
+    <string name="matrix_op_tranpose_b">Trans B</string>
+    <string name="maximum">The maximum value</string>
+    <string name="minusDesc">minus</string>
+    <string name="more">More …</string>
+    <string name="more_functions">Add function</string>
+    <string name="msg_delete_matrix">Do you want to create the matrix, this job will delete the existing matrix?</string>
+    <string name="mulDesc">multiplication</string>
+    <string name="n_i_suy">interpolate</string>
+    <string name="name">Name</string>
+    <string name="nand_desc">NAND - Sheffer stroke</string>
+    <string name="nav_descartes">2D geometry</string>
+    <string name="nav_graph">Graph</string>
+    <string name="neg_desc">Negation</string>
+    <string name="neq_desc">Different</string>
+    <string name="next_prime">The next prime number</string>
+    <string name="nh_p_c_c_n_c_a_h">Enter the variable of the system of equations</string>
+    <string name="nh_p_c_c_ph_ng_tr_nh_t_o_th_nh_h_ph">"Enter equations forming a system of equations, then enter the equation system hidden 
+ For example: press the [more], then enter the following equation 3: 
+          x + y + z = 2 
+          x - y + 2z = 6 
+          z + y = 2 
+ Then enter the hidden looking for is x, y, z 
+ Press [find experimental]"</string>
+    <string name="nh_p_d_li_u">Insert information …</string>
+    <string name="nh_p_d_li_u_c_ch_nhau_b_i_d_u_ph_y_nv_d_12_232_43_4">"Data entry separated by a comma (,) 
+ For example: 12, 232.43, 4"</string>
+    <string name="nhap_so_can_chuyen">Enter the required switch:</string>
+    <string name="nimp_desc">Material nonimplication</string>
+    <string name="noFunDisp">There is no function to display</string>
+    <string name="no_data">No data</string>
+    <string name="no_root">Not find a solution</string>
+    <string name="nor_desc">Logical NOR</string>
+    <string name="not_desc">not</string>
+    <string name="not_expression">Enter expression syntax error</string>
+    <string name="not_in_circle">None of the circle</string>
+    <string name="not_input">Unknown data</string>
+    <string name="not_input_equation">Unknown equations</string>
+    <string name="not_input_expression">Unknown expressions</string>
+    <string name="not_interaction">No intersections</string>
+    <string name="not_line">Not a straight line</string>
+    <string name="not_params">No variable for solving equations &lt;/br> Please enter variable x&lt;/br> Example 2x + 1 or 2x^2 + x - 2</string>
+    <string name="not_support_scan">The current version does not support</string>
+    <string name="open_source_licenses">Open source licenses</string>
+    <string name="or_desc">logical (inclusive) disjunction</string>
+    <string name="out_latex">Save as LaTeX</string>
+    <string name="out_mathml">Save as MathML</string>
+    <string name="out_text">Save as Text</string>
+    <string name="outside">Bên ngoài</string>
+    <string name="parallel">Parallel</string>
+    <string name="ph_n_t_ch_bi_u_th_c_ch_a_m">Analysis Expressions containing caps</string>
+    <string name="ph_n_t_ch_h_m_l_ng_gi_c">Analysis trigonometric functions</string>
+    <string name="piDesc">pi</string>
+    <string name="please_wait">Please wait until loaded</string>
+    <string name="plese_input">Please enter data</string>
+    <string name="plusDesc">Summation</string>
+    <string name="point">Point</string>
+    <string name="polygon">polygon</string>
+    <string name="polynomial_solve">Find a polynomial of degree n Test</string>
+    <string name="powerDesc">power</string>
+    <string name="power_expand">Expanding expression hat</string>
+    <string name="pref_title_font">Font</string>
+    <string name="pref_title_text_style">Font</string>
+    <string name="pref_title_theme">Theme</string>
+    <string name="pref_user_interface">Theme</string>
+    <string name="prime_number">Prime</string>
+    <string name="primitive">Primitive</string>
+    <string name="process">Handling</string>
+    <string name="pt_bac_ba">Cubic equation</string>
+    <string name="pt_bac_hai">Quadratic</string>
+    <string name="pt_bac_nhat">Superlative equation</string>
+    <string name="push_analyze_button">Press this button to analyze the factorization of polynomials, the calculation process can take longer for first-time initialization data</string>
+    <string name="push_button_primitive">Then press the button to start the calculation, the calculation may take a long time for the first time initialization data</string>
+    <string name="push_der_button">Press this button to derivative function, the calculation process can take longer for first-time initialization data</string>
+    <string name="push_expand_button">Click this button to expand the expression, the calculation process can take longer for first-time initialization data</string>
+    <string name="push_integrate_button">Press this button to integrals, calculation process can take longer for first-time initialization data</string>
+    <string name="push_simplify_button">Press this button to shortened expression, the calculation process can take longer for first-time initialization data</string>
+    <string name="push_solve_button">Press this button to find root the equation, the calculation process can take longer for first-time initialization data</string>
+    <string name="rate_desc">Rate this applications on the Google Play Store</string>
+    <string name="rate_this_app">Rate this app</string>
+    <string name="real_to_fraction">Decimal ↔ Fraction</string>
+    <string name="reason">Reason</string>
+    <string name="redo">Redo</string>
+    <string name="remove_equation">Delete equation</string>
+    <string name="remove_from_history">Delete history</string>
+    <string name="result">Result</string>
+    <string name="rightParenDesc">Closing parenthesis</string>
+    <string name="row">row</string>
+    <string name="s_c_bi_t">Special Issue</string>
+    <string name="save_fail">Failure</string>
+    <string name="save_success">Save success</string>
+    <string name="science_calculator">Computer science</string>
+    <string name="settings">Setting</string>
+    <string name="showHistory">Show history</string>
+    <string name="simplify">Simplify</string>
+    <string name="simplify_equation">Simplify expression</string>
+    <string name="sinDesc">sin</string>
+    <string name="solve">Solve</string>
+    <string name="solve_equation">Solve the equation</string>
+    <string name="solve_for_var">Solve equations with variable (x, y, z, …):</string>
+    <string name="solve_system_equation">Solve the system of equations</string>
+    <string name="speak_expression">Read expressions</string>
+    <string name="special_number">Especially prime numbers, fibonacci, …</string>
+    <string name="speech_not_supported">does not support voice recognition</string>
+    <string name="sqrtDesc">Square root</string>
+    <string name="stirling_number">Stirling numbers (type 2)</string>
+    <string name="syntan_error">Syntax Error</string>
+    <string name="t_c_gi_tr_n_l_duy">Author: LE DUY TRAN</string>
+    <string name="t_ng">sum</string>
+    <string name="table">Statistical</string>
+    <string name="tanDesc">Tangent</string>
+    <string name="tangent">tangent</string>
+    <string name="tapFun">Choose to function</string>
+    <string name="text2">Please enter the correct syntax and contains hidden equation x</string>
+    <string name="text_copied_toast">Text copied.</string>
+    <string name="th_m_ph_ng_tr_nh">More</string>
+    <string name="theme">Display</string>
+    <string name="thpt_nguy_n_b_nh_khi_m">Nguyen Binh Khiem High School</string>
+    <string name="title_activity_app_about">Introduction NCalc +</string>
+    <string name="title_activity_chuyen_doi_co_so">Radix conversion</string>
+    <string name="title_activity_geometry">2D Cartesian geometry</string>
+    <string name="title_activity_graph">Graph</string>
+    <string name="title_activity_input">Function</string>
+    <string name="title_activity_linear_system">Equations</string>
+    <string name="title_activity_matrix_calculator">Matrix</string>
+    <string name="title_activity_phuong_trinh_bac_ba">Cubic equation</string>
+    <string name="title_activity_phuong_trinh_bac_hai">Quadratic</string>
+    <string name="title_activity_phuong_trinh_bac_nhat">Superlative equation</string>
+    <string name="title_activity_real_to_fraction">Decimal ↔ Fraction</string>
+    <string name="title_activity_settings">Setting</string>
+    <string name="title_activity_solve_equation">Find equations</string>
+    <string name="title_activity_special_number">Special Number</string>
+    <string name="title_activity_statistic">Statistical</string>
+    <string name="title_activity_unit_converter_acitvity">Unit Converter</string>
+    <string name="title_activity_unit_converter_child">Unit Converter</string>
+    <string name="title_activity_windowsettings">Setting</string>
+    <string name="title_diseqaution_activity">Solve disequation</string>
+    <string name="to">to</string>
+    <string name="tranmiss">trip</string>
+    <string name="trig_expand">Analysis trigonometric functions</string>
+    <string name="trig_to_exp">Exponential → trigonometric functions</string>
+    <string name="undo">Prev</string>
+    <string name="update">Save</string>
+    <string name="update_new">"* Primitive =========================== Integrate 
+ Analysis prime factors [Fact] n Support analyzed data entry error n LCM greatest common divisor (a, b, …)
+ 2 display modes: Mode fractions - decimals [a / b] n"</string>
+    <string name="ve">Painting</string>
+    <string name="vecter">vector</string>
+    <string name="vector">vector</string>
+    <string name="vertex">vector</string>
+    <string name="vo_nghiem">The equation has no solution</string>
+    <string name="vo_so_nghiem">Equations infinitely many solutions</string>
+    <string name="what_new">What new?</string>
+    <string name="windowsettings">Setting</string>
+    <string name="windowsettings_auto_calc_ymin_ymax">Automatically calculates the distance x and y</string>
+    <string name="windowsettings_grid">Drawing grid</string>
+    <string name="xnor_desc">exclusive or (XOR)</string>
+    <string name="xoa">Erase</string>
+    <string name="xor_desc">exclusive disjunction</string>
+    <string name="yes">Yes</string>
+    <string name="zoomin">Zoom in</string>
+    <string name="zoomout">Zoom out</string>
+    <string name="A">a</string>
+    <string name="ALLADI_GRINSTEAD_STR">[AG]</string>
+    <string name="APERY_STR">[Dz3]</string>
+    <string name="B">b</string>
+    <string name="BACKHOUSE_STR">[Bh]</string>
+    <string name="BERNSTEIN_STR">[B]</string>
+    <string name="BRAUN_PRIME_QUADR_STR">[B4]</string>
+    <string name="BRAUN_TWIN_PRIME_STR">[B2]</string>
+    <string name="BRUIJN_NEWMAN_STR">[L]</string>
+    <string name="C">c</string>
+    <string name="CAHEN_STR">[C]</string>
+    <string name="CATALAN_STR">[K]</string>
+    <string name="D">D</string>
+    <string name="E">E</string>
+    <string name="EMBREE_TREFETHEN_STR">[B*]</string>
+    <string name="ERDOS_BORWEIN_STR">[EB]</string>
+    <string name="EULER_MASCHERONI_STR">[g]</string>
+    <string name="F">F</string>
+    <string name="FEIGENBAUM_ALFA_STR">[a]</string>
+    <string name="FEIGENBAUM_DELTA_STR">[D]</string>
+    <string name="FRANSEN_ROBINSON_STR">[F]</string>
+    <string name="GAUSS_KUZMIN_WIRSING_STR">[l]</string>
+    <string name="GOLDEN_RATIO_STR">[p]</string>
+    <string name="GOLOMB_DICKMAN_STR">[lm]</string>
+    <string name="GOMPERTZ_STR">[G]</string>
+    <string name="HAFNER_SARNAK_MCCURLEY_STR">[s]</string>
+    <string name="KHINCHIN_STR">[Kh]</string>
+    <string name="LANDAU_RAMANUJAN_STR">[K*]</string>
+    <string name="LANDAU_STR">[La]</string>
+    <string name="LAPLACE_LIMIT_STR">[Ll]</string>
+    <string name="LENGYEL_STR">[L*]</string>
+    <string name="LEVY_STR">[L.]</string>
+    <string name="LI2_STR">[li2]</string>
+    <string name="LIEB_QUARE_ICE_STR">[L2]</string>
+    <string name="MEISSEL_MERTEENS_STR">[M1]</string>
+    <string name="MILLS_STR">[T]</string>
+    <string name="MRB_STR">[M]</string>
+    <string name="NIVEN_STR">[Nv]</string>
+    <string name="OMEGA_STR">[O]</string>
+    <string name="PARABOLIC_STR">[P2]</string>
+    <string name="PLASTIC_STR">[r]</string>
+    <string name="PORTER_STR">[Pt]</string>
+    <string name="RAMANUJAN_SOLDNER_STR">[m]</string>
+    <string name="SIERPINSKI_STR">[Ks]</string>
+    <string name="SUBSCRIPT_ONE">₁</string>
+    <string name="SUPERSCRIPT_EIGHT">⁸</string>
+    <string name="SUPERSCRIPT_EQUALS_SIGN">⁼</string>
+    <string name="SUPERSCRIPT_FIVE">⁵</string>
+    <string name="SUPERSCRIPT_FOUR">⁴</string>
+    <string name="SUPERSCRIPT_LATIN_SMALL_LETTER_N">ⁿ</string>
+    <string name="SUPERSCRIPT_LEFT_PARENTHESIS">⁽</string>
+    <string name="SUPERSCRIPT_MINUS">⁻</string>
+    <string name="SUPERSCRIPT_NINE">⁹</string>
+    <string name="SUPERSCRIPT_ONE">¹</string>
+    <string name="SUPERSCRIPT_PLUS_SIGN">⁺</string>
+    <string name="SUPERSCRIPT_RIGHT_PARENTHESIS">⁾</string>
+    <string name="SUPERSCRIPT_SEVEN">⁷</string>
+    <string name="SUPERSCRIPT_SIX">⁶</string>
+    <string name="SUPERSCRIPT_THREE">³</string>
+    <string name="SUPERSCRIPT_TWO">²</string>
+    <string name="SUPERSCRIPT_ZERO">⁰</string>
+    <string name="TWIN_PRIME_STR">[C2]</string>
+    <string name="VISWANATH_STR">[K.]</string>
+    <string name="X">X</string>
+    <string name="Y">Y</string>
+    <string name="a">a =</string>
+    <string name="a_b">a/b</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abs">abs</string>
+    <string name="acosh">acosh</string>
+    <string name="acot">acot</string>
+    <string name="add2">＋</string>
+    <string name="an_giang">Châu Thành - An Giang</string>
+    <string name="and">&amp;&amp;</string>
+    <string name="and_symbol">∧</string>
+    <string name="android">Android</string>
+    <string name="android_design">Android Support Design</string>
+    <string name="android_design_lic">@string/aosp_lic</string>
+    <string name="android_lic">@string/apache_license_v2_full</string>
+    <string name="android_tool">Android Tool (SDK)</string>
+    <string name="android_tool_lic">@string/apache_license_v2_full</string>
+    <string name="ans">ans</string>
+    <string name="aosp_lic">"/*
+ * Copyright © 2013 The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the License);
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an AS IS BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */ 
+"</string>
+    <string name="apache_license2">Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.</string>
+    <string name="apache_license_v2_full">Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION 1. Definitions. License shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document. Licensor shall mean the copyright owner or entity authorized by the copyright owner that is granting the License. Legal Entity shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, control means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity. You (or Your) shall mean an individual or Legal Entity exercising permissions granted by this License. Source form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files. Object form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types. Work shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below). Derivative Works shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof. Contribution shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, submitted means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as Not a Contribution. Contributor shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work. 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed. 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions: You must give any other recipients of the Work or Derivative Works a copy of this License; and You must cause any modified files to carry prominent notices stating that You changed the files; and You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and If the Work includes a NOTICE text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License. 5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions. 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file. 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License. 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages. 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability. END OF TERMS AND CONDITIONS</string>
+    <string name="app_name">NCalc+</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appcompat">Android Support App Compat</string>
+    <string name="appcompat_lic">@string/aosp_lic</string>
+    <string name="arccos">acos</string>
+    <string name="arcsin">asin</string>
+    <string name="arctan">atan</string>
+    <string name="areaunitsqcm">square cm</string>
+    <string name="areaunitsqkm">square km</string>
+    <string name="areaunitsqm">square m</string>
+    <string name="areaunitsqmiles">square miles</string>
+    <string name="areaunitsqmm">square mm</string>
+    <string name="areaunitsqyard">square yards</string>
+    <string name="arg">arg</string>
+    <string name="asinh">asinh</string>
+    <string name="atanh">atanh</string>
+    <string name="avg">avg</string>
+    <string name="b">b =</string>
+    <string name="bin">Bin</string>
+    <string name="binDesc">Binary</string>
+    <string name="bin_separator">" "</string>
+    <string name="binomial">C</string>
+    <string name="bitrateunitbits">Bit (b)/s</string>
+    <string name="bitrateunitbytes">Byte (B)/s</string>
+    <string name="bitrateunitgigabits">GigaBit (Gb)/s</string>
+    <string name="bitrateunitgigabytes">GigaByte (GB)/s</string>
+    <string name="bitrateunitkilobits">KiloBit (Kb)/s</string>
+    <string name="bitrateunitkilobytes">KiloByte (KB)/s</string>
+    <string name="bitrateunitmegabits">MegaBit (Mb)/s</string>
+    <string name="bitrateunitmegabytes">MegaByte (MB)/s</string>
+    <string name="bitrateunitterabits">TeraBit (Tb)/s</string>
+    <string name="bitrateunitterabytes">TeraByte (TB)/s</string>
+    <string name="bold">bold</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="butterknife">Butter Knife</string>
+    <string name="butterknife_lic">@string/apache_license_v2_full</string>
+    <string name="camera">CAMERA</string>
+    <string name="cardview">Android Support CardView</string>
+    <string name="cardview_lic">@string/aosp_lic</string>
+    <string name="cbrt">cbrt</string>
+    <string name="ceil">ceil</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="cimp">←</string>
+    <string name="circularreveal">Circular Reveal</string>
+    <string name="circularreveal_lic">"The MIT License (MIT)
+ 
+ Copyright © 2014 Ozodrukh
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the Software), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ 
+ The above copyright notice and this permission notice shall be included in all
+ copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ SOFTWARE.
+"</string>
+    <string name="clear">CLR</string>
+    <string name="clr">clr</string>
+    <string name="cmd">Command</string>
+    <string name="cmplx">CMP</string>
+    <string name="cnimp">&lt;/-</string>
+    <string name="coma">,</string>
+    <string name="comma">,</string>
+    <string name="common_math">Commons Math: The Apache Commons Mathematics Library</string>
+    <string name="common_math_lic">@string/apache_license_v2_full</string>
+    <string name="const_imaginary">i</string>
+    <string name="cos">cos</string>
+    <string name="cosh">cosh</string>
+    <string name="cot">cot</string>
+    <string name="crossProduct">Cross</string>
+    <string name="ctanh">ctanh</string>
+    <string name="cube_equation">$$ax^3 + bx^2 + cx + d = 0$$</string>
+    <string name="dec">Dec</string>
+    <string name="decDesc">Decimal</string>
+    <string name="dec_point">.</string>
+    <string name="dec_separator">,</string>
+    <string name="default_web_client_id">661933145827-kelu32a5v9n079ncq5ohf6gnklskvtii.apps.googleusercontent.com</string>
+    <string name="degree_sym">°</string>
+    <string name="degrees">DEG</string>
+    <string name="del">DELETE</string>
+    <string name="delete">DEL</string>
+    <string name="delta">" Δ = "</string>
+    <string name="der">der</string>
+    <string name="der_minus">der-</string>
+    <string name="der_plus">der+</string>
+    <string name="deri">Deri</string>
+    <string name="det">det</string>
+    <string name="determinantDesc">det</string>
+    <string name="dev_mail">Tranleduy1233@gmail.com</string>
+    <string name="difb">difb</string>
+    <string name="diff">D</string>
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    <string name="div">/</string>
+    <string name="dot">.</string>
+    <string name="dotProduct">Dot</string>
+    <string name="dx">dX</string>
+    <string name="dx_dy">Dx/dy</string>
+    <string name="dy">dY</string>
+    <string name="dydx">Dy/dx</string>
+    <string name="e">e</string>
+    <string name="easter_egg">Always take a banana to a party, Rose: bananas are good!</string>
+    <string name="eigenvalue">Eigen</string>
+    <string name="eigenvalueDesc">Eigenvalues</string>
+    <string name="email_tranleduy1233_gmail_com">Email: Tranleduy1233@Gmail.com</string>
+    <string name="energyunitcalories">calories</string>
+    <string name="energyunitjoules">joules</string>
+    <string name="energyunitkilocalories">kilocalories</string>
+    <string name="enter">↓</string>
+    <string name="eq">==</string>
+    <string name="equal">=</string>
+    <string name="eqv">↔</string>
+    <string name="euler_phi">∅</string>
+    <string name="exp">exp</string>
+    <string name="exp_desc">Exp</string>
+    <string name="fab_clan">Floating Action Button</string>
+    <string name="fab_clan_lic">@string/apache_license_v2_full</string>
+    <string name="fact">Fact</string>
+    <string name="factorial">!</string>
+    <string name="firebase_database_url">https://calculator-a283d.firebaseio.com</string>
+    <string name="floor">floor</string>
+    <string name="fun_arccos">acos</string>
+    <string name="fun_arccot">acot</string>
+    <string name="fun_arccsc">acsc</string>
+    <string name="fun_arcsec">asec</string>
+    <string name="fun_arcsin">asin</string>
+    <string name="fun_arctan">atan</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_cot">cot</string>
+    <string name="fun_csc">csc</string>
+    <string name="fun_det">det</string>
+    <string name="fun_inverse">inver</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_norm">norm</string>
+    <string name="fun_percentage">%</string>
+    <string name="fun_polar">polar</string>
+    <string name="fun_sec">sec</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="fun_trace">trace</string>
+    <string name="fun_transpose">trans</string>
+    <string name="function_clear">Clear</string>
+    <string name="gcd">GCD</string>
+    <string name="gcd_up">GCD</string>
+    <string name="gcm_defaultSenderId">661933145827</string>
+    <string name="geq">≥</string>
+    <string name="google_api_key">AIzaSyBkku1p2jdDp_xfQyIbusO7wgZDf7Zdqdw</string>
+    <string name="google_app_id">1:661933145827:android:56243afa293ddf23</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBkku1p2jdDp_xfQyIbusO7wgZDf7Zdqdw</string>
+    <string name="google_storage_bucket">calculator-a283d.appspot.com</string>
+    <string name="gt">></string>
+    <string name="hex">Hex</string>
+    <string name="hexDesc">Hexadecimal</string>
+    <string name="hexPanel">Hex panel</string>
+    <string name="hex_separator">" "</string>
+    <string name="i">i</string>
+    <string name="iff">iff</string>
+    <string name="iff_symbol">⇔</string>
+    <string name="imp">imp</string>
+    <string name="implies_desc">→</string>
+    <string name="inf">Infinity</string>
+    <string name="integral">∫</string>
+    <string name="italic">italic</string>
+    <string name="jsr305">JSR305 Annotations for Findbugs</string>
+    <string name="jsr305_lic">@string/apache_license_v2_full</string>
+    <string name="key_data">data</string>
+    <string name="key_name">NAME</string>
+    <string name="key_pos">POS</string>
+    <string name="key_pref_font">key_pref_font</string>
+    <string name="key_pref_style">key_pref_text_style</string>
+    <string name="key_pref_theme">pref_theme</string>
+    <string name="key_pref_update">new_update</string>
+    <string name="latex">LaTeX</string>
+    <string name="lcm">LCM</string>
+    <string name="leftParen">(</string>
+    <string name="lengthunitcm">cm</string>
+    <string name="lengthunitdm">dm</string>
+    <string name="lengthunitfeet">ft</string>
+    <string name="lengthunitinch">inch</string>
+    <string name="lengthunitkm">km</string>
+    <string name="lengthunitm">m</string>
+    <string name="lengthunitmicrom">µm</string>
+    <string name="lengthunitmile">mile</string>
+    <string name="lengthunitmm">mm</string>
+    <string name="lengthunitnm">nm</string>
+    <string name="lengthunitpm">pm</string>
+    <string name="leq">≤</string>
+    <string name="lg">log</string>
+    <string name="linear_equation">$$ax + b = 0$$</string>
+    <string name="linear_inequation" />
+    <string name="linear_system_equation_2">$$ \\left\\{ \\begin{matrix} a_1x + b_1y = c_1 \\\\ a_2x + b_2y = c_2 \\end{matrix} \\right. $$</string>
+    <string name="linear_system_equation_3">$$\\left \\{ \\begin{matrix} a_1x + b_1y + c_1z = d_1 \\\\ a_2x + b_2y + c_2z = d_2 \\\\ a_3x + b_3y + c_3z = d_1 \\end{matrix} \\right. $$</string>
+    <string name="ln">ln</string>
+    <string name="lock">Lock page</string>
+    <string name="log10">log10</string>
+    <string name="log2">log2</string>
+    <string name="log4j">Log4j</string>
+    <string name="log4j_lic">@string/apache_license_v2_full</string>
+    <string name="logo">logo</string>
+    <string name="lt">&lt;</string>
+    <string name="mathview">Math View</string>
+    <string name="mathview_lic">@string/apache_license_v2_full</string>
+    <string name="matrix_add">A + B</string>
+    <string name="matrix_inverse">-1</string>
+    <string name="matrix_new">[ ]</string>
+    <string name="matrix_op_add">A + B</string>
+    <string name="matrix_op_mul">A × B</string>
+    <string name="matrix_op_sub">A - B</string>
+    <string name="matrix_separator">.</string>
+    <string name="matrix_transpose">T</string>
+    <string name="max">max</string>
+    <string name="maxi">maxi</string>
+    <string name="mean">mean</string>
+    <string name="mfalse">false</string>
+    <string name="min">min</string>
+    <string name="mini">mini</string>
+    <string name="minus">-</string>
+    <string name="minus2">‐</string>
+    <string name="minus3">‒</string>
+    <string name="minus4">−</string>
+    <string name="minus5">➖</string>
+    <string name="minus_col">-Col</string>
+    <string name="minus_row">-Row</string>
+    <string name="mit_license">The MIT License (MIT) Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+    <string name="mod">mod</string>
+    <string name="monospace">monospace</string>
+    <string name="mpchart">MP Android Chart</string>
+    <string name="mpchart_lic">@string/apache_license_v2_full</string>
+    <string name="mtrue">true</string>
+    <string name="mul">*</string>
+    <string name="name_author">Trần Lê Duy</string>
+    <string name="nand">~&amp;</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="ncalc">$$\\text{NCalc+}$$</string>
+    <string name="neg_symbol">¬</string>
+    <string name="neq">≠</string>
+    <string name="next">Next</string>
+    <string name="nimp">nimp</string>
+    <string name="nineoldandroids">Nine Old Androids</string>
+    <string name="nineoldandroids_lic">@string/apache_license_v2_full</string>
+    <string name="nor">~|</string>
+    <string name="normal">normal</string>
+    <string name="not">!</string>
+    <string name="oct">Oct</string>
+    <string name="op_cbrt">³√</string>
+    <string name="or">||</string>
+    <string name="or_symbol">∨</string>
+    <string name="panel_advanced">Advanced</string>
+    <string name="panel_close_btn">Close</string>
+    <string name="panel_function">Function</string>
+    <string name="panel_graph">Graph</string>
+    <string name="panel_hex">Hexadecimal</string>
+    <string name="panel_matrix">Matrix</string>
+    <string name="panel_trig">Trigonometry</string>
+    <string name="parentheses">( )</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="percentage">%</string>
+    <string name="permutations">P</string>
+    <string name="pi_symbol">π</string>
+    <string name="plus">+</string>
+    <string name="plus_col">+Col</string>
+    <string name="plus_row">+Row</string>
+    <string name="power">^</string>
+    <string name="powerunitgigawatt">Gigawatt</string>
+    <string name="powerunithorsepower">Horse Power (HP)</string>
+    <string name="powerunitkilowatts">Kilowatt</string>
+    <string name="powerunitmegawatt">Megawatt</string>
+    <string name="powerunitwatts">Watt</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="preferences">Preferences</string>
+    <string name="prod">prod</string>
+    <string name="quadratic_equation">asd</string>
+    <string name="rad">RAD</string>
+    <string name="radians">RAD</string>
+    <string name="recycleview">Android Support Recycle View</string>
+    <string name="recycleview_lic">@string/aosp_lic</string>
+    <string name="rightParen">)</string>
+    <string name="rnd">rnd</string>
+    <string name="sans">sans</string>
+    <string name="serif">serif</string>
+    <string name="sgn">sign</string>
+    <string name="sign">sign</string>
+    <string name="sin">sin</string>
+    <string name="sinh">sinh</string>
+    <string name="slf4j_license">"Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED AS  IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+    <string name="solveForX">Solve for X</string>
+    <string name="solveForY">Solve for Y</string>
+    <string name="solve_2">Solve</string>
+    <string name="sqrt_sym">√</string>
+    <string name="std">std</string>
+    <string name="stdi">stdi</string>
+    <string name="step_by_step">Step By Step</string>
+    <string name="sum">sum</string>
+    <string name="support_annotations">Android Annotations Support Library</string>
+    <string name="support_annotations_lic">@string/aosp_lic</string>
+    <string name="support_multidex">Android Multidex Support Library</string>
+    <string name="support_multidex_lic">@string/aosp_lic</string>
+    <string name="support_v4">Android Compatibility Support V4</string>
+    <string name="support_v4_lic">@string/aosp_lic</string>
+    <string name="support_v7">Android Compatibility Support V7</string>
+    <string name="support_v7_lic">@string/aosp_lic</string>
+    <string name="symja">Symja</string>
+    <string name="symja_lic">"
+ GNU LESSER GENERAL PUBLIC LICENSE
+ Version 3, 29 June 2007
+ 
+ Copyright © 2007 Free Software Foundation, Inc. &lt;http://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+ 
+ 
+ This version of the GNU Lesser General Public License incorporates
+ the terms and conditions of version 3 of the GNU General Public
+ License, supplemented by the additional permissions listed below.
+ 
+ 0. Additional Definitions.
+ 
+ As used herein, this License refers to version 3 of the GNU Lesser
+ General Public License, and the GNU GPL refers to version 3 of the GNU
+ General Public License.
+ 
+ The Library refers to a covered work governed by this License,
+ other than an Application or a Combined Work as defined below.
+ 
+ An Application is any work that makes use of an interface provided
+ by the Library, but which is not otherwise based on the Library.
+ Defining a subclass of a class defined by the Library is deemed a mode
+ of using an interface provided by the Library.
+ 
+ A Combined Work is a work produced by combining or linking an
+ Application with the Library. The particular version of the Library
+ with which the Combined Work was made is also called the Linked
+
+Version.
+ 
+ The Minimal Corresponding Source for a Combined Work means the
+ Corresponding Source for the Combined Work, excluding any source code
+ for portions of the Combined Work that, considered in isolation, are
+ based on the Application, and not on the Linked Version.
+ 
+ The Corresponding Application Code for a Combined Work means the
+ object code and/or source code for the Application, including any data
+ and utility programs needed for reproducing the Combined Work from the
+ Application, but excluding the System Libraries of the Combined Work.
+ 
+ 1. Exception to Section 3 of the GNU GPL.
+ 
+ You may convey a covered work under sections 3 and 4 of this License
+ without being bound by section 3 of the GNU GPL.
+ 
+ 2. Conveying Modified Versions.
+ 
+ If you modify a copy of the Library, and, in your modifications, a
+ facility refers to a function or data to be supplied by an Application
+ that uses the facility (other than as an argument passed when the
+ facility is invoked), then you may convey a copy of the modified
+ version:
+ 
+ a) under this License, provided that you make a good faith effort to
+ ensure that, in the event an Application does not supply the
+ function or data, the facility still operates, and performs
+ whatever part of its purpose remains meaningful, or
+ 
+ b) under the GNU GPL, with none of the additional permissions of
+ this License applicable to that copy.
+ 
+ 3. Object Code Incorporating Material from Library Header Files.
+ 
+ The object code form of an Application may incorporate material from
+ a header file that is part of the Library. You may convey such object
+ code under terms of your choice, provided that, if the incorporated
+ material is not limited to numerical parameters, data structure
+ layouts and accessors, or small macros, inline functions and templates
+ (ten or fewer lines in length), you do both of the following:
+ 
+ a) Give prominent notice with each copy of the object code that the
+ Library is used in it and that the Library and its use are
+ covered by this License.
+ 
+ b) Accompany the object code with a copy of the GNU GPL and this license
+ document.
+ 
+ 4. Combined Works.
+ 
+ You may convey a Combined Work under terms of your choice that,
+ taken together, effectively do not restrict modification of the
+ portions of the Library contained in the Combined Work and reverse
+ engineering for debugging such modifications, if you also do each of
+ the following:
+ 
+ a) Give prominent notice with each copy of the Combined Work that
+ the Library is used in it and that the Library and its use are
+ covered by this License.
+ 
+ b) Accompany the Combined Work with a copy of the GNU GPL and this license
+ document.
+ 
+ c) For a Combined Work that displays copyright notices during
+ execution, include the copyright notice for the Library among
+ these notices, as well as a reference directing the user to the
+ copies of the GNU GPL and this license document.
+ 
+ d) Do one of the following:
+ 
+ 0) Convey the Minimal Corresponding Source under the terms of this
+ License, and the Corresponding Application Code in a form
+ suitable for, and under terms that permit, the user to
+ recombine or relink the Application with a modified version of
+ the Linked Version to produce a modified Combined Work, in the
+ manner specified by section 6 of the GNU GPL for conveying
+ Corresponding Source.
+ 
+ 1) Use a suitable shared library mechanism for linking with the
+ Library. A suitable mechanism is one that (a) uses at run time
+ a copy of the Library already present on the user's computer
+ system, and (b) will operate properly with a modified version
+ of the Library that is interface-compatible with the Linked
+ Version.
+ 
+ e) Provide Installation Information, but only if you would otherwise
+ be required to provide such information under section 6 of the
+ GNU GPL, and only to the extent that such information is
+ necessary to install and execute a modified version of the
+ Combined Work produced by recombining or relinking the
+ Application with a modified version of the Linked Version. (If
+ you use option 4d0, the Installation Information must accompany
+ the Minimal Corresponding Source and Corresponding Application
+ Code. If you use option 4d1, you must provide the Installation
+ Information in the manner specified by section 6 of the GNU GPL
+ for conveying Corresponding Source.)
+ 
+ 5. Combined Libraries.
+ 
+ You may place library facilities that are a work based on the
+ Library side by side in a single library together with other library
+ facilities that are not Applications and are not covered by this
+ License, and convey such a combined library under terms of your
+ choice, if you do both of the following:
+ 
+ a) Accompany the combined library with a copy of the same work based
+ on the Library, uncombined with any other library facilities,
+ conveyed under the terms of this License.
+ 
+ b) Give prominent notice with the combined library that part of it
+ is a work based on the Library, and explaining where to find the
+ accompanying uncombined form of the same work.
+ 
+ 6. Revised Versions of the GNU Lesser General Public License.
+ 
+ The Free Software Foundation may publish revised and/or new versions
+ of the GNU Lesser General Public License from time to time. Such new
+ versions will be similar in spirit to the present version, but may
+ differ in detail to address new problems or concerns.
+ 
+ Each version is given a distinguishing version number. If the
+ Library as you received it specifies that a certain numbered version
+ of the GNU Lesser General Public License or any later version
+ applies to it, you have the option of following the terms and
+ conditions either of that published version or of any later version
+ published by the Free Software Foundation. If the Library as you
+ received it does not specify a version number of the GNU Lesser
+ General Public License, you may choose any version of the GNU Lesser
+ General Public License ever published by the Free Software Foundation.
+ 
+ If the Library as you received it specifies that a proxy can decide
+ whether future versions of the GNU Lesser General Public License shall
+ apply, that proxy's public statement of acceptance of any version is
+ permanent authorization for you to choose that version for the
+ Library.
+"</string>
+    <string name="tan">tan</string>
+    <string name="tanh">tanh</string>
+    <string name="tapview">Tap Target View</string>
+    <string name="tapview_lic">@string/apache_license_v2_full</string>
+    <string name="temperatureunitc">Celsius (C)</string>
+    <string name="temperatureunitf">Fahrenheit (F)</string>
+    <string name="temperatureunitk">Kelvin (K)</string>
+    <string name="temperatureunitn">Newton (N)</string>
+    <string name="text1">vd: x^2 + 1 = 0</string>
+    <string name="text_bpt_bac_hai">f(x) = ax^2 + bx + c</string>
+    <string name="text_bpt_bac_nhat">$$f(x) = ax + b$$</string>
+    <string name="text_pt_bac_ba">ax³ + bx² + cx + d = 0</string>
+    <string name="text_pt_bac_hai">ax² + bx + c = 0</string>
+    <string name="text_pt_bac_nhat">ax + b = 0</string>
+    <string name="theme_blue">Blue</string>
+    <string name="theme_blue_gray">BlueGray</string>
+    <string name="theme_brown">Brown</string>
+    <string name="theme_colored">Colored</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_day_night">DayNight</string>
+    <string name="theme_deep_purple">DeepPurple</string>
+    <string name="theme_default">Light</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_light_dark_action_bar">Light - DarkActionBar</string>
+    <string name="theme_pink">Pink</string>
+    <string name="theme_purple">Purple</string>
+    <string name="theme_red">Red</string>
+    <string name="theme_teal">Teal</string>
+    <string name="theme_yellow">Yellow</string>
+    <string name="timeunitdays">Day (d)</string>
+    <string name="timeunithours">Hours (h)</string>
+    <string name="timeunitmiliseconds">Miliseconds (ms)</string>
+    <string name="timeunitminutes">Minutes (min)</string>
+    <string name="timeunitsecond">Seconds (s)</string>
+    <string name="timeunitweeks">Weeks</string>
+    <string name="tr_n_l_duy">Trần Lê Duy</string>
+    <string name="trace">Trace</string>
+    <string name="trunc">trunc</string>
+    <string name="unit1">Temperature</string>
+    <string name="unit10">Time</string>
+    <string name="unit2">Weight</string>
+    <string name="unit3">Length</string>
+    <string name="unit4">Power</string>
+    <string name="unit5">Energy</string>
+    <string name="unit6">Velocity</string>
+    <string name="unit7">Area</string>
+    <string name="unit8">Volume</string>
+    <string name="unit9">Bit Rate</string>
+    <string name="unlock">Unlock page</string>
+    <string name="var">var</string>
+    <string name="var_x">X</string>
+    <string name="var_y">Y</string>
+    <string name="vari">vari</string>
+    <string name="velocityunitfeetpers">feet/s</string>
+    <string name="velocityunitkmph">Km/hr</string>
+    <string name="velocityunitmeterpers">m/s</string>
+    <string name="velocityunitmilesperh">miles/hr</string>
+    <string name="volumeunitcubiccm">cubic cm</string>
+    <string name="volumeunitcubicfeet">cubic feet</string>
+    <string name="volumeunitcubicm">cubic m</string>
+    <string name="volumeunitcubicmm">cubic mm</string>
+    <string name="volumeunitlitres">litre</string>
+    <string name="volumeunitmillilitres">millilitre</string>
+    <string name="weightunitgm">Gam (g)</string>
+    <string name="weightunitkg">Kilogam (Kg)</string>
+    <string name="weightunitlb">lb</string>
+    <string name="weightunitmg">Miligam (mg)</string>
+    <string name="weightunitounce">ounce</string>
+    <string name="x">x</string>
+    <string name="xor_symbol">⊕</string>
+</resources>

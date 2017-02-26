@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:minWidth="300dp" android:minHeight="500dp">
+    <android.support.design.widget.AppBarLayout android:layout_width="-1" android:layout_height="-2">
+        <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f010049" />
+    </android.support.design.widget.AppBarLayout>
+    <LinearLayout android:orientation="1" android:paddingTop="?unknown_attr_ref: 7f010049" android:layout_width="-1" android:layout_height="-1">
+        <android.support.v7.widget.RecyclerView android:id="@id/rc_var" android:layout_width="-1" android:layout_height="-1" />
+    </LinearLayout>
+    <LinearLayout android:gravity="55" android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+        <android.support.design.widget.FloatingActionButton android:id="@id/btn_add" android:layout_width="@dimen/fab_size_normal" android:layout_height="@dimen/fab_size_normal" android:layout_marginRight="8dp" android:layout_marginBottom="16dp" android:src="@drawable/ic_add_white_24dp" />
+        <android.support.design.widget.FloatingActionButton android:id="@id/btn_save" android:layout_width="@dimen/fab_size_normal" android:layout_height="@dimen/fab_size_normal" android:layout_marginLeft="8dp" android:layout_marginRight="16dp" android:layout_marginBottom="16dp" android:src="@drawable/ic_check_white_24dp" />
+    </LinearLayout>
+</FrameLayout>

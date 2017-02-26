@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <ListPreference android:entries="@array/text_fonts" android:title="@string/pref_title_font" android:key="@string/key_pref_font" android:entryValues="@array/text_fonts" />
+    <ListPreference android:entries="@array/text_styles" android:title="@string/pref_title_text_style" android:key="@string/key_pref_style" android:entryValues="@array/text_styles" />
+</PreferenceScreen>

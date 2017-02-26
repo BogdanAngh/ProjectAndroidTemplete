@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<io.codetail.widget.RevealLinearLayout android:orientation="1" android:background="@color/background_pad_more_advance" android:layout_width="-1" android:layout_height="-1" android:weightSum="7.0"
+    <io.codetail.widget.RevealLinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:weightSum="5.0" android:layout_weight="1.0">
+        <com.example.duy.calculator.view.ImagePadButton android:id="@id/img_setting" android:src="@drawable/ic_settings_white_24dp" style="?unknown_attr_ref: 7f010074" />
+        <com.example.duy.calculator.view.ImagePadButton android:id="@id/img_share" android:src="@drawable/ic_share_white_24dp" style="?unknown_attr_ref: 7f010074" />
+        <com.example.duy.calculator.view.ImagePadButton android:id="@id/img_copy" android:src="@drawable/ic_content_copy_white_24dp" style="?unknown_attr_ref: 7f010074" />
+        <com.example.duy.calculator.view.ImagePadButton android:id="@id/img_paste" android:src="@drawable/ic_content_paste_white_24dp" style="?unknown_attr_ref: 7f010074" />
+        <com.example.duy.calculator.view.ImagePadButton android:id="@id/img_help" android:src="@drawable/ic_help_white_24dp" style="?unknown_attr_ref: 7f010074" />
+    </io.codetail.widget.RevealLinearLayout>
+    <io.codetail.widget.RevealLinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:weightSum="4.0" android:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_asin" android:text="@string/arcsin" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_arccos" android:text="@string/arccos" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_arctan" android:text="@string/arctan" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_log" android:layout_width="0dp" android:layout_height="-1" android:text="@string/lg" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+    </io.codetail.widget.RevealLinearLayout>
+    <io.codetail.widget.RevealLinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:weightSum="4.0" android:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btnSinh" android:text="@string/sinh" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btnCosh" android:text="@string/cosh" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btnTanh" android:text="@string/tanh" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_exp" android:layout_width="0dp" android:layout_height="-1" android:text="@string/exp" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+    </io.codetail.widget.RevealLinearLayout>
+    <io.codetail.widget.RevealLinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:weightSum="4.0" android:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_arcsinh" android:layout_width="0dp" android:layout_height="-1" android:text="@string/asinh" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_arccosh" android:layout_width="0dp" android:layout_height="-1" android:text="@string/acosh" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_arctanh" android:layout_width="0dp" android:layout_height="-1" android:text="@string/atanh" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_mod" android:text="@string/mod" style="?unknown_attr_ref: 7f0100bd" />
+    </io.codetail.widget.RevealLinearLayout>
+    <io.codetail.widget.RevealLinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:weightSum="5.0" android:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_ln" android:text="@string/ln" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_abs" android:text="@string/abs" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_e" android:text="@string/e" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_percent" android:text="@string/percentage" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_sign" android:layout_width="0dp" android:layout_height="-1" android:text="@string/sgn" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+    </io.codetail.widget.RevealLinearLayout>
+    <io.codetail.widget.RevealLinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:weightSum="5.0" android:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_i" android:layout_width="0dp" android:layout_height="-1" android:text="@string/i" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_gcd" android:layout_width="0dp" android:layout_height="-1" android:text="@string/gcd" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_lcm" android:layout_width="0dp" android:layout_height="-1" android:text="@string/lcm" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_combi" android:layout_width="0dp" android:layout_height="-1" android:text="@string/binomial" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_perm" android:layout_width="0dp" android:layout_height="-1" android:text="@string/permutations" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+    </io.codetail.widget.RevealLinearLayout>
+    <io.codetail.widget.RevealLinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:weightSum="4.0" android:layout_weight="1.0">
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_ceil" android:layout_width="0dp" android:layout_height="-1" android:text="@string/ceil" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_floor" android:layout_width="0dp" android:layout_height="-1" android:text="@string/floor" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_min" android:layout_width="0dp" android:layout_height="-1" android:text="@string/min" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+        <com.example.duy.calculator.view.PadButtonBasicCalculator android:id="@id/btn_max" android:layout_width="0dp" android:layout_height="-1" android:text="@string/max" android:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+    </io.codetail.widget.RevealLinearLayout>
+</io.codetail.widget.RevealLinearLayout>

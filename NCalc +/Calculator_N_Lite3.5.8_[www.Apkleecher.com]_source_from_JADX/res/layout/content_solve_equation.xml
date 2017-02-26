@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<io.codetail.widget.RevealFrameLayout app:id="@id/the_clear_animation" app:layout_width="-1" app:layout_height="-1" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+        <android.support.v7.widget.CardView app:orientation="1" app:layout_width="-1" app:layout_height="-2" app:cardElevation="4dp">
+            <LinearLayout app:orientation="1" app:padding="8dp" app:layout_width="-1" app:layout_height="-2">
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/txtTitle" app:visibility="2" app:layout_width="-2" app:layout_height="-2" app:text="@string/input_expression" />
+                <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0">
+                    <com.example.duy.calculator.view.ResizingEditText app:id="@id/edit_input" app:layout_width="-1" app:layout_height="-1" style="@style/EditTextSolve" />
+                    <LinearLayout app:orientation="0" app:id="@id/layout_limit" app:layout_width="-1" app:layout_height="-1">
+                        <TextView app:layout_gravity="11" app:id="@id/txt_from" app:layout_width="-2" app:layout_height="-2" app:text="@string/from" />
+                        <android.support.v7.widget.AppCompatEditText app:id="@id/edit_from" app:layout_width="0dp" app:layout_height="-2" app:hint="@string/enter_limit" app:layout_weight="0.5" />
+                        <TextView app:id="@id/txt_to" app:layout_width="-2" app:layout_height="-2" app:text="@string/to" />
+                        <android.support.v7.widget.AppCompatEditText app:id="@id/edit_to" app:layout_width="0dp" app:layout_height="-2" app:hint="@string/enter_limit" app:layout_weight="0.5" />
+                    </LinearLayout>
+                </LinearLayout>
+                <android.support.design.widget.TextInputLayout app:layout_width="-1" app:layout_height="-2">
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/edit_params" app:visibility="2" app:layout_width="-1" app:layout_height="-2" app:hint="@string/solve_for_var" />
+                </android.support.design.widget.TextInputLayout>
+                <com.example.duy.calculator.view.FunctionRecyclerView app:visibility="0" app:layout_width="-1" app:layout_height="-2" />
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2">
+                    <android.support.v7.widget.AppCompatButton app:id="@id/btn_solve" app:layout_width="-2" app:layout_height="-2" app:text="@string/solve" style="@style/Widget_AppCompat_Button_Colored" />
+                    <android.support.v7.widget.AppCompatButton app:id="@id/btn_clear" app:layout_width="-2" app:layout_height="-2" app:text="@string/delete_desc" style="@style/Widget_AppCompat_Button_Borderless_Colored" />
+                    <android.support.v7.widget.SwitchCompat app:id="@id/ckbTex" app:visibility="2" app:layout_width="-2" app:layout_height="-1" app:checked="true" />
+                    <android.support.v7.widget.AppCompatSpinner app:id="@id/spinner" app:visibility="2" app:layout_width="-1" app:layout_height="-1" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <ProgressBar app:layout_gravity="11" app:id="@id/progressBar" app:visibility="2" app:layout_width="-2" app:layout_height="-2" style="?unknown_attr_ref: 1010077" />
+        <FrameLayout app:padding="4dp" app:layout_width="-1" app:layout_height="-1">
+            <io.github.kexanie.library.MathView app:id="@id/math_view" app:layout_width="-1" app:layout_height="-1" app:engine="0" />
+            <TextView app:id="@id/txtResult" app:visibility="2" app:layout_width="-2" app:layout_height="-2" app:textIsSelectable="true" />
+        </FrameLayout>
+    </LinearLayout>
+</io.codetail.widget.RevealFrameLayout>

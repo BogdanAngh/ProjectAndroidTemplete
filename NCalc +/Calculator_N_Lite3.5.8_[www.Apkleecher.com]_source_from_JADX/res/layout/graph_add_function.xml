@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <android.support.design.widget.AppBarLayout android:layout_width="-1" android:layout_height="-2">
+        <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f010049" />
+    </android.support.design.widget.AppBarLayout>
+    <FrameLayout android:orientation="1" android:id="@id/RelativeLayout01" android:layout_width="-1" android:layout_height="-1">
+        <ScrollView android:id="@id/ScrollView01" android:paddingBottom="20dp" android:layout_width="-1" android:layout_height="-1" android:layout_above="@id/update">
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+                <LinearLayout android:orientation="0" android:background="@drawable/white_card" android:padding="16dp" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:textColor="#cc0000" android:id="@id/TextView01" android:layout_width="-2" android:layout_height="-2" android:text="f(x)=" style="@style/TextAppearance_AppCompat_Large" />
+                    <android.support.v7.widget.AppCompatEditText android:id="@id/funText1" android:layout_width="-1" android:layout_height="-2" android:hint="@string/input_expression" android:inputType="80001" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:background="@drawable/white_card" android:padding="16dp" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:textColor="#6699ff" android:id="@id/TextView02" android:layout_width="-2" android:layout_height="-2" android:text="f(x)=" style="@style/TextAppearance_AppCompat_Large" />
+                    <android.support.v7.widget.AppCompatEditText android:id="@id/funText2" android:layout_width="-1" android:layout_height="-2" android:hint="@string/input_expression" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:background="@drawable/white_card" android:padding="16dp" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:textColor="#ff6600" android:gravity="11" android:id="@id/TextView03" android:layout_width="-2" android:layout_height="-2" android:text="f(x)=" style="@style/TextAppearance_AppCompat_Large" />
+                    <android.support.v7.widget.AppCompatEditText android:id="@id/funText3" android:layout_width="-1" android:layout_height="-2" android:hint="@string/input_expression" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:background="@drawable/white_card" android:padding="16dp" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:textColor="#00cc00" android:id="@id/TextView04" android:layout_width="-2" android:layout_height="-2" android:text="f(x)=" style="@style/TextAppearance_AppCompat_Large" />
+                    <android.support.v7.widget.AppCompatEditText android:id="@id/funText4" android:layout_width="-1" android:layout_height="-2" android:hint="@string/input_expression" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:background="@drawable/white_card" android:padding="16dp" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:textColor="#ffcc00" android:id="@id/TextView05" android:layout_width="-2" android:layout_height="-2" android:text="f(x)=" style="@style/TextAppearance_AppCompat_Large" />
+                    <android.support.v7.widget.AppCompatEditText android:id="@id/funText5" android:layout_width="-1" android:layout_height="-2" android:hint="@string/input_expression" />
+                </LinearLayout>
+                <LinearLayout android:orientation="0" android:background="@drawable/white_card" android:padding="16dp" android:layout_width="-1" android:layout_height="-2">
+                    <TextView android:textColor="#003399" android:id="@id/TextView06" android:layout_width="-2" android:layout_height="-2" android:text="f(x)=" style="@style/TextAppearance_AppCompat_Large" />
+                    <android.support.v7.widget.AppCompatEditText android:id="@id/funText6" android:layout_width="-1" android:layout_height="-2" android:hint="@string/input_expression" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+        <Button android:layout_gravity="50" android:id="@id/update" android:layout_width="-1" android:layout_height="-2" android:text="@string/update" android:layout_alignParentBottom="true" style="@style/Widget_AppCompat_Button_Colored" />
+    </FrameLayout>
+</LinearLayout>

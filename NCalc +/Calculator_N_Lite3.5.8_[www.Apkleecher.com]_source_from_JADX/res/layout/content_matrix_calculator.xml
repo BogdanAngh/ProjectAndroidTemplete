@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:weightSum="3.0" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0" app:cardUseCompatPadding="true">
+        <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-1" app:weightSum="1.0">
+            <android.support.v7.widget.CardView app:layout_width="0dp" app:layout_height="-1" app:layout_weight="0.2">
+                <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <android.support.design.widget.TextInputLayout app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0">
+                        <EditText app:id="@id/edit_colums_a" app:layout_width="-1" app:layout_height="-1" app:hint="@string/column" app:inputType="2" />
+                    </android.support.design.widget.TextInputLayout>
+                    <android.support.design.widget.TextInputLayout app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0">
+                        <EditText app:id="@id/edit_row_a" app:layout_width="-1" app:layout_height="-1" app:hint="@string/row" app:inputType="2" />
+                    </android.support.design.widget.TextInputLayout>
+                    <android.support.v7.widget.AppCompatButton app:id="@id/button_create_mA" app:layout_width="-1" app:layout_height="0dp" app:text="@string/create" app:layout_weight="1.0" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <HorizontalScrollView app:layout_width="0dp" app:layout_height="-1" app:layout_weight="0.8">
+                <ScrollView app:layout_width="-2" app:layout_height="-1">
+                    <RelativeLayout app:id="@id/rl_matrixA" app:layout_width="-1" app:layout_height="-2" />
+                </ScrollView>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0" app:cardUseCompatPadding="true">
+        <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-1" app:weightSum="1.0">
+            <android.support.v7.widget.CardView app:layout_width="0dp" app:layout_height="-1" app:layout_weight="0.2">
+                <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <android.support.design.widget.TextInputLayout app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0">
+                        <EditText app:id="@id/edit_colums_b" app:layout_width="-1" app:layout_height="-1" app:hint="@string/column" app:inputType="2" />
+                    </android.support.design.widget.TextInputLayout>
+                    <android.support.design.widget.TextInputLayout app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0">
+                        <EditText app:id="@id/edit_row_b" app:layout_width="-1" app:layout_height="-1" app:hint="@string/row" app:inputType="2" />
+                    </android.support.design.widget.TextInputLayout>
+                    <android.support.v7.widget.AppCompatButton app:id="@id/button_create_mB" app:layout_width="-1" app:layout_height="0dp" app:text="@string/create" app:layout_weight="1.0" />
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+            <HorizontalScrollView app:layout_width="0dp" app:layout_height="-1" app:layout_weight="0.8">
+                <ScrollView app:layout_width="-2" app:layout_height="-1">
+                    <RelativeLayout app:id="@id/rl_matrixB" app:layout_width="-1" app:layout_height="-2" />
+                </ScrollView>
+            </HorizontalScrollView>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2">
+        <Button app:id="@id/btn_submit" app:layout_width="-2" app:layout_height="-2" app:text="Tính" style="@style/Widget_AppCompat_Button_Colored" />
+        <Spinner app:id="@id/spin_matrix_op" app:layout_width="-1" app:layout_height="-1" />
+    </LinearLayout>
+    <FrameLayout app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0">
+        <ProgressBar app:id="@id/progressBar" app:visibility="2" app:layout_width="-2" app:layout_height="-2" style="?unknown_attr_ref: 1010077" />
+        <android.support.v7.widget.CardView app:id="@id/card_result" app:layout_width="-1" app:layout_height="-1" app:cardUseCompatPadding="true">
+            <io.github.kexanie.library.MathView app:id="@id/rl_matrixC" app:layout_width="-1" app:layout_height="-1" app:engine="0" />
+        </android.support.v7.widget.CardView>
+    </FrameLayout>
+</LinearLayout>

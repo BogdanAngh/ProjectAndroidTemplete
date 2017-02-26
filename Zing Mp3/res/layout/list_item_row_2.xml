@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="#ff4b4a5a" android:layout_width="-1" android:layout_height="50dp">
+    <ImageButton android:layout_gravity="11" android:id="@id/playstop" android:background="@drawable/play" android:layout_width="22dp" android:layout_height="22dp" android:layout_margin="20dp" />
+    <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="8dp">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textStyle="1" android:textColor="0x106000b" android:id="@id/authortext" android:layout_width="-2" android:layout_height="-2" android:text="Eşref Ziya Terzi Eşref Ziya Terzi" android:maxLines="1" android:maxLength="20" android:shadowColor="#7f000000" android:shadowDx="1.0" android:shadowDy="1.0" android:shadowRadius="2.0" />
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textColor="0x106000b" android:id="@id/songtext" android:layout_width="-2" android:layout_height="-2" android:text="Sensiz" android:maxLines="1" android:maxLength="20" />
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="5" android:layout_width="-1" android:layout_height="-1" android:layout_marginRight="10dp">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textColor="0x106000b" android:layout_gravity="11" android:id="@id/musictime" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:text="06:00" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</LinearLayout>

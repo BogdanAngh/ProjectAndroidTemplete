@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView app:layout_width="-1" app:layout_height="-1">
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:cardElevation="2dp" app:cardUseCompatPadding="false">
+            <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:layout_width="-1" app:layout_height="-2" app:text="Nhập vector" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="Nhập 2 vector a(x_a, y_a), b(x_b, y_)" />
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <io.github.kexanie.library.MathView app:layout_gravity="11" app:layout_width="0dp" app:layout_height="-1" app:layout_weight="1.0" app:text="$$\vec{a}(x_a; y_a)$$" app:engine="0" />
+                    <android.support.design.widget.TextInputLayout app:layout_width="0dp" app:layout_height="-2" app:layout_weight="1.0">
+                        <android.support.v7.widget.AppCompatEditText app:id="@id/editVectoXa" app:layout_width="-1" app:layout_height="-1" app:hint="x_a" app:inputType="1002" />
+                    </android.support.design.widget.TextInputLayout>
+                    <android.support.design.widget.TextInputLayout app:layout_width="0dp" app:layout_height="-1" app:layout_weight="1.0">
+                        <android.support.v7.widget.AppCompatEditText app:id="@id/editYa" app:layout_width="-1" app:layout_height="-1" app:hint="y_a" app:inputType="1002" />
+                    </android.support.design.widget.TextInputLayout>
+                </LinearLayout>
+                <LinearLayout app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <io.github.kexanie.library.MathView app:layout_gravity="11" app:layout_width="0dp" app:layout_height="-1" app:layout_weight="1.0" app:text="$$\vec{b}(x_b; y_b)$$" app:engine="0" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editXb" app:layout_width="0dp" app:layout_height="-2" app:hint="x_b" app:layout_weight="1.0" app:inputType="1002" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editYb" app:layout_width="0dp" app:layout_height="-2" app:hint="y_b" app:layout_weight="1.0" app:inputType="1002" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:cardElevation="2dp" app:cardUseCompatPadding="false">
+            <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:layout_width="-2" app:layout_height="0dp" app:text="Thẳng hàng" app:layout_weight="6.0" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="Kiểm tra xem 2 vector a, b có thẳng hàng hay không." />
+                <CheckBox app:enabled="false" app:gravity="11" app:layout_gravity="11" app:id="@id/ckbColinear" app:layout_width="-2" app:layout_height="-2" app:checked="false" />
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:gravity="13" app:layout_width="-1" app:layout_height="-1" app:layout_column="0" app:text="Vuông góc" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="Kiểm tra xem 2 vector a, b có vuông góc với nhau hay không." />
+                <CheckBox app:enabled="false" app:layout_gravity="11" app:id="@id/ckbOrthoganal" app:layout_width="-2" app:layout_height="-2" app:checked="false" />
+                <io.github.kexanie.library.MathView app:layout_gravity="3" app:layout_width="-2" app:layout_height="-2" app:text="Góc \( \vec{a} \) với Ox" app:engine="0" />
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:gravity="11" app:id="@id/txtAngleA" app:layout_width="-2" app:layout_height="-2" />
+                <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+                <io.github.kexanie.library.MathView app:layout_gravity="3" app:layout_width="-2" app:layout_height="-2" app:text="Góc \( \vec{b} \) với Ox" app:engine="0" />
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:gravity="11" app:id="@id/txtAngelB" app:layout_width="-2" app:layout_height="-2" />
+                <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="Góc giữa hai vector" />
+                <io.github.kexanie.library.MathView app:layout_gravity="3" app:layout_width="-2" app:layout_height="-2" app:text="$$\hat{(\vec{a} ; \vec{b})}$$                     $$cos(\vec{a},\vec{b})=\frac{\vec{a}\vec{b}}{\left |                      \vec{a} \right |\left | \vec{b} \right |}$$" app:engine="0" />
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:gravity="11" app:id="@id/txtAngle" app:layout_width="-2" app:layout_height="-2" />
+                <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="Tổng 2 vector" />
+                <io.github.kexanie.library.MathView app:layout_gravity="3" app:layout_width="-2" app:layout_height="-2" app:text="$$\vec{a} + \vec{b} =                     (x_a + x_b; y_a + y_b)$$" app:engine="0" />
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:gravity="11" app:id="@id/txtPlus" app:layout_width="-2" app:layout_height="-2" />
+                <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="Hiệu 2 vector" />
+                <io.github.kexanie.library.MathView app:layout_gravity="3" app:layout_width="-2" app:layout_height="-2" app:text="$$\vec{a} - \vec{b}                     = (x_b - x_a ; y_b - y_a)$$" app:engine="0" />
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:gravity="11" app:id="@id/txtMinus" app:layout_width="-2" app:layout_height="-2" />
+                <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:id="@id/textView17" app:layout_width="0dp" app:layout_height="-2" app:text="Tích vector với số k" app:layout_weight="2.0" />
+                    <EditText app:id="@id/editK" app:layout_width="0dp" app:layout_height="-2" app:hint="k" app:layout_weight="1.0" app:inputType="1002" />
+                </LinearLayout>
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="2.0">
+                    <io.github.kexanie.library.MathView app:layout_gravity="1" app:layout_width="0dp" app:layout_height="-2" app:layout_weight="1.0" app:text="$$k\vec{a} = (kx_a; ky_a)$$" app:engine="0" />
+                    <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:gravity="11" app:id="@id/txtMulA" app:layout_width="0dp" app:layout_height="-1" app:layout_weight="1.0" />
+                </LinearLayout>
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="2.0">
+                    <io.github.kexanie.library.MathView app:layout_gravity="1" app:layout_width="0dp" app:layout_height="-2" app:layout_weight="1.0" app:text="$$k\vec{b} = (kx_b ; ky_b)$$" app:engine="0" />
+                    <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:gravity="11" app:id="@id/txtMulB" app:layout_width="0dp" app:layout_height="-1" app:layout_weight="1.0" />
+                </LinearLayout>
+                <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:id="@id/textView29" app:layout_width="-1" app:layout_height="-2" app:text="Tích vô hướng" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="Tích vô hướng của 2 vector" />
+                <io.github.kexanie.library.MathView app:layout_width="-1" app:layout_height="-2" app:text="$$\vec{a} .\vec{b} = a_1b_1 + a_2b_2$$" app:engine="0" />
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:gravity="11" app:id="@id/txtScalar" app:layout_width="-1" app:layout_height="-2" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</ScrollView>

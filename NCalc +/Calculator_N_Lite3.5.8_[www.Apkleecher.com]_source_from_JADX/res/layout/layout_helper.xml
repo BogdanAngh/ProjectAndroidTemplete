@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout auto:orientation="1" auto:padding="16dp" auto:layout_width="-1" auto:layout_height="-1">
+    <android.support.v4.widget.NestedScrollView auto:layout_width="-1" auto:layout_height="-2">
+        <io.github.kexanie.library.MathView auto:id="@id/help_content" auto:layout_width="-1" auto:layout_height="-2" auto:engine="0" />
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

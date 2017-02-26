@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView app:layout_width="-1" app:layout_height="-1" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2" app:layout_marginBottom="8dp" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <android.support.v7.widget.CardView app:clickable="true" app:layout_width="-1" app:layout_height="-1" app:minHeight="50dp" app:cardCornerRadius="1dp" app:cardElevation="8dp" app:cardUseCompatPadding="false">
+            <LinearLayout app:gravity="11" app:layout_gravity="11" app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+                <ImageView app:layout_gravity="11" app:layout_width="120dp" app:layout_height="120dp" app:src="@drawable/splash" app:scaleType="3" />
+                <TextView app:textStyle="1" app:layout_width="-2" app:layout_height="-2" app:text="@string/d_n_ph_n_m_m_ncalc" style="@style/TextAppearance_AppCompat_Large" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="@string/t_c_gi_tr_n_l_duy" style="@style/TextAppearance_AppCompat_Medium" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="@string/thpt_nguy_n_b_nh_khi_m" style="@style/TextAppearance_AppCompat_Medium" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="@string/an_giang" style="@style/TextAppearance_AppCompat_Medium" />
+                <TextView app:textColor="?unknown_attr_ref: 7f010088" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="10dp" app:layout_marginBottom="10dp" app:text="@string/email_tranleduy1233_gmail_com" style="@style/TextAppearance_AppCompat_Medium" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView app:id="@id/open_source" app:clickable="true" app:layout_width="-1" app:layout_height="-1" app:layout_marginTop="8dp" app:minHeight="50dp" app:cardElevation="4dp" app:cardUseCompatPadding="false">
+            <LinearLayout app:orientation="1" app:layout_width="-2" app:layout_height="-2">
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:layout_gravity="13" app:paddingLeft="8dp" app:layout_width="-2" app:layout_height="-2" app:text="@string/open_source_licenses" />
+                <TextView app:layout_gravity="13" app:paddingLeft="10dp" app:layout_width="-2" app:layout_height="-2" app:text="@string/lic_desc" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView app:id="@id/rate" app:clickable="true" app:layout_width="-1" app:layout_height="-1" app:minHeight="50dp" app:cardElevation="4dp" app:cardUseCompatPadding="false">
+            <LinearLayout app:orientation="1" app:layout_width="-2" app:layout_height="-2">
+                <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:layout_gravity="13" app:paddingLeft="8dp" app:layout_width="-2" app:layout_height="-2" app:text="@string/rate_this_app" />
+                <TextView app:layout_gravity="13" app:paddingLeft="10dp" app:layout_width="-2" app:layout_height="-2" app:text="@string/rate_desc" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</ScrollView>

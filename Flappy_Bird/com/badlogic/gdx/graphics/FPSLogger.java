@@ -1,0 +1,18 @@
+package com.badlogic.gdx.graphics;
+
+import com.badlogic.gdx.Gdx;
+
+public class FPSLogger {
+    long startTime;
+
+    public FPSLogger() {
+        this.startTime = System.currentTimeMillis();
+    }
+
+    public void log() {
+        if (System.currentTimeMillis() - this.startTime > 1000) {
+            Gdx.app.log("FPSLogger", "fps: " + Gdx.graphics.getFramesPerSecond());
+            this.startTime = System.currentTimeMillis();
+        }
+    }
+}

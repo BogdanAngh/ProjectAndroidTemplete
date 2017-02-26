@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="Giao diện">
+        <ListPreference android:icon="@drawable/ic_color_lens_black_24dp" android:entries="@array/arr_name_theme" android:title="Chủ đề" android:key="list_preference_1" android:summary="Giao diện của máy tính" android:defaultValue="1" android:entryValues="@array/arr_name_theme" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Nâng cao">
+        <SwitchPreference android:title="Chế độ nhà phát triển" android:key="switch_preference_1" android:summary="Dành cho nhà phát triển, khi bật chế độ này lên, trong tab bên phải sẽ xuất hiện thêm chế động dòng lệnh, chúng ta có thể tính toán bằng các lệnh." android:defaultValue="false" />
+        <SwitchPreference android:title="Chế độ truy vết tính toán" android:key="switch_preference_2" android:summary="Khi bật chế độ này lên, tab bên trái xuất hiện thêm step_by_step, máy tính sẽ ghi lại từng bước thực hiện. Lưu ý: đây là cách máy tính thực hiện, không giống như chúng ta làm toán cách thông thường" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

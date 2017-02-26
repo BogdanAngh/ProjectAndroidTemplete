@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-1">
+    <android.support.design.widget.AppBarLayout app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.Toolbar app:id="@id/toolbar" app:layout_width="-1" app:layout_height="?unknown_attr_ref: 7f010049" />
+    </android.support.design.widget.AppBarLayout>
+    <include layout="@layout/content_real_to_fraction" />
+    <android.support.design.widget.FloatingActionButton app:layout_gravity="800055" app:id="@id/fab" app:layout_width="-2" app:layout_height="-2" app:layout_margin="@dimen/fab_margin" app:src="0x1080029" />
+</android.support.design.widget.CoordinatorLayout>

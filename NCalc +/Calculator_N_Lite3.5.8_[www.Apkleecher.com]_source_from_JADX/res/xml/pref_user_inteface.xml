@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <ListPreference android:entries="@array/arr_name_theme" android:title="@string/pref_title_theme" android:key="@string/key_pref_theme" android:defaultValue="@string/theme_default" android:entryValues="@array/arr_name_theme" />
+</PreferenceScreen>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item app:icon="@drawable/ic_delete_black_48dp" app:id="@id/clear" app:title="@string/delete_x" app:showAsAction="2" />
+    <item app:icon="@drawable/ic_undo_black_24dp" app:id="@id/undo" app:title="@string/undo" app:showAsAction="2" />
+    <item app:icon="@drawable/ic_redo_black_24dp" app:id="@id/redo" app:title="@string/redo" app:showAsAction="2" />
+    <item app:id="@id/out_latex" app:title="@string/out_latex" app:showAsAction="1" />
+    <item app:id="@id/out_mathml" app:title="@string/out_mathml" app:showAsAction="1" />
+    <item app:id="@id/out_text" app:title="@string/out_text" app:showAsAction="1" />
+    <item app:id="@id/copy_as_text" app:title="@string/copy_as_text" app:showAsAction="1" />
+    <item app:id="@id/copy_as_latex" app:title="@string/copy_as_latex" app:showAsAction="1" />
+    <item app:id="@id/copy_as_mathml" app:title="@string/copy_as_mathml" app:showAsAction="1" />
+    <item app:id="@id/info" app:title="@string/how_to_use" app:showAsAction="1" />
+</menu>

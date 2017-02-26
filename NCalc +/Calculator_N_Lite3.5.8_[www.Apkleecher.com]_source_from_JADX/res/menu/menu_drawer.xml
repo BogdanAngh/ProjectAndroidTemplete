@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <group>
+        <item android:icon="@drawable/ic_calculator_black" android:id="@id/nav_sci_calc" android:title="@string/science_calculator" />
+        <item android:icon="@drawable/ic_base_black" android:id="@id/nav_coso" android:title="@string/logic_calculator" />
+        <item android:icon="@drawable/ic_functions_2_black" android:id="@id/nav_solve_equation" android:title="@string/solve_equation" />
+        <item android:icon="@drawable/ic_functions_2_black" android:id="@id/nav_liner_system" android:title="@string/linear_system" />
+        <item android:icon="@drawable/ic_graph_black" android:id="@id/nav_graph" android:title="@string/title_activity_graph" />
+        <item android:icon="@drawable/ic_graph_black" android:id="@id/nav_geometric_descartes" android:title="@string/nav_descartes" />
+        <item android:icon="@drawable/ic_functions_2_black" android:id="@id/nav_simplify_equation" android:title="@string/simplify_equation" />
+        <item android:icon="@drawable/ic_functions_2_black" android:id="@id/nav_factor_equation" android:title="@string/factor_equation" />
+        <item android:icon="@drawable/ic_unit_converter" android:id="@id/nav_unit" android:title="@string/all_unit_converter" />
+        <item android:icon="@drawable/ic_functions_2_black" android:id="@id/nav_expand_binomial" android:title="@string/binomial_newton" />
+        <item android:icon="@drawable/ic_der_black" android:id="@id/nav_derivitive" android:title="@string/derivative" />
+        <item android:icon="@drawable/ic_integral" android:id="@id/nav_integrate" android:title="@string/integrate" />
+        <item android:icon="@drawable/ic_primitive_black" android:id="@id/nav_primitive" android:title="@string/primitive" />
+        <item android:icon="@drawable/ic_lim_black" android:id="@id/nav_limit" android:title="@string/limit" />
+        <item android:icon="@drawable/ic_matrix_black" android:id="@id/nav_matrix" android:title="@string/matrix" />
+        <item android:icon="@mipmap/ic_fraction_black" android:id="@id/nav_table" android:title="@string/table" />
+        <item android:icon="@drawable/ic_more_vert_black_24dp" android:id="@id/nav_more" android:visible="false" android:title="@string/more" />
+    </group>
+    <item android:title="@string/more">
+        <menu>
+            <item android:icon="@drawable/ic_settings_black_48dp" android:id="@id/nav_setting" android:title="@string/settings" />
+            <item android:icon="@drawable/ic_star_rate_black_18dp" android:id="@id/nav_rate" android:title="@string/rate_this_app" />
+            <item android:icon="@drawable/ic_email_black_24dp" android:id="@id/nav_mail" android:title="@string/gop_y" />
+            <item android:icon="@drawable/ic_help_black_24dp" android:id="@id/nav_help" android:title="@string/help" />
+            <item android:icon="@drawable/ic_info_black_24dp" android:id="@id/nav_about_app" android:title="@string/gi_i_thi_u_v_calc" />
+        </menu> />
+</menu>

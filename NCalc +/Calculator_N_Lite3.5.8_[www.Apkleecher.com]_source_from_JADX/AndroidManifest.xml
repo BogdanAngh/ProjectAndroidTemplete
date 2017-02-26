@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" android:versionCode="34" android:versionName="Lite 3.5.8" android:installLocation="auto" package="com.duy.calculator.free" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="25" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <permission android:name="com.duy.calculator.free.permission.C2D_MESSAGE" android:protectionLevel="signature|signatureOrSystem" />
+    <uses-permission android:name="com.duy.calculator.free.permission.C2D_MESSAGE" />
+    <application android:theme="@style/AppTheme_Light_NoActionBar" android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:name="com.example.duy.calculator.CalcApplication" android:allowBackup="true" android:hardwareAccelerated="true" android:supportsRtl="true">
+        <activity android:theme="@style/AppTheme_Light_NoActionBar_Splash" android:name="com.example.duy.calculator.MainCalculatorActivity" android:configChanges="keyboardHidden|screenSize" android:windowSoftInputMode="3">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.APP_CALCULATOR" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_unit_converter_acitvity" android:name="com.example.duy.calculator.converter.UnitConverterParentAcitvity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:name="com.example.duy.calculator.converter.UnitConverterChildActivity" />
+        <activity android:theme="@style/AppTheme_Light" android:label="@string/title_activity_settings" android:name="com.example.duy.calculator.SettingsActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/title_activity_geometry" android:name="com.example.duy.calculator.geom2d.GeometryDescartesActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/title_activity_chuyen_doi_co_so" android:name="com.example.duy.calculator.BaseCalculatorActivity" android:configChanges="keyboardHidden|screenSize" android:windowSoftInputMode="3" />
+        <activity android:label="@string/title_activity_app_about" android:name="com.example.duy.calculator.helper.AppAboutActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/title_activity_real_to_fraction" android:name="com.example.duy.calculator.RealToFractionActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/title_activity_matrix_calculator" android:name="com.example.duy.calculator.MatrixCalculatorActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/solve_equation" android:name="com.example.duy.calculator.SolveEquationActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/trig_to_exp" android:name="com.example.duy.calculator.TrigToExpActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/trig_expand" android:name="com.example.duy.calculator.TrigExpandActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/simplify_equation" android:name="com.example.duy.calculator.SimplifyEquationActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/factor_equation" android:name="com.example.duy.calculator.FactorExpressionActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/discriminant" android:name="com.example.duy.calculator.DiscriminantActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/continued_fraction" android:name="com.example.duy.calculator.ContinuedFractionActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/coefficent" android:name="com.example.duy.calculator.CoefficientActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/eliminate" android:name="com.example.duy.calculator.EliminateActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/derivative" android:name="com.example.duy.calculator.DerivativeActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/title_diseqaution_activity" android:name="com.example.duy.calculator.SolveDisEquationActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/interpolate" android:name="com.example.duy.calculator.InterpolationActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/title_activity_statistic" android:name="com.example.duy.calculator.StatisticActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/more_functions" android:name="com.example.duy.calculator.MoreActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/binomial_newton" android:name="com.example.duy.calculator.ExpandAllExpressionActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:name="com.example.duy.calculator.view.MathViewActivity" android:configChanges="keyboardHidden|screenSize" />
+        <activity android:label="@string/title_activity_graph" android:name="com.example.duy.calculator.graph.GraphActivity" android:hardwareAccelerated="true" />
+        <activity android:label="@string/add_function" android:name="com.example.duy.calculator.graph.GraphAddFunction" />
+        <activity android:label="@string/help" android:name="com.example.duy.calculator.helper.HelperActivity" />
+        <activity android:label="@string/history" android:name="com.example.duy.calculator.history.HistoryAcitivity" />
+        <activity android:label="@string/solve_system_equation" android:name="com.example.duy.calculator.SystemEquationActivity" />
+        <activity android:label="@string/define_var" android:name="com.example.duy.calculator.define.DefineVariableActivity" />
+        <activity android:label="@string/limit" android:name="com.example.duy.calculator.LimitActivity" />
+        <activity android:label="@string/integrate" android:name="com.example.duy.calculator.IntegrateActivity" />
+        <activity android:label="@string/primitive" android:name="com.example.duy.calculator.PrimitiveActivity" />
+        <activity android:name="com.example.duy.calculator.helper.LicenseActivity" />
+        <activity android:name="com.example.duy.calculator.helper.InforLicenseActivity" />
+        <activity android:theme="@style/Theme_AppCompat" android:label="@string/cmd" android:name="com.example.duy.calculator.dev.CommandActivity" />
+        <activity android:theme="@style/Theme_AppCompat" android:label="@string/step_by_step" android:name="com.example.duy.calculator.dev.StepByStepActivity" />
+        <receiver android:name="com.google.android.gms.measurement.AppMeasurementReceiver" android:enabled="true" android:exported="false" />
+        <receiver android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" android:permission="android.permission.INSTALL_PACKAGES" android:enabled="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.android.gms.measurement.AppMeasurementService" android:enabled="true" android:exported="false" />
+        <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND" android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+                <category android:name="com.duy.calculator.free" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver" android:exported="false" />
+        <service android:name="com.google.firebase.iid.FirebaseInstanceIdService" android:exported="true">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <provider android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:authorities="com.duy.calculator.free.firebaseinitprovider" android:initOrder="100" />
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    </application>
+</manifest>

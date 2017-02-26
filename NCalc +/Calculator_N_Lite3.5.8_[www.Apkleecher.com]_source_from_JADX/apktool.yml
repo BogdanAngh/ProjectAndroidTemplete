@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Calculator_N_Lite3.5.8_[www.Apkleecher.com].apk
+compressionType: false
+doNotCompress:
+- arsc
+- woff2
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '25'
+sharedLibrary: false
+unknownFiles:
+  System.mep: '8'
+  apfloat.properties: '8'
+  build-data.properties: '8'
+  log4j.properties: '8'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.1
+versionInfo:
+  versionCode: '34'
+  versionName: Lite 3.5.8

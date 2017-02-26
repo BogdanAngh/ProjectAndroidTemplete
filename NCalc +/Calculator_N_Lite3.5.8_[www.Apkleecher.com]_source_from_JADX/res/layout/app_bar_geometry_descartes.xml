@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-1">
+    <android.support.design.widget.AppBarLayout app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.Toolbar app:id="@id/toolbar" app:layout_width="-1" app:layout_height="?unknown_attr_ref: 7f010049" />
+        <android.support.design.widget.TabLayout app:id="@id/tab" app:layout_width="-1" app:layout_height="-2" app:tabGravity="1" />
+    </android.support.design.widget.AppBarLayout>
+    <include layout="@layout/content_geometry_descartes" />
+</android.support.design.widget.CoordinatorLayout>

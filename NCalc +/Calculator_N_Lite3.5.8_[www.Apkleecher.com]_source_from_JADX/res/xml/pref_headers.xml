@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers>
+    <header android:icon="@drawable/ic_color_lens_black_24dp" android:title="@string/theme" android:fragment="com.example.duy.calculator.SettingsActivity$UserInterfaceSettingFragment" />
+</preference-headers>

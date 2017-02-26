@@ -1,0 +1,81 @@
+package aurelienribon.tweenengine;
+
+import aurelienribon.tweenengine.equations.Back;
+import aurelienribon.tweenengine.equations.Bounce;
+import aurelienribon.tweenengine.equations.Circ;
+import aurelienribon.tweenengine.equations.Cubic;
+import aurelienribon.tweenengine.equations.Elastic;
+import aurelienribon.tweenengine.equations.Expo;
+import aurelienribon.tweenengine.equations.Linear;
+import aurelienribon.tweenengine.equations.Quad;
+import aurelienribon.tweenengine.equations.Quart;
+import aurelienribon.tweenengine.equations.Quint;
+import aurelienribon.tweenengine.equations.Sine;
+
+public interface TweenEquations {
+    public static final Back easeInBack;
+    public static final Bounce easeInBounce;
+    public static final Circ easeInCirc;
+    public static final Cubic easeInCubic;
+    public static final Elastic easeInElastic;
+    public static final Expo easeInExpo;
+    public static final Back easeInOutBack;
+    public static final Bounce easeInOutBounce;
+    public static final Circ easeInOutCirc;
+    public static final Cubic easeInOutCubic;
+    public static final Elastic easeInOutElastic;
+    public static final Expo easeInOutExpo;
+    public static final Quad easeInOutQuad;
+    public static final Quart easeInOutQuart;
+    public static final Quint easeInOutQuint;
+    public static final Sine easeInOutSine;
+    public static final Quad easeInQuad;
+    public static final Quart easeInQuart;
+    public static final Quint easeInQuint;
+    public static final Sine easeInSine;
+    public static final Linear easeNone;
+    public static final Back easeOutBack;
+    public static final Bounce easeOutBounce;
+    public static final Circ easeOutCirc;
+    public static final Cubic easeOutCubic;
+    public static final Elastic easeOutElastic;
+    public static final Expo easeOutExpo;
+    public static final Quad easeOutQuad;
+    public static final Quart easeOutQuart;
+    public static final Quint easeOutQuint;
+    public static final Sine easeOutSine;
+
+    static {
+        easeNone = Linear.INOUT;
+        easeInQuad = Quad.IN;
+        easeOutQuad = Quad.OUT;
+        easeInOutQuad = Quad.INOUT;
+        easeInCubic = Cubic.IN;
+        easeOutCubic = Cubic.OUT;
+        easeInOutCubic = Cubic.INOUT;
+        easeInQuart = Quart.IN;
+        easeOutQuart = Quart.OUT;
+        easeInOutQuart = Quart.INOUT;
+        easeInQuint = Quint.IN;
+        easeOutQuint = Quint.OUT;
+        easeInOutQuint = Quint.INOUT;
+        easeInCirc = Circ.IN;
+        easeOutCirc = Circ.OUT;
+        easeInOutCirc = Circ.INOUT;
+        easeInSine = Sine.IN;
+        easeOutSine = Sine.OUT;
+        easeInOutSine = Sine.INOUT;
+        easeInExpo = Expo.IN;
+        easeOutExpo = Expo.OUT;
+        easeInOutExpo = Expo.INOUT;
+        easeInBack = Back.IN;
+        easeOutBack = Back.OUT;
+        easeInOutBack = Back.INOUT;
+        easeInBounce = Bounce.IN;
+        easeOutBounce = Bounce.OUT;
+        easeInOutBounce = Bounce.INOUT;
+        easeInElastic = Elastic.IN;
+        easeOutElastic = Elastic.OUT;
+        easeInOutElastic = Elastic.INOUT;
+    }
+}

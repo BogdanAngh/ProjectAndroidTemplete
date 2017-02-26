@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<io.codetail.widget.RevealFrameLayout app:layout_width="-1" app:layout_height="-1">
+    <LinearLayout app:orientation="1" app:background="@color/background_pad_numberic" app:layout_width="-1" app:layout_height="-1" app:layout_marginRight="9dp" app:weightSum="7.0">
+        <View app:layout_width="-1" app:layout_height="0dp" app:layout_weight="3.0" />
+        <io.codetail.widget.RevealLinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="0dp" app:weightSum="5.0" app:layout_weight="1.0">
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit7" app:text="@string/digit7" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit8" app:text="@string/digit8" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit9" app:text="@string/digit9" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnClear" app:text="@string/clear" style="?unknown_attr_ref: 7f0100ae" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnDelete" app:text="@string/delete" style="?unknown_attr_ref: 7f0100ae" />
+        </io.codetail.widget.RevealLinearLayout>
+        <io.codetail.widget.RevealLinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="0dp" app:weightSum="5.0" app:layout_weight="1.0">
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit4" app:text="@string/digit4" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit5" app:text="@string/digit5" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit6" app:text="@string/digit6" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnMul" app:text="@string/mul" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100af" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnDiv" app:text="@string/div" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100af" />
+        </io.codetail.widget.RevealLinearLayout>
+        <io.codetail.widget.RevealLinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="0dp" app:weightSum="5.0" app:layout_weight="1.0">
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit1" app:text="@string/digit1" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit2" app:text="@string/digit2" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit3" app:text="@string/digit3" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnPlus" app:text="@string/plus" style="?unknown_attr_ref: 7f0100af" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnMinus" app:text="@string/minus" style="?unknown_attr_ref: 7f0100af" />
+        </io.codetail.widget.RevealLinearLayout>
+        <io.codetail.widget.RevealLinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="0dp" app:weightSum="5.0" app:layout_weight="1.0">
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/digit0" app:text="@string/digit0" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100aa" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnDot" app:text="@string/dot" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100ab" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnPi" app:text="@string/pi_symbol" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100ab" />
+            <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_ans" app:text="@string/ans" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100ab" />
+            <com.example.duy.calculator.view.ImagePadButton app:id="@id/btnEqual" app:src="@drawable/ic_equal" app:layout_weight="1.0" style="?unknown_attr_ref: 7f010074" />
+        </io.codetail.widget.RevealLinearLayout>
+    </LinearLayout>
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:weightSum="7.0">
+        <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="0dp" app:layout_marginRight="9dp" app:layout_weight="3.0" app:cardCornerRadius="0dp" app:cardElevation="8dp" app:cardUseCompatPadding="false" app:contentPadding="0dp">
+            <LinearLayout app:orientation="1" app:background="@color/background_pad_advance" app:clipToPadding="false" app:layout_width="-1" app:layout_height="-1" app:weightSum="3.0" app:elevation="8dp" app:outlineProvider="2">
+                <io.codetail.widget.RevealLinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="0dp" app:weightSum="6.0" app:layout_weight="1.0">
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_solve" app:text="@string/solve_2" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_calc" app:visibility="2" app:text="@string/calc" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_fact" app:text="@string/fact" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:enabled="false" app:id="@id/btn_graph" app:visibility="2" app:text="@string/graph_2" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_comma" app:text="@string/comma" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_degree" app:text="@string/degree_sym" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.ImagePadButton app:id="@id/btn_input_voice" app:visibility="0" app:src="@drawable/ic_keyboard_voice_white_24dp" app:scaleType="5" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_x" app:text="@string/x" app:layout_weight="1.0" app:textAllCaps="false" style="?unknown_attr_ref: 7f0100bd" />
+                </io.codetail.widget.RevealLinearLayout>
+                <io.codetail.widget.RevealLinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="0dp" app:weightSum="6.0" app:layout_weight="1.0">
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_sin" app:text="@string/sin" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_cos" app:text="@string/cos" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_tan" app:text="@string/cos" app:textAllCaps="false" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_a" app:text="@string/A" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/padButtonBasicCalculator" app:text="@string/B" app:textAllCaps="false" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:text="@string/C" style="?unknown_attr_ref: 7f0100bd" />
+                </io.codetail.widget.RevealLinearLayout>
+                <io.codetail.widget.RevealLinearLayout app:orientation="0" app:clipToPadding="false" app:layout_width="-1" app:layout_height="0dp" app:weightSum="6.0" app:layout_weight="1.0">
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnLeftParen" app:text="@string/leftParen" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnRightParen" app:text="@string/rightParen" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnFact" app:text="@string/factorial" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btnPower" app:text="@string/power" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_sqrt" app:text="@string/sqrt_sym" app:textAllCaps="false" style="?unknown_attr_ref: 7f0100bd" />
+                    <com.example.duy.calculator.view.PadButtonBasicCalculator app:id="@id/btn_cbrt" app:text="@string/op_cbrt" app:layout_weight="1.0" style="?unknown_attr_ref: 7f0100bd" />
+                </io.codetail.widget.RevealLinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</io.codetail.widget.RevealFrameLayout>

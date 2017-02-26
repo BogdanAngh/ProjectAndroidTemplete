@@ -1,0 +1,3800 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA1-Digest-Manifest: cn46MTgTo9u9o7w/o/tnfeWf++o=
+Created-By: 1.0 (Android)
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Latin1S
+ upplement.js
+SHA1-Digest: Cnu4n73u9nmKZ5MKnI0/5782nw0=
+
+Name: res/layout/display.xml
+SHA1-Digest: 1q1Ez3Y7xMI/PB3Qo10l0ArPAPE=
+
+Name: res/drawable/ic_cubic.png
+SHA1-Digest: SJ2V/zBh+yUjr3uaz2cxnr90SYg=
+
+Name: res/layout/design_text_input_password_icon.xml
+SHA1-Digest: fXWPx8rbbppLFuMyhbVXpdH7pUc=
+
+Name: res/drawable-hdpi-v4/ic_menu_back.png
+SHA1-Digest: fJdveIxVlcjo2G2s0Owux/T/7zc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: EikVyBT5I7pmbJO2k8qF0V5hUc0=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Regular/MiscSy
+ mbols.js
+SHA1-Digest: 0ah/stm+Xzer7O4m9v7Fx10zEEo=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Size4-Regular_old.
+ otf
+SHA1-Digest: N9L06Oe9gv2HwI2H7CQoihpH8h0=
+
+Name: res/drawable-xhdpi-v4/ic_nav_open_black.png
+SHA1-Digest: 39BmDH38RlmBEURiWc7677MK+2E=
+
+Name: assets/MathJax/extensions/CHTML-preview.js
+SHA1-Digest: gxzKDD9I7+ZGg86bN8lYVYxGrN4=
+
+Name: assets/themes/katex.chtml
+SHA1-Digest: jWMFHjbdG2HhbVBds5pVCpSBOGg=
+
+Name: res/drawable-xxxhdpi-v4/ic_fullscreen_white_24dp.png
+SHA1-Digest: 7AX4P3mnjrvhlTGofD6pvEbuYTI=
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA1-Digest: iPtKeCtxBDsPlPY18AN/Fz+9bAA=
+
+Name: res/drawable-hdpi-v4/ic_help_white_24dp.png
+SHA1-Digest: n2kWdswsqeWCR5CT27bz8Mg5pNs=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Regular/B
+ asicLatin.js
+SHA1-Digest: yP9/bGdXswwB3twR8BDiy/p81hA=
+
+Name: assets/MathJax/jax/element/mml/optable/GeneralPunctuation.js
+SHA1-Digest: A80oZuN9vp89ySP5xnEFmzb+lIk=
+
+Name: res/drawable-xhdpi-v4/ic_settings_black_24dp.png
+SHA1-Digest: lIrQAX4Efd/1zuGBaAuHpuxxqFo=
+
+Name: res/drawable-xxxhdpi-v4/ic_keyboard_voice_white_24dp.png
+SHA1-Digest: r/s/4hfDwBrbYRDHDcTiMysLQ7k=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: 9tUjx7UM0mulF68Qo7aCRIbp79I=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: pUh1yzyRb6c3D0mL7cI4wKExeTI=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: AdlBQF7mCKx3VlJQ4HaRjQeNXyo=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: 5UaNOkybISiEUK5MsjqVGY1xE9o=
+
+Name: assets/katex/fonts/KaTeX_Math-Regular.woff2
+SHA1-Digest: Cy85uvtNb7nWFuNULJpUkqsFD1E=
+
+Name: assets/MathJax/extensions/MathML/content-mathml.js
+SHA1-Digest: 2U5oU6dmZNROhH7MDg+s8zR2xiY=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: 6Uv/jkzqGhBLoMofbOq4yrtoxx0=
+
+Name: res/drawable-hdpi-v4/ic_color_lens_black_24dp.png
+SHA1-Digest: 9xAkNAo4LNbEC7VNpFgyiOFC0/Y=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Size1-Regular_old.
+ otf
+SHA1-Digest: EgX0gbyp970cLA1ynNA7fWq2cM8=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: 1y+vuoD2qUEyG9rLg5RKbDNziXo=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_WinIE6-Regular.otf
+SHA1-Digest: ijTNtFosmIy+I4ID8RoyRg9Bl/E=
+
+Name: res/drawable-xxxhdpi-v4/ic_content_paste_black_24dp.png
+SHA1-Digest: 7CVllltHV7goQY6XzViSAH+iczc=
+
+Name: assets/MathJax/extensions/TeX/HTML.js
+SHA1-Digest: Yhlf5R6/QngAQKcxEF68MQA+vKQ=
+
+Name: res/layout/app_bar_real_to_fraction.xml
+SHA1-Digest: KlalcIL49LVdrnzShd+6J3sUaXU=
+
+Name: assets/katex/fonts/KaTeX_Fraktur-Bold.ttf
+SHA1-Digest: 9JN4bNLI0ArZDfswNRP5k+5zjCg=
+
+Name: res/drawable-hdpi-v4/fab_add.png
+SHA1-Digest: C1z5847Y3gFFcd2Zk/c5tKZun3E=
+
+Name: assets/MathJax/jax/input/MathML/entities/f.js
+SHA1-Digest: 3OUCa5Zp2gZt+VNDUXBgtTFDR8s=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: x44uUsdD5wnS8x1uTf9WTb3Fux4=
+
+Name: assets/MathJax/extensions/TeX/extpfeil.js
+SHA1-Digest: Ehke+S97JjGT6lDsQYAA48QAtGU=
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: NJuMq0n7Coq8s/ff6QHhDQhI9uw=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: gLHAZPEH/WYlWCNIPwRV1Ypbx70=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 99GkU44EvefOaxLCiFW5KAUEIJQ=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: DEs6vc1K8XG6beWoDb+133ne7w4=
+
+Name: res/drawable-xxxhdpi-v4/ic_check_white_24dp.png
+SHA1-Digest: 2TdB5weHidWjS2PoNt2HJcWR2+8=
+
+Name: res/drawable-mdpi-v4/ic_equal_light.png
+SHA1-Digest: 7AJkGntYj/oWPjGiijliLtDjcis=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Typewriter/Regular/
+ Main.js
+SHA1-Digest: sbUkAkkMCKpln18JjJF4VyEkH1w=
+
+Name: res/drawable-xhdpi-v4/ic_exposure_plus_2_black_24dp.png
+SHA1-Digest: +wZ+758sSvmYRbW01ALSilXBQPs=
+
+Name: assets/MathJax/jax/output/HTML-CSS/autoload/menclose.js
+SHA1-Digest: Ayt87kPRaLvASr9ifwfVtXJ1h80=
+
+Name: res/drawable-mdpi-v4/ic_functions_black_24dp.png
+SHA1-Digest: h+MomjoK6tXlH/KRyyziHqiE9tI=
+
+Name: res/xml/pref_font_and_style.xml
+SHA1-Digest: oAVcBX3BN11KX+/S28jdEaKvVAo=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: aIGAXFJUWBpGBqxutT4FN/rc5VM=
+
+Name: res/drawable-xxhdpi-v4/ic_exposure_plus_2_black_24dp.png
+SHA1-Digest: ZeXuql2whmEk6Z3hc0jWuP/kMRA=
+
+Name: res/drawable-xhdpi-v4/ic_error_black_24dp.png
+SHA1-Digest: 9EHlyZR/VFVQzfZm0oM3Nh/SOk8=
+
+Name: res/drawable-hdpi-v4/ic_more_vert_white_24dp.png
+SHA1-Digest: FzyiyoXDRqOrHjhuuQsK4BoV9Fw=
+
+Name: res/anim/abc_popup_exit.xml
+SHA1-Digest: cqcEJQlO1BPGI5tfR/hwXzXkx04=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 2gdfs4MdNrmZ5fPzRYQKwf3z8nA=
+
+Name: res/drawable-xxhdpi-v4/ic_infor_black.png
+SHA1-Digest: yNxcuHrCSADDyfYJjg+r8PdX0m4=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Main-Bold.otf
+SHA1-Digest: TnW96a2i6lsfnr4gU7lg779oQtg=
+
+Name: assets/MathJax/extensions/TeX/unicode.js
+SHA1-Digest: Wm+HoP5qLoGgyK8GvnR6VEKbHzU=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: a7U8laL64zWsn3iqwFtmBlowFJw=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: LJhGIJ9ykH+SLTXwcnjoa1J97NE=
+
+Name: assets/katex/fonts/KaTeX_Math-BoldItalic.woff
+SHA1-Digest: mnneSlO8Mn+Fe+7alL7SmeQXEaE=
+
+Name: res/drawable-hdpi-v4/ic_graph_black.png
+SHA1-Digest: 286CIf5m7AQhTIrxLp0XSzHL+MA=
+
+Name: res/drawable-xxxhdpi-v4/design_ic_visibility.png
+SHA1-Digest: swt1xCeUHWXTPK1wZL3z/KjE6j8=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Fraktur/Regular/PUA
+ .js
+SHA1-Digest: LsEVbvBaWmy3KgzADhuX1F3hfhE=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: wTxntWArKB7sDc4M27U+PpjZhyU=
+
+Name: assets/katex/fonts/KaTeX_Math-Italic.ttf
+SHA1-Digest: BYfxkV2nlBtHLG/jM2L4+/sxdNc=
+
+Name: assets/MathJax/jax/input/MathML/entities/d.js
+SHA1-Digest: BBn2xILt+2+I/6PjXXz9yswUy2U=
+
+Name: res/layout/content_hand_calc.xml
+SHA1-Digest: FGTdpLkyAVsXSQMmAhCNlOOAWTQ=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.
+ png
+SHA1-Digest: dOjymfO7tQPa8kQCGNculrdtmzM=
+
+Name: res/drawable-mdpi-v4/ic_setting_black.png
+SHA1-Digest: b7QOcU7kVd0dcsj25+nf/IXaZgk=
+
+Name: res/drawable-mdpi-v4/ic_zoom_out_black_24dp.png
+SHA1-Digest: +kI/QHcBTOHKq1SLK8uxgIC3n8Y=
+
+Name: res/layout/content_main.xml
+SHA1-Digest: TD+KhKt/V2IxvEExECEzl6z1iG8=
+
+Name: res/drawable-xhdpi-v4/ic_star_rate_black_18dp.png
+SHA1-Digest: 44TWNFdm89F24RUaJNmtgd+u3Bs=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.p
+ ng
+SHA1-Digest: sbqUAnAP9Ic0aSxtt345LLubAZ0=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.p
+ ng
+SHA1-Digest: RFU8ebcpWdq1WfG1+5m0rjD3S0w=
+
+Name: assets/katex/fonts/KaTeX_Fraktur-Regular.ttf
+SHA1-Digest: iXEwT9zRp4vHgBm3ZE2OZt7Q+3I=
+
+Name: res/drawable-mdpi-v4/ic_settings_black_48dp.png
+SHA1-Digest: lIrQAX4Efd/1zuGBaAuHpuxxqFo=
+
+Name: res/drawable-xhdpi-v4/ic_graph_black.png
+SHA1-Digest: H1ti7z8X9l0rvYKJhzGrVPRGsDc=
+
+Name: res/drawable-anydpi-v21/design_ic_visibility.xml
+SHA1-Digest: yN7p3zIAMnbTgYXt0CGPiNuftKE=
+
+Name: res/drawable-xhdpi-v4/ic_history_black_24dp.png
+SHA1-Digest: KIbn8o1wsIS6Z0AeoTjeLTJqD60=
+
+Name: assets/MathJax/jax/element/mml/optable/SuppMathOperators.js
+SHA1-Digest: GVB0PQP5NOqUAYRy5uAT3fI5pDY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: dd2zj6sr+xRmZWNPRjYGn37/Nm8=
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: J10MbRypNxo+JeKfGf61OMkWgdY=
+
+Name: res/anim/fab_scale_down.xml
+SHA1-Digest: H0BG4zN+LP+DPyxu9L+1OzYPo3Q=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA1-Digest: zeLxzz9FrpBEwwww3BFJskQyrfE=
+
+Name: assets/MathJax/extensions/FontWarnings.js
+SHA1-Digest: LpmQ2M1GbJdaul3+1jz/P7yHZI8=
+
+Name: res/drawable-xxhdpi-v4/ic_content_paste_white_24dp.png
+SHA1-Digest: 1YkYBaciEtAvS/B9TfIsLtvfjZ8=
+
+Name: assets/katex/fonts/KaTeX_Size1-Regular.woff
+SHA1-Digest: rGP4ElmIahkoxAtvaLe6SBh507g=
+
+Name: assets/MathJax/jax/output/HTML-CSS/jax.js
+SHA1-Digest: 7KOSaWQVNDqUOZqioihjR/uVuT4=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA1-Digest: FYbhUHaLuBwBP8qQDm0+Kj+n1WE=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/CombDiact
+ ForSymbols.js
+SHA1-Digest: cmjq2+CzfrKDJwLe1mJMJJ1SwiU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/MiscTechn
+ ical.js
+SHA1-Digest: a9qcQCg1h95UrqV+hzGWRVKNS3Q=
+
+Name: assets/MathJax/extensions/TeX/autoload-all.js
+SHA1-Digest: dBdGLgYga84DWB7FZ2jdh5wMX1c=
+
+Name: res/layout/design_layout_snackbar.xml
+SHA1-Digest: tjzzga5lqdUjNj2Z2HRa/xRf2jo=
+
+Name: res/drawable-xxxhdpi-v4/ic_save_black_24dp.png
+SHA1-Digest: 2szElZd2nX1hlBWDlaHAg4nVz4w=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: vgGy8pBTjoL/yJmNDQQ42DiT8vg=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA1-Digest: 10kBvBUte2AZyag/8SjtRBJJBog=
+
+Name: res/drawable-hdpi-v4/ic_add_black.png
+SHA1-Digest: hka+rm/e5/97oKyNno6xL6UPI4s=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Greek/BoldItalic/Ma
+ in.js
+SHA1-Digest: dbvbAoPIJL4SUqYmGBaZ52PvKyM=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: eobI6VkMzG98QREBV+/eaTz00LY=
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: GsekZVTmqt7NzcA9FoawMuFDm0E=
+
+Name: System.mep
+SHA1-Digest: /fJgI+qXkD5iBMw4X1s2mv+QEOY=
+
+Name: res/anim/fab_scale_up.xml
+SHA1-Digest: T/PRahKE3lxkqaSjcqvEdMxmS6o=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Greek/Italic/Main.j
+ s
+SHA1-Digest: G+Eg4JqkRQqYB7cQA+SKn2Tv+9A=
+
+Name: res/drawable-mdpi-v4/ic_base_black.png
+SHA1-Digest: XJearTtuJFlS4W2Qxk/0QF7p46A=
+
+Name: res/layout/design_bottom_sheet_dialog.xml
+SHA1-Digest: P2SvbWGv6CGb9E/uWA5VKCe4wKY=
+
+Name: assets/MathJax/MathJax.js
+SHA1-Digest: m28xr6tv6CV91vaojJU30Tu1ihM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/config.js
+SHA1-Digest: bdn2GRA+7RcGD5jkUrPxjANK5ZM=
+
+Name: assets/katex/fonts/KaTeX_Typewriter-Regular.ttf
+SHA1-Digest: sLDPtS6zp8MVDEMLCBJ0sJKrwuU=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: rciAiTdJ+MRPTsG/UvNRmHGoqCA=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.pn
+ g
+SHA1-Digest: MoCkoRXaiGThFVhhLr4wDS0VuM4=
+
+Name: res/anim/abc_popup_enter.xml
+SHA1-Digest: 13OdlWXUpuPph/+jWz4q+sw12p0=
+
+Name: res/drawable-mdpi-v4/ic_photo_camera_black_24dp.png
+SHA1-Digest: MIn+/bIl9+oAex1+lpThoWKg6ao=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA1-Digest: Yn37kYb2M+pyzKZivDWMEBE0fLM=
+
+Name: assets/MathJax/extensions/mml2jax.js
+SHA1-Digest: LaMDp/5pGxNNuA/vhx4P7ZC3Z80=
+
+Name: res/drawable-hdpi-v4/ic_photo_camera_black_24dp.png
+SHA1-Digest: WOD/nR3QG7ua5jaWYBL3C/gdFUg=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 2ZcyJXLoxWK5zIfkkbYfTQJkvHI=
+
+Name: assets/katex/fonts/KaTeX_Main-Italic.eot
+SHA1-Digest: DsVe8beHseT8Vfv5Y8IV3ain5hk=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA1-Digest: 3tvP8qe4kebZ4PVAm66C4rbP7Do=
+
+Name: res/layout/design_navigation_item_header.xml
+SHA1-Digest: qsOWRvNaQ06d3sFlMY+COa3MVGM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Regular/Geomet
+ ricShapes.js
+SHA1-Digest: i3RYnH/vjzhHEVHSybF7QZN2TaY=
+
+Name: res/drawable-mdpi-v4/ic_primitive_black.png
+SHA1-Digest: uV903GCN1O9j30IEpUk/YaKA5oY=
+
+Name: assets/katex/fonts/KaTeX_Fraktur-Bold.woff
+SHA1-Digest: T+Fnj3BWycEUtstcSJJ/1fo+jb8=
+
+Name: res/drawable-mdpi-v4/ic_help_black_24dp.png
+SHA1-Digest: X/0x/9Hz/r8t8gx/d+T8zkfAdQM=
+
+Name: assets/MathJax/extensions/TeX/color.js
+SHA1-Digest: 5yYjJ64u3B2T3abrSwv8SNgGUt0=
+
+Name: res/drawable-xxxhdpi-v4/ic_settings_black_48dp.png
+SHA1-Digest: AljelWaDjZb+7ycBQWHyYI7Ai9Y=
+
+Name: res/mipmap-xxxhdpi-v4/ic_derivative_black.png
+SHA1-Digest: yOzGwFNC+BxO7/sfEoWCjG64TL0=
+
+Name: res/drawable-xxxhdpi-v4/ic_history_white_24dp.png
+SHA1-Digest: qVaQ0+48nCNxsgSblWU0ZJWL2kI=
+
+Name: res/menu/menu_hand.xml
+SHA1-Digest: PJ3cvQmnvU+ajC9cPP1oHPzGoNM=
+
+Name: assets/katex/fonts/KaTeX_Fraktur-Bold.eot
+SHA1-Digest: 4VL1OIH8qRjoinQkNVglzqRxH9s=
+
+Name: res/layout-v17/abc_dialog_title_material.xml
+SHA1-Digest: Y0DBQMv/iXOZywdkIr0OtcRcTXM=
+
+Name: res/drawable-xxhdpi-v4/ic_email_black_24dp.png
+SHA1-Digest: uRc/+vGWzPerwjlQGRQBcmQnf7I=
+
+Name: assets/katex/fonts/KaTeX_AMS-Regular.woff2
+SHA1-Digest: v2/Yq9r6KQHtSgMm7ThbgKTRdWo=
+
+Name: res/drawable-hdpi-v4/ic_share_white_24dp.png
+SHA1-Digest: b16z2AMqd9amiCpfvP0Z/gcBbb8=
+
+Name: res/drawable-hdpi-v4/ic_delete_black_48dp.png
+SHA1-Digest: HoRbp65Wh2xyXDtTE2rsMrOT8uA=
+
+Name: assets/katex/fonts/KaTeX_Size4-Regular.woff2
+SHA1-Digest: zSylzTJzfIvbIwXi6c+C7ZBXM9s=
+
+Name: res/drawable-xxhdpi-v4/ic_star_rate_black_18dp.png
+SHA1-Digest: PqHbGdqNa5m3Rv3vnJgW6rvDGjY=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 0kKvPwdj7zBzN9UX4+jHAPKwyCA=
+
+Name: assets/MathJax/jax/input/MathML/entities/z.js
+SHA1-Digest: LT76RGLyNx0ZdFbm5LFcQay16Gc=
+
+Name: assets/MathJax/jax/input/MathML/entities/o.js
+SHA1-Digest: EqFZn893MI6eG/lfyfMgf+ET2Rk=
+
+Name: assets/MathJax/extensions/TeX/noUndefined.js
+SHA1-Digest: YNZJqo/q99dQxhHpf8cZQkxtlHM=
+
+Name: assets/MathJax/jax/input/MathML/config.js
+SHA1-Digest: BeUMdfL1B2Yq9Serzxh6QvXghzg=
+
+Name: res/drawable-xxhdpi-v4/ic_redo_black_24dp.png
+SHA1-Digest: 9NlMQ88SNAAM3hF2XWhK3/kOoLA=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Regular/CombDi
+ acritMarks.js
+SHA1-Digest: NfAyTHYt/4gtdJXoU9bd8ykPPXM=
+
+Name: res/drawable-mdpi-v4/ic_undo_black_24dp.png
+SHA1-Digest: lroI5ZwGTki1iTQ98WvOhwtg+9g=
+
+Name: res/layout-land/pad_base.xml
+SHA1-Digest: CY3oxRkg8302tEibtE9am7+7U9o=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: zLtLDGOiJ207WrTCsWah2jkG/84=
+
+Name: res/drawable-v21/abc_ratingbar_small_material.xml
+SHA1-Digest: BADt3Ef1toHfWLOP4cHWQg7zFsc=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: byuQvpWXS6brcdPpZzFwfkUGtWE=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: FsvLP65iWVfEfIkCPXw4wimwY7M=
+
+Name: res/color-v23/design_tint_password_toggle.xml
+SHA1-Digest: uKmyWahGcwpgv98l1DYuTUPcE0M=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/Main.js
+SHA1-Digest: JHPO2+ZZpcNLP/L688O7e/y6B+Y=
+
+Name: assets/MathJax/jax/input/MathML/entities/h.js
+SHA1-Digest: N6I3riGQOERodUt36rhbElWC+Gw=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Fraktur/Regular/Mai
+ n.js
+SHA1-Digest: FgZw7SSkaUr6pkITKQEZaXA0CXo=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: jnLnSBDt0id1WrhEiz1zra3RW6M=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Regular/O
+ ther.js
+SHA1-Digest: nI79+NpHfU75/aM/fR5MdGtMW+w=
+
+Name: res/layout/activity_special_number.xml
+SHA1-Digest: /g/OSWb2ldDLQ2aw+cZJevpFMjA=
+
+Name: res/drawable-xxhdpi-v4/ic_graph_black.png
+SHA1-Digest: +/OrL+ogsEXUiSZ2xN5jFWT5MOM=
+
+Name: res/mipmap-xhdpi-v4/ic_fraction_black.png
+SHA1-Digest: eP6NXNvPhVCVcLfjBX1S8n6hzBY=
+
+Name: res/drawable-xhdpi-v4/design_ic_visibility_off.png
+SHA1-Digest: 0OVNK8kFZq2fgUG4Kc9y+NUoIyk=
+
+Name: assets/MathJax/jax/input/MathML/entities/s.js
+SHA1-Digest: dfzmIDYtpqSnP0epLcs0txwLJmI=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: p9yo7nPv1+QXIp7d0MuBkk881kM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/imageFonts.js
+SHA1-Digest: 1gQcbLjUr8nqjWrPMBHQ7hDV8uM=
+
+Name: assets/katex/fonts/KaTeX_Size3-Regular.woff2
+SHA1-Digest: ASmUaC1XvZSwgAlnVtu/fnSObjQ=
+
+Name: res/layout/content_real_to_fraction.xml
+SHA1-Digest: Yad3x/s5iKEGeGz5/pszeqSB5Ok=
+
+Name: res/drawable-xxhdpi-v4/ic_primitive_black.png
+SHA1-Digest: 1+66SmbCqO0F0Mz8ZXro6pZiE1k=
+
+Name: assets/katex/fonts/KaTeX_Size3-Regular.woff
+SHA1-Digest: V5wFmVtybthSlVsFPA7TcEeTbQ4=
+
+Name: res/layout/design_menu_item_action_area.xml
+SHA1-Digest: +CaSrRO+YIeuLR//AbmNORoSW6o=
+
+Name: res/drawable-xhdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: c/YaChQxoRa32yhpTz7GjvMTH7k=
+
+Name: res/drawable-hdpi-v4/ic_primitive_black.png
+SHA1-Digest: Quxp4riH/cqZkglMgcXQaMO+prU=
+
+Name: assets/MathJax/extensions/tex2jax.js
+SHA1-Digest: QOzMVo7QnBn/PfJhtFYITdJqcyk=
+
+Name: res/drawable-xhdpi-v4/ic_zoom_in_black_24dp.png
+SHA1-Digest: jOna78eU/bSJrXmpLJZtbKNBkUM=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_SansSerif-Bold.otf
+SHA1-Digest: b726/StPp8ENn/cgbHqm89noCYk=
+
+Name: assets/MathJax/extensions/toMathML.js
+SHA1-Digest: jhoLHzTb57IY7ASNV0gUfNwx8LM=
+
+Name: res/drawable-xxxhdpi-v4/ic_history_black_24dp.png
+SHA1-Digest: iYeF7yPeCuy8/5ORDVB/iFYNYfA=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Fraktur-Bold.otf
+SHA1-Digest: Xn24UgCyFtORh7rwWkWz2Eb1ZmQ=
+
+Name: assets/katex/fonts/KaTeX_AMS-Regular.eot
+SHA1-Digest: VVXNjZc5qqcIWZOiNoGUNPkbgBM=
+
+Name: res/drawable-mdpi-v4/ic_keyboard_voice_white_24dp.png
+SHA1-Digest: yR4mAwaAR5LL9VAVRtbR4Q/XyNY=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: qleKQAEaDWtvjqExBwBTQxblfek=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.p
+ ng
+SHA1-Digest: Fv+MHn2EjJlYrnRlsip5/7aL0Wg=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: dT9O498/3E1mpkpzpSmdy7tcxxU=
+
+Name: res/drawable-mdpi-v4/ic_add_white.png
+SHA1-Digest: h33JiOU02zwlaU/W09S8WfWNYZ0=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/SpacingMo
+ dLetters.js
+SHA1-Digest: WwEb1yW6Ejf03b4ROZkiglIH+zg=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: Mv+KiFiSaa+WMki+npzbbru9CxE=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: s2YqO8BWdezwYY22IiKN0Mf88oM=
+
+Name: res/mipmap-xxxhdpi-v4/ic_fraction_black.png
+SHA1-Digest: YWKcsvUU9S4SoHUUlThDZQ5+PHM=
+
+Name: assets/MathJax/extensions/TeX/action.js
+SHA1-Digest: agdqUnDDq99KikmmM96HCl0vPxM=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Size3-Regular.otf
+SHA1-Digest: 9M68v96EbErLIrq8fXHAq2xe3V0=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.pn
+ g
+SHA1-Digest: FavPjuk6olEZey6sIq7rywmBBwY=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: JKV8P+rg3eY4lfp/aRgwOCFBeL0=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: UGwWL8VjH/q3u1q42D0mXZHDD20=
+
+Name: res/layout/design_bottom_navigation_item.xml
+SHA1-Digest: FnEhKUsoGsdFigUwB5+HCu+gE6I=
+
+Name: res/layout/app_bar_unit_converter_acitvity.xml
+SHA1-Digest: z06aCylODgAzLGrd7U5NWdsVONY=
+
+Name: res/layout/content_statistic_activity.xml
+SHA1-Digest: mCQ23HLR40neIl4ykPA6SHMr8L4=
+
+Name: res/drawable/ic_power.png
+SHA1-Digest: 1wuinfOYD5BN+J3bAJmoRszhONw=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: h4G5TeOQ9xufiMtoFfAe3fINBds=
+
+Name: assets/MathJax/jax/output/HTML-CSS/autoload/maction.js
+SHA1-Digest: iuqROC1r655qfKDM+bV92OO5GgQ=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_WinChrome-Regular.
+ otf
+SHA1-Digest: M+pIZ868Bmka54wlPt9rsrcJoIs=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA1-Digest: L5jFrls9S2xgxTIXflqJ3hMG2ks=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: BmwsKC3uNvwcF8agRRgehS1CAm0=
+
+Name: res/layout/activity_app_about.xml
+SHA1-Digest: yXrzGaK8NVkEF+qAFnPuZInvefc=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/PUA.js
+SHA1-Digest: +8ZKS2nEaHJ4N9wSE2eHi1s3aAA=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Size2-Regular.otf
+SHA1-Digest: JTSWBfHBhLP8SgDmcHSPz04G+0A=
+
+Name: assets/org/apache/commons/math4/random/new-joe-kuo-6.1000
+SHA1-Digest: SWJDF4YOzslttzlKxaUix8x8X9A=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/LatinEx
+ tendedA.js
+SHA1-Digest: 8+FL+mXw45bQZeJb9cYYIp5l5wk=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: EWsVhp6Fuj87sih/RyDRPr/vOxY=
+
+Name: res/drawable-xxhdpi-v4/ic_reset.png
+SHA1-Digest: Vw200CnR6NpYiE3XLivQSdYSVUM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Caligraphic/Regular
+ /Main.js
+SHA1-Digest: MLv8FQ7iggt8ZkJWs5gIHOSths8=
+
+Name: res/color-v23/abc_tint_switch_thumb.xml
+SHA1-Digest: HD5Li8YJgVvdkSufIiRkRzWutk8=
+
+Name: res/drawable-hdpi-v4/ic_add_black_24dp.png
+SHA1-Digest: tOHu+LbEWQAJSatdF8aGiU0qw24=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: wGKb+pVDGKw3/leWYeK8xR4rO8g=
+
+Name: assets/MathJax/jax/element/mml/optable/CombDiactForSymbols.js
+SHA1-Digest: vk39sFThocvGUo8+f5VWRfW5oEY=
+
+Name: res/drawable-xxhdpi-v4/ic_check_white_24dp.png
+SHA1-Digest: cq9sJ0CjS+BSlj0PfsgwP2fqmWc=
+
+Name: assets/MathJax/extensions/TeX/boldsymbol.js
+SHA1-Digest: My6Re065zrwgyxr6Bmi/r4SYtlU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/WinChrome/Regular/M
+ ain.js
+SHA1-Digest: nmLUHem97vjqY/r73vdZMQ/DMlU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Script/Regular/Basi
+ cLatin.js
+SHA1-Digest: 5llSZlyHCybtyyfiKm0hTveiyho=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.pn
+ g
+SHA1-Digest: 2yBDAHgYTM0FfiL8gWf0VdNXNwA=
+
+Name: res/drawable-v21/avd_show_password.xml
+SHA1-Digest: 6c/gYWnWrPXNRBF1OLKTwc1hZE8=
+
+Name: res/color/abc_tint_default.xml
+SHA1-Digest: +cgPCtpTgUJVXg0mWsNRTHu/iFI=
+
+Name: res/drawable-xhdpi-v4/ic_backspace_white_24dp.png
+SHA1-Digest: DQKg1+KHHlKGSn0E1vfYLfwRNtw=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: ++0JraYcPG1W6gax2v1T4h5rv9E=
+
+Name: assets/katex/fonts/KaTeX_Caligraphic-Regular.ttf
+SHA1-Digest: 1Otr7GS/d2vBavOYK+1GqLO+iE4=
+
+Name: res/animator-v21/design_appbar_state_list_animator.xml
+SHA1-Digest: r5aAhHLlrX/1uNMxKrMgnPhp5Vw=
+
+Name: res/drawable-mdpi-v4/ic_email_black_24dp.png
+SHA1-Digest: C5QDGGnRei4yll4bvfQo1fC3Lpk=
+
+Name: log4j.properties
+SHA1-Digest: glpCxhh3POwfsUXNBAMdpwV8UME=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: L12XNgC05BSQghB6JCrs8Us9eEo=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: h+GglN330bwjpagOTZFJ9KD8WhY=
+
+Name: res/drawable-xhdpi-v4/ic_calculator_black.png
+SHA1-Digest: uE3DfwGXAl3hYmvorGqLOUElMTE=
+
+Name: res/layout-v17/select_dialog_multichoice_material.xml
+SHA1-Digest: lUridDshZhiFvgNKOZ6XNsXvSTk=
+
+Name: res/drawable-xhdpi-v4/ic_functions_2_black.png
+SHA1-Digest: kFVW1fBov1CuNlOv+PckvFyz/mA=
+
+Name: res/drawable-mdpi-v4/white_card.9.png
+SHA1-Digest: CwH5b3NhJfhF0tLWlGrNLUaJns8=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA1-Digest: 3u3fLmehvZBhy/5ikwcph94VGWM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/MiscTec
+ hnical.js
+SHA1-Digest: IbFoze7UT72h2AXy+7lSyp6yWJY=
+
+Name: res/drawable-hdpi-v4/ic_der_black.png
+SHA1-Digest: ri7d09brrEP2qFlrFVFfYzAeyiU=
+
+Name: res/drawable-hdpi-v4/ic_exposure_plus_2_black_24dp.png
+SHA1-Digest: 9vSeZl9ged6RXjDFoCgGwEXIyaM=
+
+Name: assets/katex/fonts/KaTeX_Caligraphic-Bold.ttf
+SHA1-Digest: 0tbOcnNFOrliYOQviCdG7PJhLL0=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Math-Italic.otf
+SHA1-Digest: 0uBOU6omk1wTF2dmoh9urQ2EwQw=
+
+Name: res/layout/pad_simple.xml
+SHA1-Digest: c/Qum8+a4bw9/M99m0dUTmPNmOw=
+
+Name: res/drawable-mdpi-v4/ic_content_paste_black_24dp.png
+SHA1-Digest: 5B9OkNHCEmmwdsXAy+f8/r6QxFQ=
+
+Name: res/drawable-xxxhdpi-v4/design_ic_visibility_off.png
+SHA1-Digest: SkN1UCkcfqENTne0agcrTI4meiM=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: pCG6VILiZP+o+l5WqCvpmMhjyvY=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/LatinExte
+ ndedA.js
+SHA1-Digest: JNV4CdKSualnKYjnrfsS4RMcr8I=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA1-Digest: JAHFPLktu3Jnh8H0654EGZhL5Ao=
+
+Name: res/drawable-xhdpi-v4/design_ic_visibility.png
+SHA1-Digest: Vl5TwBMiN5v++S+3P9T9173+CDE=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: GcBbKJcMWdQ42ssCQexb9kGH6us=
+
+Name: res/drawable-xxhdpi-v4/ic_keyboard_voice_white_24dp.png
+SHA1-Digest: Tz1c8eqEc8MvdXjwfb31tl6PkPo=
+
+Name: res/drawable-xhdpi-v4/ic_share_black.png
+SHA1-Digest: PjyP6Nq/7PjA9DKSqUFO4V2xnfk=
+
+Name: res/drawable-xhdpi-v4/ic_matrix_black.png
+SHA1-Digest: RLkfMbID/H9sT/ie0gkH36FK8Zc=
+
+Name: res/layout/content_base_calculator.xml
+SHA1-Digest: DyYsd7sHM2hUiaeojCTsJGy5+v4=
+
+Name: res/layout/content_app_about.xml
+SHA1-Digest: jIQT9U91nv8tGoSo7C6IzTh2MY4=
+
+Name: res/drawable/ic_weight.png
+SHA1-Digest: X34z7wFPOVjGZjhUSzFAM22KhLk=
+
+Name: assets/katex/fonts/KaTeX_Caligraphic-Bold.eot
+SHA1-Digest: eXDsnSz49c/NsP1lRFP8gFpn3ig=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: uwiP3ApwLduQ11Jf4UyIGf8WaSw=
+
+Name: res/drawable-hdpi-v4/ic_backspace_black_24dp.png
+SHA1-Digest: s3lrxLRbHRtq6K+aoxPO8uGGTbg=
+
+Name: res/drawable-xxhdpi-v4/ic_functions_black_24dp.png
+SHA1-Digest: asp5KQ5hcFy7KvSFSpAAFz7reQg=
+
+Name: assets/MathJax/extensions/TeX/AMSmath.js
+SHA1-Digest: Xg0k8zzqeDowq7wNCdoMH1sAAAw=
+
+Name: res/drawable-mdpi-v4/ic_graph_black.png
+SHA1-Digest: aZMxyqOGZX494BPP5Clmz1kbAv4=
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: go3M/LiDh29YCSboGhLexmgDLcs=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Main.js
+SHA1-Digest: 5pXsAvPKVacbmaTvsL4RyuNVfD0=
+
+Name: res/layout/history_entry.xml
+SHA1-Digest: CrOWAGMkulH5Hypq2/UKRucJ7GU=
+
+Name: res/drawable-xhdpi-v4/ic_unit_converter.png
+SHA1-Digest: 4hQkdaDpgLttwji9ybD91tTW7bU=
+
+Name: res/layout/activity_linear_system.xml
+SHA1-Digest: xuOvJqcazva+jV5+UXYXaOOPmkk=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/MiscSymbo
+ ls.js
+SHA1-Digest: ljkPv8seEgWKZJ9MD+JEoVQyoJ4=
+
+Name: res/drawable-mdpi-v4/ic_integral.png
+SHA1-Digest: hRGQwuPccYFeJiS1l9XlgVihq/8=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: fDShwzepkR49aya4UNh+v22s1Nw=
+
+Name: res/drawable-xxhdpi-v4/ic_fullscreen_white_24dp.png
+SHA1-Digest: ucYaVnzNjR4h4q/kUWCozq+Yaek=
+
+Name: res/layout/content_matrix_calculator.xml
+SHA1-Digest: wIRj3QeU02frIDUrWor8mBqK5VY=
+
+Name: assets/MathJax/jax/input/MathML/entities/q.js
+SHA1-Digest: KhEkU5WbYQQeNEPrRfH0bqI0aOk=
+
+Name: res/drawable/ic_time.png
+SHA1-Digest: IoLXsIwMzvhzxE52Y6moquMKPCo=
+
+Name: res/drawable-mdpi-v4/ic_star_rate_black_18dp.png
+SHA1-Digest: H5uPB7OsuNU898dzWk3jCrHgAtk=
+
+Name: res/layout/content_solve_equation.xml
+SHA1-Digest: J7JSxw8L7CFR0+iP0/RtNQ1VBew=
+
+Name: res/drawable-mdpi-v4/ic_content_paste_white_24dp.png
+SHA1-Digest: 7BSPwTvXpUScvO0oXANbcGsIELY=
+
+Name: assets/MathJax/extensions/TeX/mediawiki-texvc.js
+SHA1-Digest: UEt6KRvIAhdAnNeI5COvC8sLKTo=
+
+Name: res/drawable-xhdpi-v4/ic_keyboard_arrow_up_white_24dp.png
+SHA1-Digest: 3PxmaxpnVG8kJHQX+N7F6xk2FlM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/GreekAn
+ dCoptic.js
+SHA1-Digest: l+0m8t9sI7i4yaLxjEkvqz8gRsc=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: xzR4QYhDLijnhAqvCWT+8WMmqNQ=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: ZqCBR70J+G8APLB6odEE4sbBMrY=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: C4a5xmVEzcIJxede0Urh0qZwCmg=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: m/BhFgTXaqS9kCrkVrErilQgtkA=
+
+Name: res/drawable-xxxhdpi-v4/ic_more_vert_white_24dp.png
+SHA1-Digest: 8mKXGCtvwjGWufhz0zaDSDJcH+8=
+
+Name: res/drawable-xxhdpi-v4/ic_keyboard_arrow_up_white_24dp.png
+SHA1-Digest: Zqq9WNFnhxdLJV35W8IoIa8SnsI=
+
+Name: res/drawable-xxhdpi-v4/ic_action_name.png
+SHA1-Digest: 9F6L8vUrfBfMi1HEQ6hppGQa6Og=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: e08kbab0hCmZ+bodjZ7WbbBG5g4=
+
+Name: res/drawable-xhdpi-v4/ic_share_black_24dp.png
+SHA1-Digest: rASs2k40R5CxCkBsNPpLsAbEM5M=
+
+Name: res/drawable-xxhdpi-v4/ic_font_download_black_24dp.png
+SHA1-Digest: Qndia2uAQ4EIoEYME61mbf2wQsc=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: O6eAL2M6qoFDRV9peChQYqmfUZk=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: otncOZG21mw8ew/aFY/F4swt8TY=
+
+Name: assets/katex/fonts/KaTeX_Typewriter-Regular.eot
+SHA1-Digest: /TfTEzVD/xdkUn8wpRdZrVJal88=
+
+Name: assets/themes/mathjax.chtml
+SHA1-Digest: /6r9Hk9TAWTBVy1srPyfHH1cOaE=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: gHqcnosKJ3hj1qyF5PECFPe1Z9A=
+
+Name: assets/katex/fonts/KaTeX_Size2-Regular.woff
+SHA1-Digest: gK/ScdMtNrKt2u2/Y0xQnbVDLv0=
+
+Name: res/color/design_tint_password_toggle.xml
+SHA1-Digest: iXVDmShqE2PggW8AqG6i9rYXLUc=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: pMFIJt0AYK9bN8YYzrTPxsqpllU=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: pbt0MsyrNTs98Ybmk35tO5iFiOE=
+
+Name: res/layout-v17/abc_alert_dialog_title_material.xml
+SHA1-Digest: 70t1I6MvitEsAor8F8oGQh9Jjug=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/WinIE6/Regular/Bold
+ .js
+SHA1-Digest: 7Dc8MpnWNF6v5slUA7zacV3p+N0=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 8fFdZoyOA0FyEP0K/a0QnLk0bbE=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA1-Digest: c1kBk3kYH1Q2Zf0o2yN8Btg8MFI=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: u6bTvtbDXJXOGa13pLv0kzefZXk=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: R4f3eTL+O/lB3NFIEOWrwlDzbMI=
+
+Name: assets/MathJax/extensions/MathZoom.js
+SHA1-Digest: cJ0SEarWIR1zAqPmz0zSLovw/Rs=
+
+Name: res/drawable-xxxhdpi-v4/ic_zoom_in_black_24dp.png
+SHA1-Digest: AZUCm/7p6xCaacJcah7K495rR2s=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: deH5E0yKjBo6CYdnvx70e1ZcVb4=
+
+Name: assets/MathJax/jax/input/TeX/jax.js
+SHA1-Digest: dAPMq5v+OZRwJ5rh+r2GTV3BxNc=
+
+Name: res/drawable-xhdpi-v4/ic_backspace_black_24dp.png
+SHA1-Digest: M/vtGAqv188qBinO6wcbp8ZvhTU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Enclose
+ dAlphanum.js
+SHA1-Digest: FhsJBtPk+0i3Dn8n86uSgD8TpsY=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA1-Digest: +F8+U5mR2NBLmbi4KTaXwMc4vrQ=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Main-Bold_old.otf
+SHA1-Digest: v60Y2yCLaQw4x7mEd+0SuO8KJ4Y=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/Supplemen
+ talArrowsA.js
+SHA1-Digest: 52BwWrQM9LWRbrHxwtn+aYVYI2M=
+
+Name: res/color/abc_tint_switch_thumb.xml
+SHA1-Digest: owJpoWmg5qUGxl9usGHcSw5nWbs=
+
+Name: res/layout-v17/command.xml
+SHA1-Digest: K1sVkwgT+9mWB6iJFMqaeOGLuDo=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: 0Gfqa0wEfQSI0mKJkwlXlJWSicQ=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: QVMDHjD+FV8dHd972CVcWkQnEa0=
+
+Name: res/drawable-hdpi-v4/ic_setting_black.png
+SHA1-Digest: TeMBpe+oNs2loGo3Wu89hQ1H2SU=
+
+Name: res/menu/menu_drawer.xml
+SHA1-Digest: hLqwqSSeLXaGYvAauTUDOcC3aoU=
+
+Name: res/drawable-mdpi-v4/ic_gesture_black_24dp.png
+SHA1-Digest: dj6te+1esq4vY5097+nTbNybOFg=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: 0VLpfitsUca/xr9boaUFaEIecAI=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: +08wC+HmNbo0/h/dSiuRD696c+o=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.p
+ ng
+SHA1-Digest: I9s6aQ5VyOLrNo4odqSij549Oyo=
+
+Name: res/layout/content_interpolation.xml
+SHA1-Digest: bulJk2N0dESYkN2KGih7RmkDTx4=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: D6dilO+UMcglambujyMOhNbLZuY=
+
+Name: res/drawable-xxxhdpi-v4/ic_error_black_24dp.png
+SHA1-Digest: 9XEKIq7gb//rX1mGeHEqWZeWse8=
+
+Name: assets/MathJax/jax/element/mml/optable/MiscMathSymbolsB.js
+SHA1-Digest: lury+Q4HUeMSh+P1Ky6KKkiSd1A=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA1-Digest: izNlbouSIXW9/WiRR/UlgyT9VEs=
+
+Name: res/drawable-xhdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: KwZur5Gii9Fxw/IRSXuZY3o3DRQ=
+
+Name: res/drawable-xxhdpi-v4/fab_add.png
+SHA1-Digest: ID9JUWTZnrNxwNSNHWrPfzXCWoI=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: NW/i+ex7+hXHYfPT2kBfhzB79kE=
+
+Name: assets/MathJax/extensions/TeX/mathchoice.js
+SHA1-Digest: ocunBgg0MpcZeWSP7bYi3Tli5fM=
+
+Name: res/layout/graph_panel.xml
+SHA1-Digest: 8O3Om9XtxhYfNQmHSyqCpranfLs=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: LRWlMCeV4/Lq+wNklDndVFmtRHU=
+
+Name: res/drawable/ic_equal.png
+SHA1-Digest: yF2XV/v9vY38BlXW1ZvPPGn44Nk=
+
+Name: res/anim-v21/design_bottom_sheet_slide_in.xml
+SHA1-Digest: /sfmaMejemtjucshId3pph9anUM=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: cz2cTpSbxUR34pkCMo3M7a+mSXk=
+
+Name: res/drawable-xxhdpi-v4/design_ic_visibility.png
+SHA1-Digest: 364a/+txT+QrBDJZ1GPgI2HwcMk=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: vbHeRqwBxtN7G+iA+ua2XAM6X4g=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.pn
+ g
+SHA1-Digest: ZMTKws3Yf0EOK1CpWECY7+yKtn0=
+
+Name: res/layout/function_text.xml
+SHA1-Digest: 9m1yVqOhubhW4nCrviNR6nynbG8=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: DnUPb3c/aCYMPIdhLVRqT1eh/J8=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/LatinExte
+ ndedB.js
+SHA1-Digest: VnoM7CS6GM+Ekv+/Zu0Pnv71/yk=
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 3kAOCvPKDybNG1/Fr21Y+cg522o=
+
+Name: assets/katex/fonts/KaTeX_Size2-Regular.eot
+SHA1-Digest: Smo7h6VANNTL3vwFUylCBiffDd0=
+
+Name: assets/katex/fonts/KaTeX_Size3-Regular.eot
+SHA1-Digest: HRIl5jYV9CGRq3Qs5sppE3YVfTs=
+
+Name: res/mipmap-xhdpi-v4/ic_derivative_black.png
+SHA1-Digest: NqcWYzuBL1wcE8bceKple57nI3s=
+
+Name: res/drawable-mdpi-v4/ic_add_white_24dp.png
+SHA1-Digest: 6G7VpBLlFcZIlfqSi20CSMrpamY=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: jF6QKRBg9OvlnbeWqmX8Uqm8bg8=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA1-Digest: J2BtK2NS24trzn1DalkuQuM8RiY=
+
+Name: assets/MathJax/extensions/TeX/AMScd.js
+SHA1-Digest: bha462qxSIkJNsIkv+34WK7dM0Y=
+
+Name: res/drawable-hdpi-v4/ic_content_paste_black_24dp.png
+SHA1-Digest: kl9I3e5SpWuuFmeAAIEnTlKQhP0=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Bold/Basi
+ cLatin.js
+SHA1-Digest: 6Il1ImpL5grLAJLBKjY3RCvFIn0=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: ZliTihZ+8kHBA4SfvPIPI00Y7uE=
+
+Name: res/drawable-v21/avd_hide_password_1.xml
+SHA1-Digest: FJy3+8naPsFINRyx0JC04QGonlk=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: 6BStYFTiYO5hj6qjB+1tC6u+FNA=
+
+Name: assets/MathJax/extensions/Safe.js
+SHA1-Digest: mcdJtINhdP0D6xr2Aem/IQzH96c=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: wpOpSByxZobJ4OwfT8TkwIZEyzk=
+
+Name: res/drawable-xxhdpi-v4/ic_zoom_out_black_24dp.png
+SHA1-Digest: 2VeBnn/PbjvyefCiqRLeecCsMBc=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: nrSR6Cj5AAFhLDBo5XOuCzzOUCE=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: qWoGY1W7HgFajOEKC6TeUbx8B9w=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: res/layout/item_point.xml
+SHA1-Digest: C67g/qQyX3WTYt6tniAfqkoKE0M=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: WYYEXP9zXPHmkO70T8BA20aSj+U=
+
+Name: res/anim/alpha.xml
+SHA1-Digest: NTlDzQ5WCG0hMupIwKnKDzlIBtM=
+
+Name: res/drawable-mdpi-v4/ic_font_download_black_24dp.png
+SHA1-Digest: buEPCt6m3R6Ews7/t8epvPrZIS4=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: xrezfPenkrEypujT2GuywThEH2U=
+
+Name: AndroidManifest.xml
+SHA1-Digest: iTX4pfrDVQJK5uyhwVfAvHA/pjs=
+
+Name: res/drawable-mdpi-v4/ic_delete_black_48dp.png
+SHA1-Digest: UazQCMTour2Y/5yOZNz+spYPSNQ=
+
+Name: res/layout-v17/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: SnCqj87bJ7uIUk5VsL7Uyi1N7Ow=
+
+Name: res/drawable-xhdpi-v4/ic_content_paste_white_24dp.png
+SHA1-Digest: Zm8JmC6xSUO8rnY6etjt3l3Mxg8=
+
+Name: res/drawable-hdpi-v4/ic_nav_open_black.png
+SHA1-Digest: eEgBU+wZ/YXLlPI7U8Vnjb++WCE=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 4eyqloBe4i++Lnjut9rv30zXGjc=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: IzEeZgjXFED5EPIkG+W/e3khRYc=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Main-Regular_old.o
+ tf
+SHA1-Digest: Sm6s5qGm9UL2ZxCQRdBL6uL25Y0=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Size3/Regular/Main.
+ js
+SHA1-Digest: E66xVcUm96Pu+M32FwZLl39xq60=
+
+Name: res/layout-v17/abc_popup_menu_item_layout.xml
+SHA1-Digest: A2zm1FnfD5m6TiwLow6GImDRsOA=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_dark.x
+ ml
+SHA1-Digest: QTb80agDP7Mqoy0LJEuAZgfmYBo=
+
+Name: res/drawable-hdpi-v4/ic_add_white_24dp.png
+SHA1-Digest: nSGkTWxxIQ2cLQWt3BN1Vnkcaas=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: BlslH4QYPV8tPkeyq5iFkcDXUkc=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: e6ZxO30OB+oHpoct3gGLBY0gYXA=
+
+Name: res/drawable-mdpi-v4/ic_fullscreen_white_24dp.png
+SHA1-Digest: rZVa1dq+iJkh5I1RZA1VyxJENZk=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Fraktur/Bold/BasicL
+ atin.js
+SHA1-Digest: fWhisoUfjep+feFJHiUTn5BLq2c=
+
+Name: res/drawable/splash_screen.xml
+SHA1-Digest: 6M2aez718fs4Cz1LEV4yLdMwcPI=
+
+Name: res/drawable-xhdpi-v4/white_card.9.png
+SHA1-Digest: 0SpiYG9dU0V0UzCffb4XvrWWDsU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Math/Italic/Main.js
+SHA1-Digest: RPoeH3v35M9hnQd7YYoRUqI8/18=
+
+Name: res/drawable-xxhdpi-v4/white_card.9.png
+SHA1-Digest: Kb7TvmR2v5In8w1DAr9LL5PS28U=
+
+Name: res/drawable-xxhdpi-v4/ic_matrix_black.png
+SHA1-Digest: eNmd8NgYB/DBF+nsUEvkGhTiuZY=
+
+Name: res/drawable-mdpi-v4/ic_redo_black_24dp.png
+SHA1-Digest: B5ENwBRk5/lnH9t0VV2ffv/1DJs=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.p
+ ng
+SHA1-Digest: NlZeJG8MEHDXkZ6eZeHaVGnlZgM=
+
+Name: res/drawable-xxhdpi-v4/ic_history_black_24dp.png
+SHA1-Digest: ImGV2dnuzv5WzXe4R6IXDQmrLho=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: pSQWRqoWzxoeprY+bJcbqPYnS9w=
+
+Name: assets/MathJax/jax/element/mml/optable/BasicLatin.js
+SHA1-Digest: h8zJ2igPHb+gqJZySx9MkWfxo1o=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: FC/OCZGF6FGDgSFOC1+uSRX4lO8=
+
+Name: res/layout-sw600dp-v13/design_layout_snackbar.xml
+SHA1-Digest: 0pAHU7HVvKfwbHb1V4tF3+GxwNo=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: KcAKbOCiTO5UMcKfzx/+vncLmXg=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 4yQp5RGqcPJVhL3STB21W1r3uqI=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: 8guTAEXvUmh+eaLeokeYvH7643o=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Math-BoldItalic.ot
+ f
+SHA1-Digest: l/gzAun49fNG80vtMI12pr2wYGU=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: fIqqTkaGFMNxzI09BCPuX+Nt8dc=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/GeneralPu
+ nctuation.js
+SHA1-Digest: p11f3M1p9lhJxfy6ubsqvc16uWg=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: cjcTLuyFor2apZdbjPAaXPzqPvQ=
+
+Name: res/drawable-hdpi-v4/ic_more_vert_black_24dp.png
+SHA1-Digest: 0oBbutegbZzIXmHpbLf48gaFdiA=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA1-Digest: xVS+QXsklbtw6F5lrI0vNR52xOU=
+
+Name: res/drawable-xhdpi-v4/ic_zoom_out_black_24dp.png
+SHA1-Digest: YISplImshmgCed/iFB4aUvUWeB0=
+
+Name: res/drawable-xxxhdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: C6lz6IeZ4DnKcVUu7LJCr8j8yn0=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: y4DqLE9ZMUXA7mpN9gzH7cgYblE=
+
+Name: res/layout/activity_unit_converter_acitvity.xml
+SHA1-Digest: xh+CNS4U+shkRDYcvZ4gdCgzCTA=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Arrows.
+ js
+SHA1-Digest: 3A2EdFrBTTBLXPrAapUQOqOlwvQ=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: lP85nXzNzaRJULgljjBQBBKL824=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: xc9EUi8JbA506uG62boWpLo9DB8=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Regular/C
+ ombDiacritMarks.js
+SHA1-Digest: s96f2k0RQwwPz3fPaqmlRcrF57U=
+
+Name: res/drawable-hdpi-v4/ic_backspace_white_24dp.png
+SHA1-Digest: 0z2517XpHAk0edHQxSCbfsvPKPw=
+
+Name: assets/katex/fonts/KaTeX_Size2-Regular.woff2
+SHA1-Digest: 9OEHSW91u/zDG99oDwfO3fuzQtI=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: Kw0Qo9eKlw06/oxLHYSWR6VftBw=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: IgT0lCbG3uY9vQQnsJCrHog+mlg=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/SuppMathO
+ perators.js
+SHA1-Digest: jdZQ4BuHVXjrI7ihyuenpUpMJ80=
+
+Name: res/drawable-hdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: 1sHz4E9TQwWqYTGAg5V1AZJQ+MQ=
+
+Name: res/drawable-xxxhdpi-v4/ic_zoom_out_black_24dp.png
+SHA1-Digest: AOdKeaXJ8l0GftlHGhS0fmuUHlM=
+
+Name: assets/MathJax/jax/element/mml/optable/Latin1Supplement.js
+SHA1-Digest: 6LVo37aLlLhCk6tKLkcwwhP6r58=
+
+Name: res/drawable-ldrtl-mdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: PJuP7bJz2BbLz1a9J9wwh9lGj3w=
+
+Name: res/drawable-v21/avd_hide_password_2.xml
+SHA1-Digest: 04DJcM8zkMt5FwZg69Ue0KI4ZQg=
+
+Name: res/drawable-hdpi-v4/ic_gesture_black_24dp.png
+SHA1-Digest: GZzArlWWuxsP45oh9sv8+ZeIsKc=
+
+Name: assets/katex/fonts/KaTeX_Caligraphic-Bold.woff
+SHA1-Digest: vOcnUwq/B3+j7aAzzG7tj4zpBNA=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: WHJdI0dBvRyiF6pLO1cbIb1TXkg=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: 21KY7k5nhCbUYd/od+FyqRUvm2Q=
+
+Name: res/drawable-xxhdpi-v4/ic_equal_light.png
+SHA1-Digest: 4OTBF5dVn6+9PJNKAAvb/SQ5D5s=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: hjf9hvwtitJD8jRTc+L89zr4i1I=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: /gl5aGkDgeZpKvfjFXKR8gZdpc0=
+
+Name: res/layout/activity_geometry_descartes.xml
+SHA1-Digest: phBik0pcLPTKK8H2W5mgns7n/mA=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Size2-Regular_old.
+ otf
+SHA1-Digest: wwqArwo7YI5vH8iaFy6RAZm6zyM=
+
+Name: assets/MathJax/jax/input/MathML/entities/j.js
+SHA1-Digest: aRqFf5gkXZhE8Yvc+2NPw+L6HbM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/Arrows.js
+SHA1-Digest: CQW/NUM9Uj2w4m8LDfs1H71o6Bg=
+
+Name: assets/katex/fonts/KaTeX_Math-Regular.woff
+SHA1-Digest: dB3gvWmiFdyLGEukbeIFlt+USdE=
+
+Name: assets/katex/fonts/KaTeX_Main-Bold.woff
+SHA1-Digest: NVUp0BituMKhSoXon44usmpE+Ks=
+
+Name: assets/MathJax/jax/input/MathML/entities/u.js
+SHA1-Digest: N7tQFJeNSN2vwYvd3tVFUpGnbFw=
+
+Name: res/layout/activity_statistic.xml
+SHA1-Digest: O5+tBx0ZjPSS+qClOvvb5SQucKY=
+
+Name: res/drawable-anydpi-v21/design_ic_visibility_off.xml
+SHA1-Digest: /d9K4kz+PEEXzPkb7nC/4aBqj+0=
+
+Name: res/drawable-hdpi-v4/ic_keyboard_voice_white_24dp.png
+SHA1-Digest: +Oa2r/bPQiKNfY3JEHkyu1W+DIE=
+
+Name: res/drawable-xhdpi-v4/ic_equal_light.png
+SHA1-Digest: E2uXorTCeyPOn/KXocTDFYYPyiA=
+
+Name: res/drawable-xhdpi-v4/ic_share_white_24dp.png
+SHA1-Digest: DP7FsnioQf4W1n7NvuolnnvHd4c=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: Ay1qOaJ2aLiCf8NAaujbkp0H1cQ=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: 6odRFxWrjmo6tHxritbB5cYdjWI=
+
+Name: assets/MathJax/jax/element/mml/optable/MiscTechnical.js
+SHA1-Digest: R4McnAGMu0/bN9yBTiKFLsEG+4w=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: OBELUky/hMRu50hd+fRgMPXT3ZE=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_SansSerif-Italic.o
+ tf
+SHA1-Digest: 0grgr0WyuWc+FeQPRLzTtgUVeqg=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Bold.ttf
+SHA1-Digest: 0BhntohGpiO3xCAqHqeYosk2TBA=
+
+Name: assets/katex/fonts/KaTeX_Math-Italic.woff2
+SHA1-Digest: kyrnptnLo+7Yb0avKaJTENFTOyg=
+
+Name: res/drawable-hdpi-v4/ic_share_black.png
+SHA1-Digest: hcw4JoWfSnVyHLtGtaQ8lS9FOaI=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA1-Digest: NWXVqel6OkpTSkNmAWEp7wIcaaI=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: K1fb6Q4Ss1JZ+SleO0yJcwwYiRw=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: 1LkP0rGqEFzzqcjq42UnBtjJn3U=
+
+Name: res/drawable-xxhdpi-v4/ic_delete_black_48dp.png
+SHA1-Digest: yL5+xWlHgWaxVf+/ZyRftmYc0as=
+
+Name: res/drawable-mdpi-v4/ic_infor_black.png
+SHA1-Digest: iR6QFy1wh5/BOr0LJU1TgY6nzgU=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Bold.woff
+SHA1-Digest: C5MsFXFVxUJBb0rjSLIXBmMmlNQ=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: +yqH1j5SyQtn+J+8h/W9OeNSMik=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 0OG2GgwzcQVFzj+BwQ+1UYki6vU=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Math-Regular.otf
+SHA1-Digest: JCKxeUanXCghXVyp/oHTDCRe6tM=
+
+Name: res/drawable-mdpi-v4/ic_menu_back.png
+SHA1-Digest: Aa58t+g6x5BiiJWYgeSqoJj14EU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Caligraphic/Bold/Ma
+ in.js
+SHA1-Digest: efjcRAFqXxwc1L2B2+7tVhM2uwo=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: doXTq0PGlseahO7qxrAxAjB7JIA=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: qQpaYoGWL908h/WoyV81hrJSp9E=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: uftsHSNmkb7m90jrsRX95EC5rJ4=
+
+Name: assets/MathJax/extensions/MatchWebFonts.js
+SHA1-Digest: Bzmnox9FeY3gt+zgXjiX9pwh21I=
+
+Name: res/drawable-xxhdpi-v4/ic_nav_open_white.png
+SHA1-Digest: 4m/XGyV3w/UdCVvPHoY9TVLABl4=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: B+V5QEOwy10ghi7uX5XLTPFJGJs=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: vG0r5g+6NKYEXCM8NFQNM3tXzSk=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: irx1jkCUgab++GRt3iE9bCTIZNY=
+
+Name: res/menu/graph_menu.xml
+SHA1-Digest: Sqlbf//cR7UYUMLVS/3JJ3w73EM=
+
+Name: res/drawable-hdpi-v4/ic_redo_black_24dp.png
+SHA1-Digest: 4qkL0YeDoVYgE9Mf6GZpUeE6BRE=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: UQXINsxHR6ofvfukurZilM7cjk4=
+
+Name: res/drawable-hdpi-v4/white_card.9.png
+SHA1-Digest: /st0cFRyijUJIoqBrVt57fEHryg=
+
+Name: res/drawable-hdpi-v4/ic_history_black_24dp.png
+SHA1-Digest: 7RmbriJgvHPkWevn/MxBiwWXUbY=
+
+Name: res/drawable-ldrtl-xxxhdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: UHkaamhS7PL1Z1RHMClYvPcG8tg=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Main-Italic.otf
+SHA1-Digest: kJ6DDcOPlYjtCramnqvfodc2pgg=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: vs5sXFVGnqpXFZuXg+uY+nALal4=
+
+Name: assets/MathJax/jax/element/mml/optable/SpacingModLetters.js
+SHA1-Digest: iFql82p/wPcu6KzpTnIKWO40f7M=
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: B+V5QEOwy10ghi7uX5XLTPFJGJs=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: YBdDQbyB2IFfhjwKI6NSPOXqz7g=
+
+Name: res/drawable-v21/avd_hide_password_3.xml
+SHA1-Digest: 9393y1QUTnld860IyU6BZg/fb44=
+
+Name: res/drawable-hdpi-v4/ic_content_paste_white_24dp.png
+SHA1-Digest: 0F4SbNHuJnc3IEApKP1Bv2MqsW8=
+
+Name: res/layout/app_bar_interpolate_activity.xml
+SHA1-Digest: H66r4gtUwOA5gnb1WTmOEjz7Cp8=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Regular.woff
+SHA1-Digest: DVLOWqvM60VPGYmv47frGd8DaYU=
+
+Name: res/layout/layout_geom_circle.xml
+SHA1-Digest: 1RvE1pTnXZOpMBl5Ym/5FjKhJhs=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: w1C1DgwyW8lS31YClDI5QjZETKA=
+
+Name: res/drawable-xxhdpi-v4/ic_der_black.png
+SHA1-Digest: RsYKxmH6E/8/X3XxeqaYRHbbZ/w=
+
+Name: assets/MathJax/extensions/HTML-CSS/handle-floats.js
+SHA1-Digest: GTC7aEPTbtQv9wsAm/kLG3UwvwI=
+
+Name: res/drawable-xxhdpi-v4/ic_integral.png
+SHA1-Digest: JVdMKbEnT6fbNRb55e0JD8SviwE=
+
+Name: assets/MathJax/jax/output/HTML-CSS/autoload/mglyph.js
+SHA1-Digest: bOye24Knr5LsX5+zaEB0jZGkffw=
+
+Name: res/drawable-hdpi-v4/ic_infor_black.png
+SHA1-Digest: j5SPPvP2HXpiEM5c3/9xv2nw9J4=
+
+Name: res/drawable-xxxhdpi-v4/ic_color_lens_black_24dp.png
+SHA1-Digest: JIVvQyigQ2JmXsgLwPJkhWv6JxA=
+
+Name: res/drawable-hdpi-v4/ic_fullscreen_white_24dp.png
+SHA1-Digest: DQAGVvf7ZBGFkrxtCKMYx2hjcz0=
+
+Name: res/layout/layout_helper.xml
+SHA1-Digest: /SgA00LPl3XTdNcDAF08ct35ibA=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_light.
+ xml
+SHA1-Digest: LAUvDXAD50nMigo9kB8VW7En2xM=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.pn
+ g
+SHA1-Digest: NlLE4WLe09sFAjGcYGx9OeUuyzA=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Math/BoldItalic/Mai
+ n.js
+SHA1-Digest: XHIfMuvM1/SePX9DvOMYsSu24B8=
+
+Name: assets/MathJax/jax/element/mml/optable/Dingbats.js
+SHA1-Digest: r5QxS2QqkfHdesAjwVbIMbj9Av0=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: RBUUqPnajeBY72Iiu5Alot4cWek=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Size4-Regular.otf
+SHA1-Digest: yFqB/z8FsDrfv33vW6S6dS0syXo=
+
+Name: res/drawable-xhdpi-v4/ic_nav_open_white.png
+SHA1-Digest: cDEOsLmanKvPh3i203vovKddT8c=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: hOoziuoJ3C2IMcfDzYzmL7E6Tm8=
+
+Name: assets/katex/fonts/KaTeX_Caligraphic-Regular.woff
+SHA1-Digest: /woqNVIUn66tetU5JPYtJRu9Ip8=
+
+Name: res/layout/item_history_solve.xml
+SHA1-Digest: FT/o8G5eQzCveWb1TkHFoTntYAU=
+
+Name: res/drawable/design_password_eye.xml
+SHA1-Digest: fpLbmqVO5JZh78GdqS+b7hm2zAA=
+
+Name: res/drawable-v21/abc_ratingbar_indicator_material.xml
+SHA1-Digest: V8JrLj4745FQ4gUvuKziXuLT2Ac=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+SHA1-Digest: sk0rERRHxBHTLx83NS6FqhClw8o=
+
+Name: res/drawable-mdpi-v4/ic_history_black_24dp.png
+SHA1-Digest: tZW3MMeii2aFmOW7Li09oNG9Aqo=
+
+Name: assets/MathJax/extensions/TeX/mhchem.js
+SHA1-Digest: LA06fkNjNZlRDlmSJgaT4cz2B6A=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: 8giC/fE0IdR99JkjVckRfEKYAc0=
+
+Name: res/drawable-xxhdpi-v4/ic_keyboard_arrow_down_black_24dp.png
+SHA1-Digest: r+3Z7s9/gkQBfQj5r7xWgqiY2gc=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Size1-Regular.otf
+SHA1-Digest: e+BZ1y+H9l6LsSnfO8hB5cDBUPU=
+
+Name: assets/katex/fonts/KaTeX_Fraktur-Bold.woff2
+SHA1-Digest: TAm2VNZ0VX8OmAWNEzR6MPepz2M=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA1-Digest: +zRELACky2sAyG4jBqa9OTXTn34=
+
+Name: res/drawable-xhdpi-v4/ic_keyboard_arrow_down_black_24dp.png
+SHA1-Digest: 1NlfCo6ST0ah90quXFgLhZXmuQE=
+
+Name: res/xml/setting.xml
+SHA1-Digest: zYASNem+cPAL3KuCE7nUCIHEjZQ=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA1-Digest: UYwpPaWIPzJhU7ZhCFqXva5fg38=
+
+Name: res/drawable-hdpi-v4/ic_font_download_black_24dp.png
+SHA1-Digest: EALwYCLIsjZFe32ve1CrZmt26TM=
+
+Name: res/drawable-mdpi-v4/ic_help_white_24dp.png
+SHA1-Digest: heKbmGjVITwnuHZDDRD3KQNShzs=
+
+Name: assets/katex/fonts/KaTeX_Size3-Regular.ttf
+SHA1-Digest: DFEQJj9R0Zen/ZD9h4KNmlVyJQs=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: kjQh/adr8XS+S465gr9pzFibMnM=
+
+Name: res/drawable-hdpi-v4/ic_delete_white_48dp.png
+SHA1-Digest: /jeMNrR5/Fcw7QW/0LIOMwc+wtg=
+
+Name: res/drawable-xxhdpi-v4/ic_more_vert_black_24dp.png
+SHA1-Digest: 2n+3jN93ChTDzgocALVta6byVdc=
+
+Name: res/drawable-hdpi-v4/ic_close.png
+SHA1-Digest: Dd7NcZYuo1Nk20ItA/GX5Aiu2Gc=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: 0Ai1e/bmrpsc0qEfDQyO1d45Zv8=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: GFCjouEOsx2zwJ4qrfooYQ63590=
+
+Name: res/drawable-hdpi-v4/ic_error_black_24dp.png
+SHA1-Digest: ElZC94GG8HpRFZXMR5Rai0Qe3lM=
+
+Name: res/drawable-xhdpi-v4/ic_functions_black_24dp.png
+SHA1-Digest: hyILi/F8Y+Rx80ODskP3epJFY7I=
+
+Name: res/drawable/design_bottom_navigation_item_background.xml
+SHA1-Digest: CWW4mfISMH+Ot1PsBcU5OOmhiCU=
+
+Name: assets/MathJax/jax/input/MathML/entities/y.js
+SHA1-Digest: HIkDjR4ftAG7k839X5dBtnQ6hWQ=
+
+Name: res/drawable-mdpi-v4/ic_exposure_plus_2_black_24dp.png
+SHA1-Digest: VAxcsFo9N8KurSXY9YwFlW0PZq4=
+
+Name: res/drawable-mdpi-v4/ic_delete_white_48dp.png
+SHA1-Digest: 7qjObFX0ldsjhmgk2TFHvenke5s=
+
+Name: res/layout/command.xml
+SHA1-Digest: bzv9hx+SZOMBePMaR3l65kBZNX8=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: 8XIl4bSeXq0sG4+FeucZZjHT7Qw=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf
+SHA1-Digest: 5rVKUrctsOiAZTaydWgCTA0kpPk=
+
+Name: assets/MathJax/jax/input/MathML/entities/n.js
+SHA1-Digest: XmELjCPzdJKQj9/2xnJnLFjTaB8=
+
+Name: assets/katex/fonts/KaTeX_Fraktur-Regular.eot
+SHA1-Digest: ulUYVHTSgG0QnSZ2p6CSSMsZnUk=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA1-Digest: w0Sg+gqghF1j2B3QWd6pKXiXCMc=
+
+Name: res/layout/item_categoty_unit_converter.xml
+SHA1-Digest: MBHq/uOAm3kJw9BIsXacFOtOxCw=
+
+Name: assets/MathJax/extensions/asciimath2jax.js
+SHA1-Digest: 4Cm8Ak1p7dioUGYJpqUjkDYAikw=
+
+Name: res/layout/activity_unit_converter_child.xml
+SHA1-Digest: KyHI8Gmpe1f8PvW+8Et+NHRXt/U=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/Letterlik
+ eSymbols.js
+SHA1-Digest: pnfoMqyyI93CqQzGcc2DXqNerSg=
+
+Name: res/drawable-xxhdpi-v4/ic_delete_white_48dp.png
+SHA1-Digest: DgMskal5EyObqWHO9BENrg1twik=
+
+Name: res/drawable-xxhdpi-v4/ic_backspace_white_24dp.png
+SHA1-Digest: 3yQDij0QAG6nvUUesxuv5/tjxcI=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: yii+nVx5hNdqvv6HcSoZ9+hrZAY=
+
+Name: assets/MathJax/jax/input/MathML/entities/c.js
+SHA1-Digest: 0vnphM1jMIKitJDvtvp7Z6nK9Zc=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/General
+ Punctuation.js
+SHA1-Digest: zuKNyovhq5B/N8h+/6xmaRo42qY=
+
+Name: res/drawable-xhdpi-v4/ic_setting_black.png
+SHA1-Digest: Pw+vpdpYza+/Txg+vmClPPh/Sew=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: Xi5yCq9uPnEEW75AVMds5h0blJQ=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Math-Italic_old.ot
+ f
+SHA1-Digest: BIftTtDgP/jEQWvxClvKyWuoCPY=
+
+Name: res/drawable-hdpi-v4/ic_reset.png
+SHA1-Digest: wO7MVtVcWI/5DGqFf+7ho/nZu5o=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: MMW5ShwB1m9oRvGdlbR//t0h77U=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: nhOdszX2MHoKx6H7uBb+tEWPyJ0=
+
+Name: res/drawable-mdpi-v4/ic_add_black_24dp.png
+SHA1-Digest: hgKuynNsSWa2PLzA23atCSu1cw0=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA1-Digest: Fs9wHncn0Hs9X2gBgK72twTeEAg=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA1-Digest: HW/ZKF7SG6VJWb3y6PfDFgCj/4Q=
+
+Name: res/drawable-v21/avd_hide_password.xml
+SHA1-Digest: GRKggrgFb94KQ/h5YcCDU+gDePI=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA1-Digest: 5MrmRJHFyJDsv3ntxoz6irDFBIE=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Italic/Latin1S
+ upplement.js
+SHA1-Digest: Q5a3tFpOeWziRtOsoXklrySMPW4=
+
+Name: assets/MathJax/jax/input/MathML/entities/opf.js
+SHA1-Digest: Bl/DWEaR6omiTSUkpDLWPEgvZ58=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: mXQuXT+E6ctyqZNbnaBtZKfg0ZU=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: p9584WImSwr0082/N/zkcvVq7yo=
+
+Name: res/layout/activity_help.xml
+SHA1-Digest: zi8lnhf2tyJcD466MU+kfDn2+UA=
+
+Name: res/drawable-mdpi-v4/design_ic_visibility.png
+SHA1-Digest: ry2f6USvgI8F8oiXlmsF+qG2Ofk=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Size4/Regular/Main.
+ js
+SHA1-Digest: MMyoCgQR4zKJjx4X1m8ycz/FtIs=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: 9I5uBrEaa3rXA0AACtIBgaW++Q4=
+
+Name: assets/katex/fonts/KaTeX_Fraktur-Regular.woff
+SHA1-Digest: IqwFVHOJalyB++r6qbl827UiZ6s=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: GHXXmeZJAjb8EUS6oBJoqMQ0Mjg=
+
+Name: assets/MathJax/jax/input/MathML/entities/w.js
+SHA1-Digest: tLeIj6uLVAIFqRxHbS/qapyI8q8=
+
+Name: res/layout/activity_history.xml
+SHA1-Digest: 4mwjVOC1UxHB+tK3qUyRY7b48Y4=
+
+Name: assets/MathJax/jax/element/mml/optable/SupplementalArrowsB.js
+SHA1-Digest: rXESNjXija6yUSSTgYGSJoYXiSE=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: wOFWEc4X55JprlZy7d02dkJMUOg=
+
+Name: res/layout/app_bar_linear_system.xml
+SHA1-Digest: 2ZOMKafH9Rm3OiEN6L8YCG65k4Y=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: Ub7EVU/MNH+VSjP7k8FYzKJQoQ4=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.p
+ ng
+SHA1-Digest: 1cl/IsP/z8hq0fSoUb3Z29rLRVM=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: /hpvHveM+a3Mx49n/3P19bBBgiI=
+
+Name: assets/MathJax/jax/input/MathML/entities/l.js
+SHA1-Digest: iFC0rqTzovRRxecrnfyq4u+klg8=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: oKK0tOor4SmX4ORpTg/URmuOtes=
+
+Name: res/drawable-xxxhdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: M95krqgJ9SYC3L0mr77PtaaK1i4=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: S/+WIalIT7QGoZ4J/VOqr0XEGEM=
+
+Name: res/drawable-xxhdpi-v4/ic_base_black.png
+SHA1-Digest: pI7snYZhYRXn5f4bXc0ysbUupOo=
+
+Name: res/drawable-v21/abc_ratingbar_material.xml
+SHA1-Digest: rf6f8HRUlLAVKAAEFPxwQP5tJB4=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Size3-Regular_old.
+ otf
+SHA1-Digest: Sa4b6KBbLxMvJLAivcSRR9lL0mc=
+
+Name: res/drawable-hdpi-v4/design_ic_visibility_off.png
+SHA1-Digest: 2dNj0DH+9oQlB4Is6vasMfxrlX0=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: coP8Iq4qKDSNmHmJsO7hAOPuISo=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Fraktur/Regular/Oth
+ er.js
+SHA1-Digest: b2Ga3ufMLM3V2v53SRnWgaXQpH8=
+
+Name: assets/MathJax/extensions/TeX/newcommand.js
+SHA1-Digest: hiGnvTDdURrfaOeYSa64V+Y2tTU=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: tbKOWkoq8X/O9SqZLE2Z7VwIrfw=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/BoxDraw
+ ing.js
+SHA1-Digest: HBrPi1+YowBQcuC/R1aXE7TvkDU=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA1-Digest: UMK8DDXisbEfA5wmBkjTIQMIOPw=
+
+Name: res/drawable-xhdpi-v4/ic_action_name.png
+SHA1-Digest: NgLpRNqfM66r8fcOoWGFkcHU1wM=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_white_24dp.png
+SHA1-Digest: mW7uDS65jslzBhxAXb8p0GeIo/w=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: kg2GlN/2Y7KFJymbp/0PBNO4Tnw=
+
+Name: assets/katex/contrib/auto-render.min.js
+SHA1-Digest: W+CiDoOqCr9RPRToRgEnxKVkTEQ=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 6nL94lpOIDhHAcaZP6Numi9gbpw=
+
+Name: assets/katex/fonts/KaTeX_Math-Italic.woff
+SHA1-Digest: oMWj7gAM3g+zJb5g/f8f0iyJ8Us=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: 4p6CETpkcsX8POhPLWUmIW8HdoM=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: 8Sb/L5pJ5dP5LYtTMluOvUh3sug=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: inKyhhyZgO65645KR/OH06l6dAc=
+
+Name: assets/MathJax/jax/input/MathML/entities/a.js
+SHA1-Digest: LRj6839d9uX1zoq6IUY6bT0hxNg=
+
+Name: res/mipmap-xxxhdpi-v4/splash.png
+SHA1-Digest: Cc3hx6x8iU5yn63c8Gxm/cka6cY=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: pS2IISWVF11RXQXLyxHF6AODLJQ=
+
+Name: res/drawable-xhdpi-v4/ic_color_lens_black_24dp.png
+SHA1-Digest: PnYYAO6a54mDqsLsHI4wy/Ev0AY=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: sNSePe/BxGkzzjtEwOJsatH7+Pk=
+
+Name: assets/MathJax/extensions/TeX/cancel.js
+SHA1-Digest: yXbwXccVoCMQTwMGTYxQeh5lVds=
+
+Name: res/drawable/design_snackbar_background.xml
+SHA1-Digest: VlGaGdox9xMBcX7MhwlE/6km7Yw=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: jJIIxBXFlVwxMesuJlFFhjvLhPM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/fontdata.js
+SHA1-Digest: k7TICfCkDOgGtqFEiBb1rtTQbCw=
+
+Name: res/drawable-xxhdpi-v4/ic_info_black_24dp.png
+SHA1-Digest: YJH3tDumg4IJKZA0T87l57IkTOk=
+
+Name: res/layout-land/content_base_calculator.xml
+SHA1-Digest: 13ZUCFlrA0xwxaMjPWSHA8ACURk=
+
+Name: res/drawable-hdpi-v4/ic_info_black_24dp.png
+SHA1-Digest: 4St29E2VG/gtpawxZriv3/hJ8HE=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: OW+ZULMA0miOKqqKj1wk15SSUFQ=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: res/drawable-mdpi-v4/ic_check_white_24dp.png
+SHA1-Digest: 7CQ1k3nSgeMwbATpKecf+jeCthg=
+
+Name: res/drawable-xxhdpi-v4/ic_backspace_black_24dp.png
+SHA1-Digest: tJfjUGBCyc/No7a7YV6M8w+ATpI=
+
+Name: res/xml/pref_headers.xml
+SHA1-Digest: pL8uueFpXJXLGmvhol5bs9lKNd4=
+
+Name: res/drawable-xxhdpi-v4/ic_unit_converter.png
+SHA1-Digest: Gs6+LwUeae6KtfIi+xFmlMGOBWM=
+
+Name: res/drawable/ic_chart.png
+SHA1-Digest: mVnnr0a2zNhv50zS+h4glmgb5DU=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: 7tXFAhsqOJVD4bjVQMkxfDKnIxk=
+
+Name: assets/MathJax/extensions/MathMenu.js
+SHA1-Digest: Ps8xT/Yn4uwHyRcNf05v8gLvpsY=
+
+Name: assets/katex/fonts/KaTeX_AMS-Regular.woff
+SHA1-Digest: 0XCLlqJySxxdsYBBW/7ZRtpHk8k=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: YWbbt9prsOJPwsIvkwmEAQ9AjM4=
+
+Name: assets/katex/fonts/KaTeX_Main-Italic.woff
+SHA1-Digest: C/jLfdQ6oQ1ovEl7I/mO/P+GcIw=
+
+Name: res/drawable-hdpi-v4/ic_matrix_black.png
+SHA1-Digest: nlyNIkaMuE7YLipTQgdwImmr3us=
+
+Name: res/drawable/button_digit_pressed.xml
+SHA1-Digest: wX57TWv9RpqqeNZX5ARnqXAHuOc=
+
+Name: res/layout/app_bar_solve_equation.xml
+SHA1-Digest: q4ZAN4sVp9ly2OGZyYVJ9gi9WqU=
+
+Name: res/layout/layout_geom_line.xml
+SHA1-Digest: +ckTlvUYZTZ7cxymb2mT2ArZGy4=
+
+Name: res/drawable-mdpi-v4/ic_share_black.png
+SHA1-Digest: t9/E4FIaeCjJvtiVCOw/EnV/MFk=
+
+Name: res/drawable/ic_area.png
+SHA1-Digest: wvFQcqt8kmLIz1eZxKVIDaoPmYo=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: LYh5wO7mcgtiq4fyzNQBKw1XFk8=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Greek/Regular/Main.
+ js
+SHA1-Digest: 9wrzM8HuE2EjekO/TjGDNBwpBHY=
+
+Name: res/drawable-hdpi-v4/design_ic_visibility.png
+SHA1-Digest: il2OWkYNYAmmPAdZJmHUqqQXceQ=
+
+Name: res/drawable-xhdpi-v4/ic_content_paste_black_24dp.png
+SHA1-Digest: 5qe37eeDCLZGKR+CXkuTjXG3bp4=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: assets/katex/fonts/KaTeX_Main-Regular.woff2
+SHA1-Digest: tK2Jz2K6OJqf4nPjFU8MUJs295w=
+
+Name: assets/katex/katex.min.css
+SHA1-Digest: 7sevAjsKC6Iu0sUJ8ToGSfrzsvM=
+
+Name: res/layout/design_navigation_item.xml
+SHA1-Digest: EzkpWQBMeQqLHDo996Vd/9QGySc=
+
+Name: classes.dex
+SHA1-Digest: 9DsNKNdBvmlOWyZjUao+6YnVOTk=
+
+Name: res/drawable-xhdpi-v4/ic_settings_white_24dp.png
+SHA1-Digest: 7L0WSW6DJrD/HTCjoe2LUuUmJ2Y=
+
+Name: res/anim/design_snackbar_in.xml
+SHA1-Digest: QPiYcwJRp7LvVEneHabhK9QbisA=
+
+Name: res/layout/activity_base_calculator.xml
+SHA1-Digest: mXNjvz2muLO2Ryq7ipywnr0S6I8=
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: KQunCQh0E4bP0utgN0cHdQr9OwA=
+
+Name: res/drawable-mdpi-v4/ic_settings_white_24dp.png
+SHA1-Digest: NVzQPEwyQIGKZ0HHeFiaARkYrtk=
+
+Name: res/xml/pref_user_inteface.xml
+SHA1-Digest: QNIZulvqf3wBsHSdIzZGOJ5XUMI=
+
+Name: res/layout/display_main.xml
+SHA1-Digest: 2FDwKoFqGFqxpdrzKJ66B4smXg4=
+
+Name: res/drawable-xxxhdpi-v4/ic_star_rate_black_18dp.png
+SHA1-Digest: GEuNHXRCr4E5+DnCHrBvSlQrbP8=
+
+Name: assets/MathJax/jax/input/MathML/entities/p.js
+SHA1-Digest: /MikBgbCdaZfVpPNc5na+KC67XI=
+
+Name: res/layout-v17/select_dialog_singlechoice_material.xml
+SHA1-Digest: MdRZSbXhp2gQNzOe/idjR5ZXba4=
+
+Name: res/drawable-hdpi-v4/ic_integral.png
+SHA1-Digest: GG82nPizv16f/xbWdJT3xc7rBcE=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: eQ8hrqPRD0qhhaJWghhXuxRIxBA=
+
+Name: assets/MathJax/jax/output/HTML-CSS/autoload/annotation-xml.js
+SHA1-Digest: bQVSt6B8Yx+RmF+PDoKWX7bPsYU=
+
+Name: res/layout-land/pad_simple.xml
+SHA1-Digest: 58/Xx6f6k7FDadnoijARbFjwTRE=
+
+Name: assets/MathJax/extensions/TeX/autobold.js
+SHA1-Digest: yb/8RD/Ffl6AHgu7FSu7wJtTO1U=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Caligraphic-Bold.o
+ tf
+SHA1-Digest: 7PuRpj5QgXP1p5TMZtU17nJ4RAw=
+
+Name: assets/MathJax/jax/input/MathML/entities/e.js
+SHA1-Digest: L7UAOfLG4xF31ggdNzprNmgOYt4=
+
+Name: res/drawable-xxxhdpi-v4/ic_share_white_24dp.png
+SHA1-Digest: aBje9BQcFgp+aQovHPd6V1bcYwY=
+
+Name: res/layout/layout_tool_equation.xml
+SHA1-Digest: UMA7cUVnOcAlMhEjFlyMSfHdYPw=
+
+Name: res/drawable-hdpi-v4/ic_star_rate_black_18dp.png
+SHA1-Digest: oR+hQ4NIDTf2xZxqCK5uZqBFqOc=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: bHADGZ86aGisr0oBfZBoU7RHX/g=
+
+Name: res/layout-v11/notification_media_action.xml
+SHA1-Digest: I3UMVi0oJjhfLyELxoNFtQZKR0Y=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_SansSerif-Regular.
+ otf
+SHA1-Digest: H1ZiNruyBlVx4QmahoWH864jIKE=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: xgnROefed1vgMaxaqCgtRMAIU/Q=
+
+Name: res/layout/activity_solve_equation.xml
+SHA1-Digest: kK8ZWHegwfkNzsl1g+SRBWRrAck=
+
+Name: res/drawable-mdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: MC27yA02HSyYg4iB3pC85xIldho=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Italic/Ot
+ her.js
+SHA1-Digest: dDkgTYsX8sCTCI5R92jmDhar+t4=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Typewriter-Regular
+ .otf
+SHA1-Digest: ulmOznZo3h5xUAUBXCy0384Wh10=
+
+Name: assets/katex/fonts/KaTeX_Main-Regular.eot
+SHA1-Digest: Y1Gae8Lc5WaRciyby5DwH+HAd3M=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: 5yrUlUADP8/TbxJyl7dTKUeWoBM=
+
+Name: res/drawable-xxhdpi-v4/ic_save_black_24dp.png
+SHA1-Digest: 4rI8HrBB0vzdPZtMak+KbmoB7NM=
+
+Name: assets/MathJax/jax/output/CommonHTML/jax.js
+SHA1-Digest: pn+kRN3ndTTRO6qbjTgQf+8IEuY=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: bZVk/7JyPqpb9FPgqFjfBJURWhA=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: BjYXNIGGhyqIB4Vq4khlEepKSZk=
+
+Name: resources.arsc
+SHA1-Digest: maLj1XZzdElX/pb7WW9DU3MWPSs=
+
+Name: res/drawable-hdpi-v4/ic_unit_converter.png
+SHA1-Digest: ldHC2yDtxIeIbEf09qKfRX/Q8mY=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA1-Digest: bwjSzuahpvwVgJavscLUKen/ZqQ=
+
+Name: res/drawable-mdpi-v4/ic_history_white_24dp.png
+SHA1-Digest: 5gkBSywL88f3mshmoA0eW0hXQsI=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Main-Regular.otf
+SHA1-Digest: h2leKrDrs51G3wI4dvolwtSRH0o=
+
+Name: res/drawable-mdpi-v4/ic_action_name.png
+SHA1-Digest: p7Ydb9fYoSovqaTcJ1d3GhYVtj0=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: MoCLKmenbTlsz905dAkmwWiKKG0=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: GuKSrhMJG9+hk/tPX2xPNfs4cy0=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/Latin1Sup
+ plement.js
+SHA1-Digest: wmFtIM+sF77snjpXY5hOSErBYXw=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: VPmKAqmLJ6ke7a8XellbYKiIBh8=
+
+Name: res/mipmap-mdpi-v4/ic_fraction_black.png
+SHA1-Digest: E1tqXpckhflsRgMgvkNWuU4abRU=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: LVSNyw7X6tB9DukmioIVl33ZyuQ=
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: HDJoTnQuLh9V9/4kv+/UeX7wGTY=
+
+Name: res/drawable-mdpi-v4/ic_zoom_in_black_24dp.png
+SHA1-Digest: K1L4/bcrpQQkLhb4dn/aDMHmTQ0=
+
+Name: res/color/abc_tint_spinner.xml
+SHA1-Digest: X9lig4crORKtHSf7nestHknDUds=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 91+SjRwS48rnNSkJl3hukfpvmrk=
+
+Name: res/drawable-xxhdpi-v4/ic_more_vert_white_24dp.png
+SHA1-Digest: F0wF0LZ+iiRwAzF2iYEYx1CzWBk=
+
+Name: res/drawable-mdpi-v4/ic_unit_converter.png
+SHA1-Digest: gCx/jlhPcdIo9x3hG1UFoaVZAHI=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: g47+6U/iWp2IpzZQQQfbO0OexTY=
+
+Name: res/drawable-xxhdpi-v4/ic_setting_black.png
+SHA1-Digest: 4Y7J94OQAobfOvvZlW654UIWCu0=
+
+Name: res/drawable-hdpi-v4/ic_functions_black_24dp.png
+SHA1-Digest: gKo00eVD7p7PlSrKG3DReY0AYz4=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: cuJ+cwlm5QO6frAFAjbS9w6zhJ4=
+
+Name: res/drawable-xhdpi-v4/ic_more_vert_white_24dp.png
+SHA1-Digest: UpaZm/lLCwWl3OWvIn7qZLz7sK8=
+
+Name: res/mipmap-hdpi-v4/ic_fraction_black.png
+SHA1-Digest: /dZ857kfdY8Of44kMjWWgqpqW98=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: H8vpoHdXb2rUmmHQsT4tdCAwu1o=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: QqPpbBwEr9nywoEL/OHp+2+gZ1Q=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/MiscMat
+ hSymbolsB.js
+SHA1-Digest: 1wzf8ma0uyR56HAekuSThkrvP+U=
+
+Name: assets/katex/fonts/KaTeX_Math-BoldItalic.woff2
+SHA1-Digest: 3wL/AME5MI3UYmSXqADJdHETktg=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: lZvYglov/F7rh1bqR+gIZerpDBA=
+
+Name: res/drawable-xxxhdpi-v4/ic_undo_black_24dp.png
+SHA1-Digest: hj4DrWG8caAtefOvaNDt4VbSKH0=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: AhZOIDfwDa36S/dYiN2goLsKVdI=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: ohPEA4mboaFUu9LZMUwk7FmjbPI=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/MathOpe
+ rators.js
+SHA1-Digest: lQYcOye96R4K5m4sqgPTbPjGZAQ=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: +F9A3ApomF++Ccyi3vyA4AvmXMw=
+
+Name: assets/MathJax/jax/output/HTML-CSS/autoload/multiline.js
+SHA1-Digest: 1cSAu0hDKvNG1ed/15UDtmEWuSI=
+
+Name: res/layout/item_history_calc.xml
+SHA1-Digest: kmEy1EBhYE8x7J8p0ZvYTFCiiEw=
+
+Name: res/drawable-xxxhdpi-v4/ic_delete_black_48dp.png
+SHA1-Digest: FEvNw2mwmmH8AwVuPskrVe+1N5Q=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: wyCNUWn/jASvCCQOSpa34YoXbPA=
+
+Name: res/layout/app_bar_special_number.xml
+SHA1-Digest: d/pdtfIwiddwhQTPTr6BDSjj6uo=
+
+Name: res/layout-v11/notification_template_big_media.xml
+SHA1-Digest: WL6MZfAMibPck3CyG/EQG2Z8cCE=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: xikdq0MUk/db6+MwsR0wYysb7nE=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: 4tR4PP8yhJQ8szJmzxwORH2FSvk=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: aGoDqShCvfRBOcYadujzbODhe1U=
+
+Name: res/drawable-xhdpi-v4/ic_close.png
+SHA1-Digest: NgLpRNqfM66r8fcOoWGFkcHU1wM=
+
+Name: res/layout/math_view_layout.xml
+SHA1-Digest: gXlvls7F+/WQRBE5dwcY6HMEleE=
+
+Name: res/drawable-xhdpi-v4/ic_add_white_24dp.png
+SHA1-Digest: lceszf3MMMnKuCFVNxrT7fq1spQ=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_black_24dp.png
+SHA1-Digest: NTFl69KKdCmYQKy8IMpwMa0mFhE=
+
+Name: res/anim/fab_slide_out_to_left.xml
+SHA1-Digest: fZrGdUZ413vRO4HPNB4btl7txEA=
+
+Name: res/drawable-xhdpi-v4/ic_lim_black.png
+SHA1-Digest: 0qxZD+ND/ggWixfc/phNdTCgkxA=
+
+Name: res/layout/license_layout.xml
+SHA1-Digest: PJ8a7PuCJcGf6tevKwS943ndFEI=
+
+Name: res/drawable-xxhdpi-v4/ic_error_black_24dp.png
+SHA1-Digest: XNnQzz2JlLoJ+8ekQBl/tqOfcos=
+
+Name: res/drawable-xxxhdpi-v4/ic_gesture_black_24dp.png
+SHA1-Digest: kkcMpccvke2Lr0oknnjXSn1LAto=
+
+Name: res/drawable-hdpi-v4/ic_nav_open_white.png
+SHA1-Digest: kznxJnF6mGeM2CUSwNSd++vUhGo=
+
+Name: res/drawable-xxhdpi-v4/ic_history_white_24dp.png
+SHA1-Digest: ouK1+8Fuu+ooGzZ+sxzAenmDsvI=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: h2tBvFGRUrlGIzFUqIYNFF4jBTY=
+
+Name: res/drawable-hdpi-v4/ic_zoom_out_black_24dp.png
+SHA1-Digest: QsY/Z4QqE48aSqUrPzfv9rXzhW4=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA1-Digest: eEVopjQX6W514WoHxn9rLKQ1T5Y=
+
+Name: res/drawable-mdpi-v4/ic_close.png
+SHA1-Digest: p7Ydb9fYoSovqaTcJ1d3GhYVtj0=
+
+Name: res/drawable-xhdpi-v4/ic_email_black_24dp.png
+SHA1-Digest: Qzj9490REhlCIzdLej2h+xwb+I4=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: IKtTqnzlIY7DpFmknZLDUcK+O3s=
+
+Name: res/drawable-xhdpi-v4/ic_settings_black_48dp.png
+SHA1-Digest: B0K9yVM6jBwiWQrP8Tq8TRhMPSc=
+
+Name: res/drawable-hdpi-v4/ic_base_black.png
+SHA1-Digest: M82qECGYVN1gfNOw9uhzsTq0U7U=
+
+Name: res/mipmap-xxhdpi-v4/ic_derivative_black.png
+SHA1-Digest: VzTHTdkTXZ1jVmAzEzG0o1tc9BI=
+
+Name: res/layout/design_navigation_item_subheader.xml
+SHA1-Digest: BCZVCR1cPBKkWTvwfnv4sPwk+oU=
+
+Name: res/anim/design_bottom_sheet_slide_out.xml
+SHA1-Digest: b7nLwVuguqkRn/0QJ5T+s+s304Y=
+
+Name: res/drawable-xxhdpi-v4/ic_add_white.png
+SHA1-Digest: DfngVIlhaT0VFXC8iMZplBtWVnc=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA1-Digest: Uaax8TsSlV1ssfdd4JM/P9lAyjc=
+
+Name: res/drawable-xhdpi-v4/ic_redo_black_24dp.png
+SHA1-Digest: 7xezYq370wqrivIIJP4PDrJAAU8=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA1-Digest: 3J5pByYkZRz7TetQA7yaxvDvbrk=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/CombDia
+ critMarks.js
+SHA1-Digest: /5R9VIxwGtkcFnseQHF2Wgg/KoM=
+
+Name: res/drawable-mdpi-v4/ic_color_lens_black_24dp.png
+SHA1-Digest: iKQ6F6AqOqM0YXGT9cwgN9hsqcU=
+
+Name: res/drawable-mdpi-v4/ic_save_black_24dp.png
+SHA1-Digest: CIPiSkuE4R8DB/bprVvbY8GVG8Q=
+
+Name: res/drawable-xxhdpi-v4/ic_add_white_24dp.png
+SHA1-Digest: Qku8XatHjewVAawjvYnuiZY4LGU=
+
+Name: res/drawable-xhdpi-v4/ic_base_black.png
+SHA1-Digest: USAXzKsolse1WFXKoj3NCSeOta8=
+
+Name: assets/katex/fonts/KaTeX_Main-Regular.woff
+SHA1-Digest: dsD+aiKmx98lPrGOFj3/e20z/VU=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA1-Digest: tDpWUZlkBJYhwj7LuDRL0b88t1E=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: SA1vHoOWURmOiVuOFb8+HWKfpws=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: ELHP/ybr6BY6lvp/69V+RfkZTGQ=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: cjG9sTPDRm4+Q3YgeyRUYPgo2LM=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: 5p2xdqjKvQti1t4/cj8IgM4mgmE=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Italic/Letterl
+ ikeSymbols.js
+SHA1-Digest: QwWit4lpI6AG6MR9ZbadEvuJlEg=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: RUOqLL/iDUSq22mJL2nVhoSqbv0=
+
+Name: res/drawable-hdpi-v4/ic_keyboard_arrow_down_black_24dp.png
+SHA1-Digest: L90pxkyaQDJjAST/Q4OtALj7Pzs=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: sc2f/SwoJ8sOO1ziZCDS+WfNDhI=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Regular.ttf
+SHA1-Digest: wfUJAaTHazc5SuKp7b5GH6gVZn0=
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000
+ .png
+SHA1-Digest: WvHioMVsEnLk1hJoq6dqHvhFfjA=
+
+Name: res/layout/graph_activity.xml
+SHA1-Digest: XkYxRpb3jPN9VxpAwqJvstfWy88=
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: zND8CPcT8wBLOji5D5ZGNvi5kR8=
+
+Name: res/drawable-xxxhdpi-v4/ic_font_download_black_24dp.png
+SHA1-Digest: ujd7EX0cUy5f0K+nwU1E0gS01o4=
+
+Name: res/drawable-xhdpi-v4/ic_delete_black_48dp.png
+SHA1-Digest: Gaw2/3mAIzv1a1JbOfOj8PjPCCk=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: NRcHxLdsX/Th2xTrioD1KYFYeK8=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: hUZ6zDhVM4Y1uHpSBlx5fcOrNhY=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Fraktur-Regular.ot
+ f
+SHA1-Digest: 1+Xvsj5epxVgztXumK3EM57U1E4=
+
+Name: res/drawable-hdpi-v4/ic_keyboard_arrow_up_white_24dp.png
+SHA1-Digest: UUnpoKjagBk1RDRaORR6+d0CRRo=
+
+Name: res/layout/content_geometry_descartes.xml
+SHA1-Digest: TJen22+SVWzEAuYOEmlVg5nElRQ=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA1-Digest: tSM90ip9Bqvpkql6I4Tos7ZOuNw=
+
+Name: res/drawable-xxxhdpi-v4/ic_functions_black_24dp.png
+SHA1-Digest: AK6R6TAP06Nvp9Be49eOTxqoePk=
+
+Name: res/layout-v16/design_bottom_sheet_dialog.xml
+SHA1-Digest: roaqdYW4OwwHTLy5WknWXqLjcK8=
+
+Name: res/drawable-mdpi-v4/ic_keyboard_arrow_up_white_24dp.png
+SHA1-Digest: gN4uPCQFiEI3AQ3o3TFj3pL/9rQ=
+
+Name: res/drawable-mdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: CyW4CUP+qAdJAal9/jKpXJgrVBo=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 0pZEH/xvvGcZULZXlcabKxti6Jk=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: U6K1wSEQzEaK4EjOa8ptX/9sEdU=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: Ouio2uWvH7XLWYfqzUwzwmjm/jM=
+
+Name: res/drawable-mdpi-v4/design_ic_visibility_off.png
+SHA1-Digest: 3oMRQReSGSp08y2pMlOzFR4ywCY=
+
+Name: res/drawable-xhdpi-v4/ic_der_black.png
+SHA1-Digest: kINVJZVJsiDTFyBwljR7lq8slKc=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Script/Regular/Othe
+ r.js
+SHA1-Digest: O59GCR8yuPdV28eIzzES//HO770=
+
+Name: assets/org/apache/commons/math4/exception/util/LocalizedFormats_
+ fr.properties
+SHA1-Digest: bI0925LEpQY3PIOOY2GmkY7hoUw=
+
+Name: res/drawable-xhdpi-v4/ic_add_white.png
+SHA1-Digest: A/6XWGOVGGqfXCb4t/+rL9lAP+s=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Size2/Regular/Main.
+ js
+SHA1-Digest: TnlVNEgNO2PqrJ0II/I9dpNQMCA=
+
+Name: res/drawable-xxhdpi-v4/ic_lim_black.png
+SHA1-Digest: 9CZVx6qpuPkHBG/9xTUx4CbMqBI=
+
+Name: res/anim/fab_slide_out_to_right.xml
+SHA1-Digest: TO7HdQ3s3n/KLtlrp94Qv2p8/+U=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: RwOTCkvoy8JfKjFQZXnNiOHbxpQ=
+
+Name: res/drawable-xxxhdpi-v4/ic_settings_black_24dp.png
+SHA1-Digest: B0K9yVM6jBwiWQrP8Tq8TRhMPSc=
+
+Name: res/drawable-v21/avd_show_password_3.xml
+SHA1-Digest: x/37uLL5k+ynq4jPZExzufLEVY4=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: assets/katex/fonts/KaTeX_Fraktur-Regular.woff2
+SHA1-Digest: 9CGLXx/gtRBIyYBGI05Wgw6+hdE=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA1-Digest: ZS8G8JdMxBQL5kkDpIJATyW5Ocw=
+
+Name: res/drawable-hdpi-v4/ic_check_white_24dp.png
+SHA1-Digest: nWJdTuHAzv7V44abSXTSTSBtqRM=
+
+Name: res/drawable-xxhdpi-v4/ic_zoom_in_black_24dp.png
+SHA1-Digest: DCpKauRwReWoULHwCZQc1JUOlPA=
+
+Name: res/anim/design_bottom_sheet_slide_in.xml
+SHA1-Digest: JZvF3dH3kK4CROiDGCiyzk0bcCI=
+
+Name: res/drawable-mdpi-v4/ic_more_vert_white_24dp.png
+SHA1-Digest: gQnZFddQlnXMu6+ngK8b5SlGcPU=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: 6wmuQsGop94sACxKfh+EBLCBjJk=
+
+Name: assets/katex/fonts/KaTeX_Caligraphic-Bold.woff2
+SHA1-Digest: bvklsg+G9Mp/LzjFOx0VS8fvRlg=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Letterl
+ ikeSymbols.js
+SHA1-Digest: tylJwZ54t9lDMcQVSgOkxymlV6I=
+
+Name: res/layout/app_bar_matrix_calculator.xml
+SHA1-Digest: 0Gq9ideA+atqyYbmQbPlB4Xuq0A=
+
+Name: res/drawable-xhdpi-v4/ic_gesture_black_24dp.png
+SHA1-Digest: 2cz3NPV3yqWFcIFq+IDblMrBeLs=
+
+Name: assets/MathJax/jax/element/mml/optable/MathOperators.js
+SHA1-Digest: mVhBmuUNLPigXkjYwOAXDvXgY/Q=
+
+Name: res/drawable-mdpi-v4/ic_backspace_black_24dp.png
+SHA1-Digest: kPkAxr106e0EErzy17edcfMaMQk=
+
+Name: assets/katex/fonts/KaTeX_Main-Regular.ttf
+SHA1-Digest: 5H6LsRpexaOQNfE7PIPMPoa/pRo=
+
+Name: res/drawable-mdpi-v4/ic_settings_black_24dp.png
+SHA1-Digest: V/rjbqC0PoisPkyUbu2RzENhvX4=
+
+Name: res/drawable-xxhdpi-v4/design_ic_visibility_off.png
+SHA1-Digest: VjW4QDbjDLSVWJK4Q5sW5G0r540=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA1-Digest: s9/qxuNt34tuDKZEbu3WbQxLGWs=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: F8nLQoXKGiQPJCjl3TNIR/eklGw=
+
+Name: assets/MathJax/jax/element/mml/optable/LetterlikeSymbols.js
+SHA1-Digest: YpexpMwt9v06dqPn1GF+q0fOs3g=
+
+Name: assets/katex/fonts/KaTeX_Main-Italic.woff2
+SHA1-Digest: 334oCe2O3pAk2wTcDjgsUQDyhYE=
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: NdBd5wlMLy/yNmcs71lpwiAvUZ8=
+
+Name: res/layout/design_layout_snackbar_include.xml
+SHA1-Digest: +Bb9+o3BGIkdbysPf5cqyD/6lCk=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 4Hw7naTONE1358HTJi9mZTJ9Hto=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: 7/8n4Ce+uIvfj55Pr2elEtNxaPY=
+
+Name: res/drawable-xxhdpi-v4/ic_add_black.png
+SHA1-Digest: 1as2il7DFeQCu88xgWORYFAUhZo=
+
+Name: res/drawable-hdpi-v4/ic_history_white_24dp.png
+SHA1-Digest: PVzYjuk7W9BKk8mpOJJXxBGNliM=
+
+Name: assets/MathJax/jax/element/mml/optable/GreekAndCoptic.js
+SHA1-Digest: uuTqbBTbHxcOhqxNrbCPwt43aEE=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf
+SHA1-Digest: Lk3skFm4bHlEHJKKW5KRfSd3eaY=
+
+Name: assets/MathJax/extensions/TeX/AMSsymbols.js
+SHA1-Digest: XOpB+ZACdpr7mZtAJYumqw3kZJk=
+
+Name: res/drawable-xxxhdpi-v4/ic_settings_white_24dp.png
+SHA1-Digest: 8z5Yb79mL40N3jw5Dgu0ECX45UU=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: ZpE1qBwOSJsfqFcFxqUqVhVbBT0=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.p
+ ng
+SHA1-Digest: mEMOENu6EbIk3bOPlINzieiI52k=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: rPL1lJzRovUC1nEamnoL6zg2+0U=
+
+Name: assets/katex/katex.min.js
+SHA1-Digest: NfmeLeUjuCpCm9K9Fw/qSE1Qh8I=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 07+MMsIKk8a3BObx9eEkeKwYSSk=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA1-Digest: F1hrC4RO2hCZ8EeOqLORQ/UTo7w=
+
+Name: assets/katex/fonts/KaTeX_Size1-Regular.ttf
+SHA1-Digest: xO1NO9ZcauMrL49xdPZhEzunAN4=
+
+Name: res/drawable-xhdpi-v4/ic_delete_white_48dp.png
+SHA1-Digest: DR3h/rr+d3KazU/MfLjxOKfDeEU=
+
+Name: assets/katex/fonts/KaTeX_Size2-Regular.ttf
+SHA1-Digest: 6k7xrmthr9SAsHe31J2FirUhSys=
+
+Name: apfloat.properties
+SHA1-Digest: WrfmD9aC6ea9jHs+crzXTGmW3+w=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: K3ucg8inS6QEpdWRjFnNMV6IIbo=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: V5veQwsCSGKsSBtGwB7BwIrrJ60=
+
+Name: res/drawable/navigation_empty_icon.xml
+SHA1-Digest: mudzICecyxNWrM08beHGxSKPsOI=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 5ThZFP/+iYVybD8ENFXZKyOzbaU=
+
+Name: res/drawable-xxxhdpi-v4/ic_exposure_plus_2_black_24dp.png
+SHA1-Digest: kWb58+FaHRz3hx/doWrQSKVikT4=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: zFgJ/3jS2/OsE973X+okmF/yrek=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: iN/uNjBfhVbAIr76ujTy7rKk9Iw=
+
+Name: res/drawable-xhdpi-v4/ic_more_vert_black_24dp.png
+SHA1-Digest: kLgUFTt/loTCtGvX52cmvO0gIDQ=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Italic/Co
+ mbDiacritMarks.js
+SHA1-Digest: zIodMfJ2jzn5jn4CLu2S0jH58os=
+
+Name: assets/MathJax/extensions/HelpDialog.js
+SHA1-Digest: 0Zv5JhySNGefdWcV1ABvUI3ZscE=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: 18xM+F5lC4EGEvop4yDnhKxC5ZE=
+
+Name: res/drawable-xhdpi-v4/ic_integral.png
+SHA1-Digest: xUGVh1DaIvv3ZZjhiKBRfjyFOsc=
+
+Name: res/layout-v17/design_layout_snackbar_include.xml
+SHA1-Digest: CYmzqurmfoK+eAGy/K231WdAMrU=
+
+Name: res/drawable-mdpi-v4/ic_reset.png
+SHA1-Digest: 3ObD/U5OaL5bvO7Wnv+Y/n9cSe0=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: 57j1QBOOLdSOP65CUyo0LuAbSts=
+
+Name: res/drawable-mdpi-v4/ic_nav_open_white.png
+SHA1-Digest: lCfjoPbWkMJXEt2b/JnRuNaHrk8=
+
+Name: res/drawable/abc_vector_test.xml
+SHA1-Digest: 4yJGw44hdFgotEL2tng9U1c82Mw=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Dingbat
+ s.js
+SHA1-Digest: BzCnSrg3o0LgNdFSSaCgOBcBwPs=
+
+Name: res/color/abc_tint_edittext.xml
+SHA1-Digest: RUaxvChCnJt1yC2/W0tN743El4g=
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: 6eRtpYyE2B45gWd2aZtCG4kO5FM=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: cG04d50tDB7eX3k8GXpvzf7ad6k=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: F4J0HKE61n3tnKmtdiaUPOgzAB4=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: 4XHnecusACTIgtImUjC7bQ9HNM8=
+
+Name: res/drawable-mdpi-v4/ic_share_black_24dp.png
+SHA1-Digest: zglBKpR5hTmA0450nsa4UkQHgEo=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Regular.eot
+SHA1-Digest: Ss8G0v1+jn1hzTM8pmWBL/CVNgA=
+
+Name: res/drawable-xhdpi-v4/ic_font_download_black_24dp.png
+SHA1-Digest: jWB74NxkNXh4ueonzrj+Xb3ahDk=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Script/Regular/Main
+ .js
+SHA1-Digest: 2YExAxayM8TuPCKAct/YqNlFJHU=
+
+Name: res/drawable-hdpi-v4/ic_settings_black_48dp.png
+SHA1-Digest: NTFl69KKdCmYQKy8IMpwMa0mFhE=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: goxOqApFWDjSlcueZaQmSCez9dk=
+
+Name: res/drawable-xxhdpi-v4/ic_close.png
+SHA1-Digest: 9F6L8vUrfBfMi1HEQ6hppGQa6Og=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: P/TePusgUK0jTzJbBXwUqj2ymIs=
+
+Name: assets/MathJax/extensions/jsMath2jax.js
+SHA1-Digest: i6Ck7b16TcxrLDQbv0UXbWBvwe0=
+
+Name: res/drawable/ic_bitrate.png
+SHA1-Digest: MlCSTkIcz0ieSHg6ZEDA+iD/urk=
+
+Name: res/drawable-xhdpi-v4/ic_fullscreen_white_24dp.png
+SHA1-Digest: X0URfZNoC2O77kf8LEZaavVuSyI=
+
+Name: res/drawable-xhdpi-v4/ic_info_black_24dp.png
+SHA1-Digest: osVrIl4NcZXVDgw3mjBKnSFPmx0=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.
+ png
+SHA1-Digest: ZjoNfwYFY/w1heN9+GIDC4AUjSI=
+
+Name: res/drawable-ldrtl-mdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: Srezib9Clr9iJMSwqyu/3YGSHhs=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: UTYOeeEsntRapgE5ZWUWf1IlU/I=
+
+Name: assets/MathJax/jax/element/mml/jax.js
+SHA1-Digest: YH3oSdGJWiohsOmEIL/n+hJm8F0=
+
+Name: res/menu/linear_system.xml
+SHA1-Digest: 588xazi6I6E+4tHcE66f0d7wI4o=
+
+Name: res/layout/layout_geom_vecter.xml
+SHA1-Digest: +yTGB1ypoinStEckTzErPYUm8cI=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Italic.woff
+SHA1-Digest: wM/MwohrCedkK3Y52rTz2xIBq20=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: 3f2Gmy7pGZPASiGf+ZPR/zDMdpY=
+
+Name: res/drawable-xhdpi-v4/ic_add_black.png
+SHA1-Digest: E/iK1odjhNPFRu+/XQW/FULu7TA=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: VJa6PrhxyIRS2huzDuIN1KH+I2c=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA1-Digest: BLQq1kPx0/JPxPxgp/MrxD6Ft1Q=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Typewriter/Regular/
+ CombDiacritMarks.js
+SHA1-Digest: rUNadaLM+LS2kkjUy9Uq1QxnUgY=
+
+Name: res/drawable-xxxhdpi-v4/ic_help_black_24dp.png
+SHA1-Digest: 0omtzJXXCssvR/vy1BDGr4n8HZk=
+
+Name: res/drawable-mdpi-v4/ic_error_black_24dp.png
+SHA1-Digest: ZWiHX6WYLGKbNC+flytOrXSMf+g=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: /RKioA/8yvuWOlKFy9s8pbEYTQk=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: 9JWJR0qt9ACSmUHvHpdMc/ljSx0=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: vLb+fdvcgH2B9+jbZ3fyKMSLZdE=
+
+Name: res/drawable/splash.xml
+SHA1-Digest: CUa8xlD3vpy+UTEyA6Ur/t6PbgM=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Italic.woff2
+SHA1-Digest: KYgvRB8DthTIQbBad8OVLXHqKUA=
+
+Name: res/drawable-v21/design_bottom_navigation_item_background.xml
+SHA1-Digest: zHglhrkg4fZ97RoyCvkzUG5tkR4=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: tB4B5H9j3pm0Xv62OAovdHEjuyk=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA1-Digest: 17M1OyJgbSyvZxbg3tUg5REGwOg=
+
+Name: res/anim/fab_slide_in_from_left.xml
+SHA1-Digest: OdoiiMQaXwFuql+7oAKMCGfdo/A=
+
+Name: res/drawable-xhdpi-v4/ic_reset.png
+SHA1-Digest: gTFH/LlCVxU7I31QX5B6dfe5kOU=
+
+Name: assets/katex/fonts/KaTeX_Script-Regular.ttf
+SHA1-Digest: zrzH73daHGM6GY2W2W176T6C9F8=
+
+Name: res/drawable-v21/design_password_eye.xml
+SHA1-Digest: oRG8IYPdcDO4WLPsWFEtAduPTO0=
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: +BAInzzGimhbNKEsUcg4H+12pT0=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: C5G74tW2JFPwdcl//FtvBsXTaV8=
+
+Name: assets/MathJax/extensions/TeX/noErrors.js
+SHA1-Digest: R9osu9LhWD4/Hde5acJDqRdEhOk=
+
+Name: assets/katex/fonts/KaTeX_Caligraphic-Regular.woff2
+SHA1-Digest: qnYXgj36lZxqTbHFhwCpTxOLkaw=
+
+Name: assets/MathJax/extensions/TeX/verb.js
+SHA1-Digest: udHhzL/iWUrhwivazTUqsDGQ/wI=
+
+Name: assets/MathJax/extensions/TeX/bbox.js
+SHA1-Digest: uNCInhjdJh7S+lV9Ye5Z23QzS5E=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA1-Digest: A12AVGBM34NZMp7Vkz0/CaWlAjM=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: q5BP6iz9no2ZdX9wgjUfIjqk8OY=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: jUXes5sBIdjAuvOfVrnJvHW7r+w=
+
+Name: res/layout/pad_advance.xml
+SHA1-Digest: MGsvO9KIDV14756T4aBXgbwAjto=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: YsHF4VJihRr1oEZ76cu42zsHjek=
+
+Name: res/layout/activity_interpolate.xml
+SHA1-Digest: 1tUAFDhzcRY3PMVomHok62GlbRA=
+
+Name: res/anim/fab_slide_in_from_right.xml
+SHA1-Digest: lWKbExIqfUA5wGgx4hIGWiwa9B8=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: kKM7t2gcUV2hJsYu4H6GhDJ44Ww=
+
+Name: res/layout/item_result_unit.xml
+SHA1-Digest: 9HrNC2ZA1vL8ZkFkSWqARhomvHY=
+
+Name: res/drawable-xxxhdpi-v4/ic_info_black_24dp.png
+SHA1-Digest: xUSdMCmxCZAQrgBxXzl0gSYymjQ=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/Geometric
+ Shapes.js
+SHA1-Digest: XAsp942rCaFX9DS1quQRXdGgsNA=
+
+Name: assets/MathJax/jax/input/MathML/entities/r.js
+SHA1-Digest: QUI3kWNGMHj8Xohoxtyua32Nxys=
+
+Name: res/layout/design_navigation_menu.xml
+SHA1-Digest: UxTz58Ir6jVXbv/IXuB7xoebHDQ=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: Bii9JPddV76dH8va+pLHDS/1H2I=
+
+Name: res/drawable-hdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: rOMyjIwTCskBtVN07+9fkcrRe0E=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: EvkbaioIXp+VKhUSdG3BnGYBJGw=
+
+Name: res/drawable-mdpi-v4/fab_add.png
+SHA1-Digest: XZW6NI2COOWzohDNXnisVRg/zhY=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA1-Digest: wFmolY6X3y9WfBBzLNCmBogAOqk=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 8TSJifDdlA1J4leugOVG9Peg+k4=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: EEn3c2FyXfch92smjOGwn+MFUnE=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: 4eHl1heBb2gKKMKq21mVlKeb8mM=
+
+Name: res/drawable-xxhdpi-v4/ic_photo_camera_black_24dp.png
+SHA1-Digest: 9xHFmUxTVzx9+bgDPZoQaRvAetU=
+
+Name: assets/MathJax/jax/input/MathML/entities/g.js
+SHA1-Digest: xuJg3hUgTRNG2taJprAafTC5/uU=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: z0xEJNNl6qN3MKa3Uq4y93mF7Cw=
+
+Name: res/layout/activity_real_to_fraction.xml
+SHA1-Digest: is53fH6ynAGTSOtRnGl1nsXEaps=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA1-Digest: yIHGF8Ey/glMkqwzTiooxkhtZjg=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Regular/Spacin
+ gModLetters.js
+SHA1-Digest: Y2Afbzlxb2jgU02xFgeYgytBOOw=
+
+Name: res/layout/pad_base.xml
+SHA1-Digest: YzBz06h75fFoDslhzYdue4XZ80A=
+
+Name: assets/MathJax/jax/element/mml/optable/GeometricShapes.js
+SHA1-Digest: 3seEQbwFuU89nrGfg8n9qhsSxR4=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/BBBold.
+ js
+SHA1-Digest: fr6u8W+oplibNjCFwr2UuVCl6N8=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Bold.eot
+SHA1-Digest: t98wqbAQJCMWqseHzmPXgxgmCEE=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: sujPDGksEdg29cR87ymiy/LIS08=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA1-Digest: tSM90ip9Bqvpkql6I4Tos7ZOuNw=
+
+Name: res/drawable-xxxhdpi-v4/ic_share_black_24dp.png
+SHA1-Digest: rruhP5pXzvfikl0OBTfllOZxUiU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Bold/Comb
+ DiacritMarks.js
+SHA1-Digest: ZRZLdVeTeFzdQXpmpBcJjO/r13Y=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Italic/General
+ Punctuation.js
+SHA1-Digest: Mjz7ZeOJvUb57tNYfVRppOWjGBw=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA1-Digest: BrhcG9gnMxL5cZcJ0jDTmMfIM6o=
+
+Name: res/drawable-xxhdpi-v4/ic_add_black_24dp.png
+SHA1-Digest: gD/uL6a6miAdyMMa511EHkyseGs=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: B+V5QEOwy10ghi7uX5XLTPFJGJs=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: bjw5Qfj9OrAUagjyW3bicEthmg4=
+
+Name: res/layout-land/content_main.xml
+SHA1-Digest: Qu57+uOX0ArEkQ5ggh8sWCbLDi0=
+
+Name: res/drawable-mdpi-v4/ic_backspace_white_24dp.png
+SHA1-Digest: kNk0Gx9dahK/R2ErwcnOp2eZSr4=
+
+Name: assets/MathJax/jax/element/mml/optable/CombDiacritMarks.js
+SHA1-Digest: qgf+UDPUgtPLGEmKppgfxLhIZ84=
+
+Name: res/drawable-xxhdpi-v4/ic_share_black.png
+SHA1-Digest: Cox6uwBsyvTwBLmzxIrtgEJUJvE=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Fraktur/Bold/PUA.js
+SHA1-Digest: QmNILaD+NIhZ0ifYzxuvS/HSyDE=
+
+Name: res/drawable-ldrtl-hdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: /6zY8I0pLh/ahBrJ5QcV9ewTIgo=
+
+Name: res/drawable-mdpi-v4/ic_more_vert_black_24dp.png
+SHA1-Digest: 2CJlMkPZCjmlfog6qeePzZyUefY=
+
+Name: res/drawable-hdpi-v4/ic_share_black_24dp.png
+SHA1-Digest: jhD23pHduzvrm4O1P76+5MBrMPs=
+
+Name: assets/katex/fonts/KaTeX_Script-Regular.woff2
+SHA1-Digest: /rRH6uGsVL8qI0AadBybKLNeDQ8=
+
+Name: res/color/design_error.xml
+SHA1-Digest: 4dNnZkSzNb4q1l6jPiobYAmGtqk=
+
+Name: res/layout/design_layout_tab_text.xml
+SHA1-Digest: hGylEWtLV6PowlIJAnKyrFqhGEo=
+
+Name: res/drawable-mdpi-v4/ic_add_black.png
+SHA1-Digest: i60eJR01V+sLZkWl4FHyhlFAHo0=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: SaBB1uVR+6oONKiYA0HTOmVsmqE=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: tC6uw2w2e+vYOuhd45mTIYRtoKE=
+
+Name: res/drawable-hdpi-v4/ic_settings_black_24dp.png
+SHA1-Digest: m6MfT8zTBNYLokFDmQZHKA5qZi4=
+
+Name: res/drawable-xxhdpi-v4/ic_help_white_24dp.png
+SHA1-Digest: xgp/NwycG0IaqNzXeOJGrf31k0o=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: AEtucgE23w85/isDYqNTWlxruFg=
+
+Name: assets/katex/fonts/KaTeX_Size1-Regular.eot
+SHA1-Digest: hvXKusesl8rQPgRrlq3VJTJ9v9Q=
+
+Name: res/drawable-hdpi-v4/ic_email_black_24dp.png
+SHA1-Digest: a8hU1iFKqMdYUHBC8MxrRmI3KXQ=
+
+Name: res/layout/app_bar_geometry_descartes.xml
+SHA1-Digest: MxSONqNCoc+H0YTXOilOA8IDJ6A=
+
+Name: res/drawable-xhdpi-v4/ic_undo_black_24dp.png
+SHA1-Digest: 3rD/4lwZ7CUwoArXJLbJhZfZuXA=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Fraktur/Regular/Bas
+ icLatin.js
+SHA1-Digest: PIr5GrQslxw15YNm+09zUv9iMeA=
+
+Name: res/layout/activity_hand_calc.xml
+SHA1-Digest: eckB3IvA9AKLigtpCMFbW3AHeH8=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: QyrilM6n+5uQi4WyzI0NsxXANtA=
+
+Name: res/mipmap-mdpi-v4/ic_derivative_black.png
+SHA1-Digest: Mjjj3SnRpJ0beoQVYrej7FvL0vY=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: 69Uq0XVEEDCz62q7/piNqhuoD7Q=
+
+Name: assets/MathJax/jax/output/CommonHTML/config.js
+SHA1-Digest: PUMW9uZeR8FZAevlck+3b0mIYhQ=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 5rSZbdJDOTdM5kJhhIdl8m8briI=
+
+Name: res/layout/nav_header.xml
+SHA1-Digest: pY9iMwSsNDadY2D45KaKj430Te0=
+
+Name: res/drawable-hdpi-v4/ic_equal_light.png
+SHA1-Digest: MKsDJg6I1OwloBqOymL20i2ppWI=
+
+Name: res/drawable-hdpi-v4/ic_save_black_24dp.png
+SHA1-Digest: eJRWGLYDur1TEgDoqQIeadKeriY=
+
+Name: assets/katex/fonts/KaTeX_Math-BoldItalic.ttf
+SHA1-Digest: bLRrKgfc+wvU7xLqvsx31DF+5Yo=
+
+Name: res/drawable-mdpi-v4/ic_matrix_black.png
+SHA1-Digest: d/I5weiAnPsIB60TN6nPuixWpXM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: JPdqp3Utz4eGl5Yd4o1J/WbUozw=
+
+Name: res/layout/design_navigation_menu_item.xml
+SHA1-Digest: S6pojRyj3qvP1yc5zz+2WnfIAWg=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: AxI+z9gNLPecDwvCoNLomd4ZcIU=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: cK/LCW7Y07tXQ8e5BdotU64US0I=
+
+Name: res/drawable-mdpi-v4/ic_main.png
+SHA1-Digest: WRPp8X26fxQu2z+Vk4eAjV6p7Ms=
+
+Name: assets/katex/fonts/KaTeX_Size1-Regular.woff2
+SHA1-Digest: 9iHUisA+sNBxnKjdG5D27I5jOPw=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Fraktur/Bold/Main.j
+ s
+SHA1-Digest: fBaNno9sXUth3McVZMCDrB9w/Ok=
+
+Name: res/layout-v17/abc_select_dialog_material.xml
+SHA1-Digest: P96pEqPQ8YOxHzare7OmJHx2BiA=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: OGTAGSMNcF0Z/ZC0uBc4qemdptI=
+
+Name: res/drawable-mdpi-v4/ic_nav_open_black.png
+SHA1-Digest: 72zNKnfeBGqjxmVXs4+//Y8ZSRs=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA1-Digest: 0eUpCGn2LIip/pQjWJj8Iin6sOY=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Math-BoldItalic_ol
+ d.otf
+SHA1-Digest: R4ivtGQjCl21Kl28v1NAqrgBdYc=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Italic/Ma
+ in.js
+SHA1-Digest: CsQIGPVZAZnD+5ypNuy/gIAmkLs=
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: 6uo2Hh6ZcEDtp6HBBWoPuAhC4qE=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: TE1PNkVCa4/Qe4l6j08Ay94JJoI=
+
+Name: assets/katex/fonts/KaTeX_Math-Regular.ttf
+SHA1-Digest: 7lFLUEyEvzBD/SmVg9o7yv86oh0=
+
+Name: res/drawable-xhdpi-v4/ic_help_black_24dp.png
+SHA1-Digest: nakD75wZ0lfrIH+WOWz9ppCpJRY=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: 8QLweU4p1rehkS9Zii3jepzESPg=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: fkHHafZ6woOU+hakgiXNdjO+G0o=
+
+Name: res/drawable-xxxhdpi-v4/ic_backspace_black_24dp.png
+SHA1-Digest: IBU2QHZBhl+9OtkgQyForAY10J8=
+
+Name: res/drawable-xxxhdpi-v4/ic_photo_camera_black_24dp.png
+SHA1-Digest: AJ9esiDUrzZCLaSVV3J3P/zZ5XM=
+
+Name: res/drawable-xxxhdpi-v4/ic_add_white_24dp.png
+SHA1-Digest: /HSfJn56x53eRUQU7c7hwj7S2Yk=
+
+Name: res/layout/graph_add_function.xml
+SHA1-Digest: 0wXkKmrdJPfKDMv2OLB0BOrDXzY=
+
+Name: META-INF/services/javax.script.ScriptEngineFactory
+SHA1-Digest: LHR/rUG4W5xyL5JbutfB1wY7qLQ=
+
+Name: assets/MathJax/extensions/MathML/mml3.js
+SHA1-Digest: VEAPpUbU5JPvJHzEXlQk11qzmXk=
+
+Name: assets/MathJax/jax/element/mml/optable/MiscMathSymbolsA.js
+SHA1-Digest: +yZsPBjbkVulagfnewomMFLkDzs=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Regular/M
+ ain.js
+SHA1-Digest: A/TYCUZb4dWAuExxtfy+xiKYVwc=
+
+Name: assets/MathJax/jax/input/MathML/entities/v.js
+SHA1-Digest: +cqi89VC+BbT0CP4ZdBw2iVVwrA=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA1-Digest: R+zfNUVLkXYZ8GH32A2aK443lBQ=
+
+Name: res/layout-land/pad_advance.xml
+SHA1-Digest: vEvPw79WHeLLSs4xfw7fsbdMlLE=
+
+Name: assets/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Caligraphic-Regula
+ r.otf
+SHA1-Digest: 91sLvpZhhuaWk+WcLELrhnMwSCA=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: MTJWZc22b5LNeBboqBhxcQh5xHQ=
+
+Name: res/drawable-xxxhdpi-v4/ic_keyboard_arrow_down_black_24dp.png
+SHA1-Digest: Dg1chyEBaX8BUWeinFEsLYGzqr8=
+
+Name: res/drawable-xhdpi-v4/ic_infor_black.png
+SHA1-Digest: OU4jnsOKAQ6uERcmvGSz9bpHfaw=
+
+Name: assets/katex/fonts/KaTeX_Caligraphic-Regular.eot
+SHA1-Digest: Ok/el4r6+sBT2NDZmz8gFTh+0Vk=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 1/FXt00E0Mr8GUWNIDQCnUx9Qzc=
+
+Name: res/drawable-xhdpi-v4/ic_check_white_24dp.png
+SHA1-Digest: mDWgH1Cy57oBVsJloU09Z995AsQ=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: RnQxBqnfZP2w/UH+bBFTojv2UoA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: n8TfpaUDWC1ZG/DnCL+kvaeXf08=
+
+Name: assets/MathJax/jax/input/MathML/entities/k.js
+SHA1-Digest: hofltp8XfU/xV/7GEsWUpdfvSc0=
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: kv8Z2aiviTOXDoPOY4/vyUE5lng=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Regular/Main.j
+ s
+SHA1-Digest: DqZYWdmyeucTYcKjz+qP57vfuYU=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA1-Digest: LuzluTFZbhLUl92QJVx40Jttm/M=
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005
+ .png
+SHA1-Digest: LpI9vSEdW/n3iNzTIDS8ecyd2BM=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: An7c9pYiEWSRATXU7Jj8E2agbmI=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: dEml7NSraw7t0+4lZ4iFeNS5MxI=
+
+Name: assets/MathJax/jax/input/TeX/config.js
+SHA1-Digest: LqHrDG98dUevYACQ6oxPFG7BVMM=
+
+Name: res/drawable-hdpi-v4/ic_zoom_in_black_24dp.png
+SHA1-Digest: tu4Z4+89teXv2WIPL2E7DkBweFU=
+
+Name: res/layout-land/display_main.xml
+SHA1-Digest: amCwo9JJA7x+FRrw/Xu+0z6DXR4=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Italic.eot
+SHA1-Digest: PqKMXLOpD8+fbfeAbNSECVoYv9Y=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: AfbQuyZF1JMvjiaXDfLvtNLgncI=
+
+Name: res/anim/design_snackbar_out.xml
+SHA1-Digest: tSHapqXFI6k7SCynouBmerWDWcs=
+
+Name: res/drawable-xxxhdpi-v4/ic_help_white_24dp.png
+SHA1-Digest: /iVpwDaNBNGrDn8VA9zOSdgcDug=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/SuppMat
+ hOperators.js
+SHA1-Digest: NFCvDrkp9dRWKRz6cb0nItFB8ZQ=
+
+Name: res/drawable-xhdpi-v4/ic_photo_camera_black_24dp.png
+SHA1-Digest: RajOeGX8TO1Vqm+hD9uFedBNWd4=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: lC47V58n3eYOJicP+Ng5Di5wekE=
+
+Name: res/drawable-hdpi-v4/ic_action_name.png
+SHA1-Digest: Dd7NcZYuo1Nk20ItA/GX5Aiu2Gc=
+
+Name: res/drawable-mdpi-v4/ic_der_black.png
+SHA1-Digest: 6a+O8zkOYaK6CdaQaje/xxLVaiA=
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: z7zwna5/785Ly8ahNPOE2jNcEWg=
+
+Name: assets/MathJax/jax/input/MathML/entities/i.js
+SHA1-Digest: 5Nr62MjTfZvaywjNvMtbc6ak35E=
+
+Name: assets/katex/fonts/KaTeX_Script-Regular.eot
+SHA1-Digest: Y0364AvUM3cD0kyn1IrW1cccAlg=
+
+Name: res/drawable-xxxhdpi-v4/ic_email_black_24dp.png
+SHA1-Digest: 8G1NexMr19tmDXngjxyvn8QfRHQ=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA1-Digest: sM1tzoxIgcK5w/PwGSZxzucCBqY=
+
+Name: assets/MathJax/extensions/MathEvents.js
+SHA1-Digest: cFqyoiANwshcv/SzqENhmZIihjY=
+
+Name: assets/MathJax/jax/input/MathML/entities/t.js
+SHA1-Digest: v5ZQnYvP/InDYS5Kk2uAgzbNKw8=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: c+ieuII6udSDVml51EH3TH6KocA=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: E/mBhY9wNG5VaFmW6qL4iXjAHvY=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Greek/Bold/Main.js
+SHA1-Digest: 62GQmSzHNjjHUDZM76tQLOiCj1k=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA1-Digest: VikGrClarpkvTVwTS9DEpzyZFsI=
+
+Name: res/drawable-xxhdpi-v4/ic_share_white_24dp.png
+SHA1-Digest: OsikGOYZjHsTNmgGpLjvpOyCx2k=
+
+Name: res/drawable-hdpi-v4/ic_calculator_black.png
+SHA1-Digest: x5OwYGukW3/mvjACmshomChtyjs=
+
+Name: assets/katex/fonts/KaTeX_Size4-Regular.ttf
+SHA1-Digest: 8wZ8Ls0OcT2Nofn7awkWPAGCjKE=
+
+Name: res/drawable-mdpi-v4/ic_info_black_24dp.png
+SHA1-Digest: FJYDB1Ub4dkcFJUsN58VlsxsrGk=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: GMfxnfKdbk7hC6PYNV8yW1oXIjg=
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: NPD/eXAUHpJIZ0Gue4mGW/Q6oXI=
+
+Name: res/layout-v17/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: zuUC/Vfc/5DJa1S1Bz5NTKnau6Y=
+
+Name: res/drawable-mdpi-v4/ic_share_white_24dp.png
+SHA1-Digest: WBHcGT5iachM337/GGpdhqtZwio=
+
+Name: res/drawable-xhdpi-v4/ic_primitive_black.png
+SHA1-Digest: aORgRtdOfSGQ6cB7zFdXOsJCrIU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/WinIE6/Regular/AMS.
+ js
+SHA1-Digest: PEA+tBwEfXscl3BR2QW4hPw3YvY=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Regular.woff2
+SHA1-Digest: tJOh5LgUF5XPXYuuqkwmh4DAkuw=
+
+Name: res/drawable-xxxhdpi-v4/ic_delete_white_48dp.png
+SHA1-Digest: pblm+qib8XXAgL789hL9nTyclyI=
+
+Name: res/drawable/bg_button_advance.xml
+SHA1-Digest: SJ5gMXoZimebxjcGds0+ekBnWWE=
+
+Name: res/anim/design_fab_in.xml
+SHA1-Digest: 88HYAVsN9aX1xNbLpWMveab3t7w=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: res/drawable-mdpi-v4/ic_calculator_black.png
+SHA1-Digest: FVc99Dp1uSZ8iIAm0BGzgvCnu2Y=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: O6x52IgsWeKV4Xdu5U2H2IxbVgc=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: I2JJHnuKjt9jtF8C76fBatEScaE=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: EYfXWBiFkD5pE+x4VQkg8UKkBDw=
+
+Name: assets/katex/fonts/KaTeX_Size4-Regular.woff
+SHA1-Digest: RMdE/lXxTZVSmIcCxq7nnu9BADI=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.pn
+ g
+SHA1-Digest: rSwsu8lyFJ2T0/pa5u4O8/J64aI=
+
+Name: assets/MathJax/jax/element/mml/optable/MiscSymbolsAndArrows.js
+SHA1-Digest: 5arMeuJteFdw7cMqONqHO/EA0SQ=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: +KHhtlkAGxD4AMaMs/kPxYi5psU=
+
+Name: res/drawable-xxxhdpi-v4/ic_backspace_white_24dp.png
+SHA1-Digest: GNzSPuZRle/Wu3j5IpioWQR8zmM=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: ttGUlGgFTYNlCqPTU8ReGmQYmjU=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Fraktur/Bold/Other.
+ js
+SHA1-Digest: 2dAdl2jute8d1ZTFvOwPm9uexPI=
+
+Name: assets/MathJax/jax/input/MathML/entities/scr.js
+SHA1-Digest: e/ZKujM1atkME32AqFBq8j/MEtc=
+
+Name: assets/MathJax/jax/input/MathML/entities/fr.js
+SHA1-Digest: SMr6pNmJkhqopgnmB4mK15Thgls=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: M5YIWFSMh6TXJuxXBoTNtpmvD4E=
+
+Name: assets/MathJax/jax/input/MathML/jax.js
+SHA1-Digest: Mu8uS61OcWoUVpBYzlYoF8vD7Jw=
+
+Name: res/drawable-xxxhdpi-v4/ic_redo_black_24dp.png
+SHA1-Digest: k1e/kPkknDKOPH7DFiANIbtzmRY=
+
+Name: res/drawable-xhdpi-v4/ic_save_black_24dp.png
+SHA1-Digest: I+YoQmhLBauKox2EENQabkrsfrM=
+
+Name: res/drawable/bg_button_digit.xml
+SHA1-Digest: sr5Zdm02LhnCeX16pzXhObEgBAs=
+
+Name: res/drawable-xxxhdpi-v4/ic_more_vert_black_24dp.png
+SHA1-Digest: zwijSjirhBfB3Dpcfi5sYObC99g=
+
+Name: res/layout-v21/pad_simple.xml
+SHA1-Digest: WQFvV5R+0AeAokQf8eyEu+TBmiM=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_black_48dp.png
+SHA1-Digest: MocgqtpyKENnGdoGg62owC+awNU=
+
+Name: res/layout/infor_license.xml
+SHA1-Digest: Ww9x8FZTO+VM50Lu1AHdGB18NKY=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: +bjkZfnp7jH8HvA5wzYQ85O04Ic=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: nEfj0nfPBbqur1eTMAml8UkS7G0=
+
+Name: res/drawable-mdpi-v4/ic_lim_black.png
+SHA1-Digest: oiNjTM49skN/hrkBmbPA+/PPz2Q=
+
+Name: assets/katex/fonts/KaTeX_AMS-Regular.ttf
+SHA1-Digest: 6ADyT5Sn3/FvN5HfHKDAbEB2qeg=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: ISKxPWejrMXNRORoBa+kBKRQQhQ=
+
+Name: res/layout-v11/notification_template_big_media_custom.xml
+SHA1-Digest: Fao40SNVRmPjs269J93h+7e97Nc=
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: OqSIVlkrKIYR7cyOW2HdJP/h5io=
+
+Name: res/drawable-xxhdpi-v4/ic_content_copy_black_24dp.png
+SHA1-Digest: 0VLh8z8dOqxN8LcZVctklR+/snw=
+
+Name: res/drawable-hdpi-v4/ic_settings_white_24dp.png
+SHA1-Digest: ujVEl0B4YJeKwTZh7qJ6kr0Tpgc=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: vq3AaVX19jU0c0v1npZsAQOh+CI=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: HHwU1J6PQr5RAvaCXhvbOHyU+wg=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA1-Digest: WkQjSAljlscstHhmT1lLWbuBdb8=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: igV6Z9qyPsoUBNkEZPzj+DDt0kE=
+
+Name: assets/katex/fonts/KaTeX_Math-BoldItalic.eot
+SHA1-Digest: v2XiWtWVAvuBZVSLkg+LsUgCQWk=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA1-Digest: T2xd089LUmFASzAN4ocTTmujYzs=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/MiscMathS
+ ymbolsA.js
+SHA1-Digest: s/Amh+Sx7VcDta8l2bpYuxRaEmk=
+
+Name: res/drawable/binary.png
+SHA1-Digest: E695d67pYXywzxcPvqpgtCN2qdY=
+
+Name: res/drawable-xhdpi-v4/ic_keyboard_voice_white_24dp.png
+SHA1-Digest: 7oJDE2ex9XOLyhKIb0VYHlyW0KU=
+
+Name: res/layout-v11/notification_media_cancel_action.xml
+SHA1-Digest: rCwHl5a5hG7p7AHSTHbtvrHd4pg=
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA1-Digest: ZY6VeC5tiQzORoiQwaJM5ofnwqY=
+
+Name: res/drawable/ic_length.png
+SHA1-Digest: iCuc/7/+Hwb6Hg0WJro0/S3/YeE=
+
+Name: res/drawable-hdpi-v4/ic_help_black_24dp.png
+SHA1-Digest: HTTebaTJ60Xho6CtFVAne83elog=
+
+Name: res/drawable-mdpi-v4/ic_keyboard_arrow_down_black_24dp.png
+SHA1-Digest: gJFHGii6v1ulJxVXoDKgssdcU/s=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Typewriter/Regular/
+ Other.js
+SHA1-Digest: Zp6yXCiKhC4VJKa/gUfk5xutVjg=
+
+Name: res/drawable-xxhdpi-v4/ic_help_black_24dp.png
+SHA1-Digest: ZSJge+3gvMp0bIjAlIVPQXT4vJw=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: EW/WpNliEy+bQjDuiw+U1mX+yZk=
+
+Name: res/drawable-xxhdpi-v4/ic_gesture_black_24dp.png
+SHA1-Digest: m5546xVLayq2qnTcZXHqpQCgbh0=
+
+Name: res/drawable-mdpi-v4/ic_functions_2_black.png
+SHA1-Digest: YypfVtZSQ23r8ikJpZdRJWHzxzU=
+
+Name: classes2.dex
+SHA1-Digest: ibQSb/OnJB5woMAPFGopulhQr7k=
+
+Name: res/anim/design_fab_out.xml
+SHA1-Digest: eqyMleghgi0F32G8QHJUnftDRAc=
+
+Name: res/drawable/ic_temp.png
+SHA1-Digest: ONZ/5p0z6DTcZf8yT6Bw40SzRYQ=
+
+Name: assets/katex/fonts/KaTeX_Script-Regular.woff
+SHA1-Digest: MLBbcO5L00k+3WlCJ0cMSZ+WxU4=
+
+Name: assets/MathJax/jax/input/MathML/entities/x.js
+SHA1-Digest: 7J62opIhrUjhf/WUTu4RE0WBB24=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: uWfk23bm97GtczH2YvAwWP/eNOE=
+
+Name: res/drawable-xxxhdpi-v4/ic_add_black_24dp.png
+SHA1-Digest: 8YGkgtZ44ZVt7aMa2GQ5etaanwY=
+
+Name: assets/MathJax/jax/input/MathML/entities/m.js
+SHA1-Digest: Iywj2xVGpJjfUY1PYeTPCdcC78Y=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Spacing
+ ModLetters.js
+SHA1-Digest: JCr/y3FDVjXYtYwq7/mKjcMxXTU=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA1-Digest: jSCetwmEsQWxASeYyjO7YhmGUG0=
+
+Name: res/layout/activity_matrix_calculator.xml
+SHA1-Digest: K4nDL/ROsDmdOqS7icIwCgYE3O0=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Italic/Main.js
+SHA1-Digest: ghrw66WIdgUgOHLNhY01EpdjRQk=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: NhH/qNsjwbuGc/0xqPrgqFgo+9o=
+
+Name: res/drawable-xhdpi-v4/ic_add_black_24dp.png
+SHA1-Digest: VEctg6VYBn1WPj4/k1DfhRcl5W0=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Bold/Othe
+ r.js
+SHA1-Digest: 2EsixwM9bAr7P+5hFA8y/mwluzQ=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.
+ png
+SHA1-Digest: pf8Tt2oAabuOsAiSswddcfLUQAQ=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: Zlmbg+JWzYfCIIOn1SxRANlh8xo=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: +TY+I9fpZ38ftBWokyGPSIm59vQ=
+
+Name: assets/MathJax/extensions/TeX/begingroup.js
+SHA1-Digest: nzgFgyNiSI2/ShSEPOVvFx++V2Y=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: +/cT3+0N8I+XSw0FPP5O3x2f5g4=
+
+Name: res/drawable-hdpi-v4/ic_add_white.png
+SHA1-Digest: At2FZZvO05kPwq7ZSOgtY7cVPDM=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/fontdata-extra.js
+SHA1-Digest: EO4Yfkn5gIwCptWtMWIFdcfRn0s=
+
+Name: res/drawable-xhdpi-v4/fab_add.png
+SHA1-Digest: mcmQ9+wLxCvxLaYqkf7Ha1AuiTg=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: Osfw11YL10WQkjXxgGt64AbLp0M=
+
+Name: res/drawable-xhdpi-v4/ic_help_white_24dp.png
+SHA1-Digest: nJtrXxYxR3aBc+tAKDaCWQTYm/w=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA1-Digest: gaRS2sbjCfcJo3xOrkhIdr9XwZg=
+
+Name: res/layout-v11/notification_template_big_media_narrow.xml
+SHA1-Digest: jx7K7y4JpN57tiEzsvDMSSWqEq0=
+
+Name: res/drawable-xxxhdpi-v4/white_card.9.png
+SHA1-Digest: GiIaYXUi4iUCICKpqK7ArlqIaww=
+
+Name: res/drawable-xxhdpi-v4/ic_functions_2_black.png
+SHA1-Digest: zmtgY56bFVArKGEDdcWMEkxv31Y=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA1-Digest: VzgmMujgGVTkhZBrXgJyrBpI1fs=
+
+Name: res/drawable-hdpi-v4/ic_lim_black.png
+SHA1-Digest: JZPK4/6uuMGgqvcKMOwRdqerHH4=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: IWVTPT52a00r2BWvMZ8PTKiA2Tg=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Italic.ttf
+SHA1-Digest: 9Nvnh81ctKyClgUZ8pwdTHfUwU4=
+
+Name: res/drawable-v21/avd_show_password_2.xml
+SHA1-Digest: Gae5BIX8ASZvcAUCtVB+bbtVNck=
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA1-Digest: l0M3oq0dSvqXzuiDjFty5ess9ic=
+
+Name: res/layout/variable_line.xml
+SHA1-Digest: z/BfiqU24Zx/z5hdB66nq0KsoAw=
+
+Name: res/drawable-hdpi-v4/ic_undo_black_24dp.png
+SHA1-Digest: U9CLDTbscNBj6OvSqKr6I7Y7i6o=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Bold/Main
+ .js
+SHA1-Digest: 3Lpu4P5Ivy4lc+IRYQ+KJ2jHbXA=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/MiscSym
+ bols.js
+SHA1-Digest: MCxPodUu7SaZlyoEC8mOCIWhnOw=
+
+Name: res/drawable-xxhdpi-v4/ic_undo_black_24dp.png
+SHA1-Digest: QXMH8VITh6OYKZglukh3bw8FfCQ=
+
+Name: res/drawable-hdpi-v4/ic_functions_2_black.png
+SHA1-Digest: /0XA9gn1kD9Ac52pwiQ46+cuwt8=
+
+Name: assets/MathJax/LICENSE
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: assets/katex/fonts/KaTeX_Main-Bold.eot
+SHA1-Digest: 6lugiQ/CFR4qWb5u+rg8kEZY6rA=
+
+Name: res/drawable-ldrtl-hdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: 3f2Gmy7pGZPASiGf+ZPR/zDMdpY=
+
+Name: res/drawable-xxhdpi-v4/ic_calculator_black.png
+SHA1-Digest: rIWzf+YQqGehpWGz14vR4K0Ii+k=
+
+Name: res/mipmap-hdpi-v4/ic_derivative_black.png
+SHA1-Digest: eJIrwTp6jkixroV3n7jEpgc2aTA=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/CombDiacr
+ itMarks.js
+SHA1-Digest: QtqD7Co8/Om2unH0+ZapaaTnbjA=
+
+Name: assets/katex/fonts/KaTeX_Math-Regular.eot
+SHA1-Digest: 67q7TulZpm0DaFdicdojFNdIaVQ=
+
+Name: assets/MathJax/jax/element/mml/optable/Arrows.js
+SHA1-Digest: zba2dXu/V8Ml4+FH6qSA/qNsSP4=
+
+Name: assets/katex/fonts/KaTeX_Main-Bold.woff2
+SHA1-Digest: JxENStG4XqXOh+o3KgX19pZzwG0=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: ca38Y7t2AcVvtqykiTUt087ANd8=
+
+Name: assets/katex/fonts/KaTeX_SansSerif-Bold.woff2
+SHA1-Digest: gQotGAcL4QPtnkE7hTDg9j6Hupw=
+
+Name: res/anim/bounce.xml
+SHA1-Digest: LKT0LXV7DzBfVwZLGgPwiwXRpfM=
+
+Name: assets/katex/fonts/KaTeX_Main-Bold.ttf
+SHA1-Digest: J/GkcALl6by9SbfxYMJwayfHEfg=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Size1/Regular/Main.
+ js
+SHA1-Digest: glPVB9HpBc9ZhLZnatzTOzYrOkc=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: Goj79xYi41d5Ug2oovkSjYvLbAI=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/SansSerif/Italic/Ba
+ sicLatin.js
+SHA1-Digest: CF0Dz2f7Y0vIXub227lFn7zL4F4=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: zI176QlarHgsgLRcKJcYZrGV9ps=
+
+Name: res/layout/activity_more.xml
+SHA1-Digest: A4BerFCS/fg4pjW+rdgYDD2zWEQ=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/MathOpera
+ tors.js
+SHA1-Digest: rXPpYZ4InT6o+ThHqseKX0Qncoo=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: i6pCyKNDkCGzNzTp71ixAq/8VCM=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA1-Digest: h7hNXJrcbvKMv9bbGrTrvd0dOgs=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: TLfjxp5bknlrmh6zJTSYD2AfmTo=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: fE+ed96LKVFYFhJnc9h11vasUOI=
+
+Name: res/drawable/design_fab_background.xml
+SHA1-Digest: 2IXtIQ8BMr6/gZ9iOW0d/IwZH6A=
+
+Name: res/drawable-xxhdpi-v4/ic_content_paste_black_24dp.png
+SHA1-Digest: T2YtIS1xK2GDt61n51e4jNDcRus=
+
+Name: res/layout/design_layout_tab_icon.xml
+SHA1-Digest: 1oW2wUEHsS3deIrUBKUEwpNALgo=
+
+Name: res/anim-v21/design_bottom_sheet_slide_out.xml
+SHA1-Digest: AGi5g5tvoZK7WNsIL0yZE9rdwnw=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.
+ png
+SHA1-Digest: svcMy3RUKynkEHwirQYPCICt1tI=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: XAZixSC2WX/BluaXaroht/XOK8Y=
+
+Name: res/drawable-xhdpi-v4/ic_history_white_24dp.png
+SHA1-Digest: i2AXqJ0Skb+VWihaRqsxXxQ/zZU=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: res/drawable/ic_speed.png
+SHA1-Digest: VjzgIKoIqSDNsitSMdUoAXCvwT8=
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA1-Digest: MRBlS65c7l+Yn/XS6Uk6o4cUH4o=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Italic/CombDia
+ critMarks.js
+SHA1-Digest: v/ex8Xc/JYKdJR8cgsUePKm3kHs=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: kBG1gtv3r0AKtRMQRJeeGdtStSk=
+
+Name: assets/MathJax/extensions/TeX/enclose.js
+SHA1-Digest: XLZigy5EdXSIoYMAEH/0ykKPZis=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA1-Digest: oZQk7aVtrL5tfjeqtK5hkQjq5XQ=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA1-Digest: 1Sq+VOFFXYaggLRmUPg5CpP+b1M=
+
+Name: res/drawable-xxhdpi-v4/ic_color_lens_black_24dp.png
+SHA1-Digest: lgY8h3m9bIyuU4jL9QZlkht48sU=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: ranK/7dnDMij+vSRGwUtkTPWU/4=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/WinIE6/Regular/Main
+ .js
+SHA1-Digest: OkLmnSpbC2mUww+nGWla+RT5U3I=
+
+Name: res/drawable-xxhdpi-v4/ic_content_copy_white_24dp.png
+SHA1-Digest: UlgomI6LuQbbBm7g64wLT8/M1h8=
+
+Name: res/layout/design_navigation_item_separator.xml
+SHA1-Digest: ZrVCT50MLzsYssSmPSnwC2kz/Hs=
+
+Name: assets/MathJax/config/TeX-AMS-MML_HTMLorMML.js
+SHA1-Digest: esKeqcvqL5dUvT3jMQqBf8zOktc=
+
+Name: res/drawable-xxhdpi-v4/ic_share_black_24dp.png
+SHA1-Digest: 8iGYGTIBW/pcZSw4tBPo0lZrQgs=
+
+Name: res/layout-v11/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: mc8jTgiYEaqWldORqMFnqtYH2Eo=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/Geometr
+ icShapes.js
+SHA1-Digest: OQhWGGJusHr4LgqIqOL1KOfXkVo=
+
+Name: assets/MathJax/jax/output/HTML-CSS/fonts/TeX/Typewriter/Regular/
+ BasicLatin.js
+SHA1-Digest: wmnvotT5UFLbQXpMRR6sQo01U6c=
+
+Name: assets/MathJax/jax/output/HTML-CSS/autoload/ms.js
+SHA1-Digest: cFCb8t5W4FlrJVV+FRSabs6T/5g=
+
+Name: assets/katex/fonts/KaTeX_Size4-Regular.eot
+SHA1-Digest: v8O3/rqfFH8YH4HCvQ8uCzYl9CY=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: bvkSnzG+4r12dRWJRd9DLrqCzfU=
+
+Name: build-data.properties
+SHA1-Digest: 6cTFcAFXyNCv/umHCtgPlOQDovg=
+
+Name: assets/MathJax/jax/input/MathML/entities/b.js
+SHA1-Digest: m1sLp+ffGmKuwUPAtpl2Nf5T8PU=
+
+Name: res/drawable-v21/avd_show_password_1.xml
+SHA1-Digest: qVITxDJ//k8gGJ8N8k8KpxMQX40=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: MtrqRaF9hHgDajQUiUZsdukbh0o=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: Vgi5sEfMVSyu0nd6WWsvBST1nxk=
+
+Name: assets/katex/fonts/KaTeX_Math-Italic.eot
+SHA1-Digest: 700F9P5ivawK7ilQ8p1z5yYF8hI=
+
+Name: res/drawable/white_card.9.png
+SHA1-Digest: 2kPt8J9uP8bp7Op6UR5W0IOvnGw=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: xbtiRcvLvJrne7S8ayLjtcHy+zs=
+
+Name: assets/katex/fonts/KaTeX_Main-Italic.ttf
+SHA1-Digest: sYTo4rm6NwvSFbJ8EV/7ZA+35NA=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: e//ti7f9UjoZyXMyT5IRTahD3PQ=
+
+Name: res/layout/define_variable_activity.xml
+SHA1-Digest: 9ZhdhxD0i/Q2ex+1Hecetkh+sUw=
+
+Name: assets/MathJax/jax/output/HTML-CSS/autoload/mmultiscripts.js
+SHA1-Digest: NSISqFIdltmVrT5jB00tIpV7Z4Q=
+
+Name: assets/MathJax/jax/output/HTML-CSS/autoload/mtable.js
+SHA1-Digest: kL8fb62M572sduDY6xEJ0BRX7xY=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA1-Digest: jI3mQipJmDUxVf7VVjdRjsUOXu0=
+
+Name: res/drawable-xxhdpi-v4/ic_nav_open_black.png
+SHA1-Digest: Q9w1vTu1xn4ahUB3NeS2b7tstco=
+
+Name: res/drawable-xxxhdpi-v4/ic_keyboard_arrow_up_white_24dp.png
+SHA1-Digest: x5a4whh+KswGQbkO1L6Ac69l/yA=
+
+Name: assets/MathJax/jax/element/mml/optable/SupplementalArrowsA.js
+SHA1-Digest: t1BaUrMYtQZJtdiFF2nOouREPEI=
+
+Name: assets/katex/fonts/KaTeX_Typewriter-Regular.woff
+SHA1-Digest: ZkHG4kvWof/YVPAP4RaWltmgDxg=
+
+Name: res/drawable/button_digit_normal.xml
+SHA1-Digest: C7RslyicyD03MwxumO+qoV+uPvM=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: ivpLQ63tfOD0ISnUmDRNp3o0jBk=
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: H53d9SOkoWezKsVvcOALraOdTFo=
+
+Name: res/mipmap-xxhdpi-v4/ic_fraction_black.png
+SHA1-Digest: Pe2ueBMc2nzLOCVDIbhaHuEi5oI=
+
+Name: res/drawable-xxxhdpi-v4/ic_content_paste_white_24dp.png
+SHA1-Digest: 5XPWsOLY8vUS8bZ4w93la0j0tZY=
+
+Name: assets/katex/fonts/KaTeX_Typewriter-Regular.woff2
+SHA1-Digest: G7s2u5YEwbWykhdubXI/z6E0j48=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA1-Digest: MIRMx31iJPOluZZsUVIXnYZEWpM=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
+Name: res/layout/content_linear_system.xml
+SHA1-Digest: gY4HWzG32v4vys6htYmF2LS+R3I=
+

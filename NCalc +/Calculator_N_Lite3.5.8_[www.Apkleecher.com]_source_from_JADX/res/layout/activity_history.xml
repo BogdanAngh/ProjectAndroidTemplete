@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <android.support.design.widget.AppBarLayout android:layout_width="-1" android:layout_height="-2">
+        <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f010049" />
+    </android.support.design.widget.AppBarLayout>
+    <FrameLayout android:layout_width="-1" android:layout_height="-1">
+        <android.support.v7.widget.RecyclerView android:id="@id/historyRecycler" android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="@dimen/fab_size_normal" />
+        <android.support.design.widget.FloatingActionButton android:layout_gravity="55" android:id="@id/fabDeleteAll" android:layout_width="@dimen/fab_size_normal" android:layout_height="@dimen/fab_size_normal" android:layout_margin="@dimen/fab_margin" android:src="@drawable/ic_delete_white_48dp" android:scaleType="7" />
+    </FrameLayout>
+</LinearLayout>

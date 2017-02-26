@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <android.support.v7.widget.RecyclerView android:id="@id/rc_cmd" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" />
+    <Button android:id="@id/button" android:layout_width="-2" android:layout_height="-2" android:text="Button" android:layout_alignTop="@id/multiAutoCompleteTextView" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+    <MultiAutoCompleteTextView android:id="@id/multiAutoCompleteTextView" android:layout_width="-2" android:layout_height="-2" android:text="MultiAutoCompleteTextView" android:layout_alignBottom="@id/button" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

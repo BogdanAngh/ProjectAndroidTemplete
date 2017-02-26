@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout app:orientation="1" app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-1">
+    <android.support.design.widget.AppBarLayout app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.Toolbar app:id="@id/toolbar" app:layout_width="-1" app:layout_height="?unknown_attr_ref: 7f010049" />
+        <LinearLayout app:orientation="0" app:padding="16dp" app:layout_width="-1" app:layout_height="-2" app:weightSum="1.0">
+            <android.support.design.widget.TextInputLayout app:layout_width="0dp" app:layout_height="-1" app:layout_weight="0.6">
+                <android.support.v7.widget.AppCompatEditText app:id="@id/editInput" app:layout_width="-1" app:layout_height="-1" app:hint="@string/nh_p_d_li_u" app:inputType="2002" />
+            </android.support.design.widget.TextInputLayout>
+            <Spinner app:layout_gravity="11" app:id="@id/spinner_unit" app:layout_width="0dp" app:layout_height="-1" app:layout_weight="0.4" />
+        </LinearLayout>
+    </android.support.design.widget.AppBarLayout>
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <android.support.v7.widget.RecyclerView app:id="@id/listview" app:layout_width="-1" app:layout_height="-1" />
+    </LinearLayout>
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:paddingLeft="@dimen/activity_horizontal_margin" app:paddingTop="@dimen/activity_vertical_margin" app:paddingRight="@dimen/activity_horizontal_margin" app:paddingBottom="@dimen/activity_vertical_margin" app:layout_width="-1" app:layout_height="-1" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView27" app:layout_width="-2" app:layout_height="-2" app:text="Nhập số thập phân cần chuyển" />
+    <EditText app:id="@id/editInput" app:layout_width="-1" app:layout_height="-2" app:ems="10" app:singleLine="true" app:inputType="2002" />
+    <android.support.v4.widget.NestedScrollView app:layout_width="-1" app:layout_height="-2">
+        <io.github.kexanie.library.MathView app:id="@id/txtResult" app:layout_width="-1" app:layout_height="-1" app:engine="0" />
+    </android.support.v4.widget.NestedScrollView>
+</LinearLayout>

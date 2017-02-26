@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView app:layout_width="-1" app:layout_height="-1">
+    <LinearLayout app:orientation="1" app:padding="4dp" app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.CardView app:visibility="0" app:clickable="true" app:layout_width="-1" app:layout_height="-2" app:cardElevation="4dp" app:contentPadding="8dp">
+            <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView10" app:layout_width="-1" app:layout_height="-2" app:text="Đường thẳng AB" />
+                <TextView app:layout_width="-2" app:layout_height="-2" app:text="Nhập tọa độ của đường thang AB, điểm đầu là A(xa, ya) và điểm cuối có tọa độ là B(xb, yb)" />
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:layout_width="0dp" app:layout_height="-1" app:text="A(xa, ya)" app:layout_weight="1.0" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editXa" app:layout_width="0dp" app:layout_height="-1" app:hint="xa" app:layout_weight="1.0" app:inputType="2002" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editYa" app:layout_width="0dp" app:layout_height="-1" app:hint="ya" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:layout_width="0dp" app:layout_height="-1" app:text="B(xb, yb)" app:layout_weight="1.0" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editXb" app:layout_width="0dp" app:layout_height="-1" app:hint="xb" app:layout_weight="1.0" app:inputType="2002" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editYb" app:layout_width="0dp" app:layout_height="-1" app:hint="yb" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/txtInfo" app:layout_width="-1" app:layout_height="-2" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+            <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView13" app:layout_width="-1" app:layout_height="-2" app:text="Độ dài đoạn thẳng AB" />
+            <TextView app:layout_width="-2" app:layout_height="-2" app:text="Khoảng cách từ A đến B" />
+            <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtLength" app:layout_width="-1" app:layout_height="-2" app:text="null" />
+            <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+            <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView16" app:layout_width="-1" app:layout_height="-2" app:text="Góc tạo với Ox" />
+            <TextView app:layout_width="-2" app:layout_height="-2" app:text="Góc giữa đường thẳng AB và Ox" />
+            <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtAngleOx" app:layout_width="-1" app:layout_height="-2" />
+            <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+            <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView23" app:layout_width="-1" app:layout_height="-2" app:text="Trung điểm" />
+            <TextView app:layout_width="-2" app:layout_height="-2" app:text="Trung điểm của đoạn thẳng AB" />
+            <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtMid" app:layout_width="-1" app:layout_height="-2" />
+        </LinearLayout>
+        <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView24" app:layout_width="-1" app:layout_height="-2" app:text="Vector chỉ phương" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtVectorLine" app:layout_width="-1" app:layout_height="-2" />
+        <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView26" app:layout_width="-1" app:layout_height="-2" app:text="Vector pháp tuyến" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtVectorTangent" app:layout_width="-1" app:layout_height="-2" />
+        <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView21" app:layout_width="-1" app:layout_height="-2" app:text="Phương trình tham số" />
+        <TextView app:layout_width="-2" app:layout_height="-2" app:text="Phương trình tham số của đường thẳng AB" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/txtParameter" app:layout_width="-1" app:layout_height="-2" />
+        <TextView app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView31" app:layout_width="-1" app:layout_height="-2" app:text="Phương trình tổng quát" />
+        <TextView app:layout_width="-2" app:layout_height="-2" app:text="Phương trình tổng quát của đường thẳng AB" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtGenaralEquation" app:layout_width="-1" app:layout_height="-2" />
+        <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+        <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+            <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView14" app:layout_width="-1" app:layout_height="-2" app:layout_column="0" app:text="Đường thẳng CD" />
+            <TextView app:layout_width="-2" app:layout_height="-2" app:text="Nhập tọa độ 2 điểm thuộc đường thẳng CD" />
+            <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1"
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:layout_width="0dp" app:layout_height="-1" app:text="C(xc, yc)" app:layout_weight="1.0" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editXc" app:layout_width="0dp" app:layout_height="-1" app:hint="xc" app:layout_weight="1.0" app:inputType="2002" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editYc" app:layout_width="0dp" app:layout_height="-1" app:hint="yc" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:layout_width="0dp" app:layout_height="-1" app:text="D(xd, xd)" app:layout_weight="1.0" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editXd" app:layout_width="0dp" app:layout_height="-1" app:hint="xd" app:layout_weight="1.0" app:inputType="2002" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editYd" app:layout_width="0dp" app:layout_height="-1" app:hint="yd" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView app:textAppearance="?unknown_attr_ref: 1010042" app:id="@id/txtInfor2" app:layout_width="-1" app:layout_height="-2" app:layout_column="0" app:layout_span="2" />
+        </LinearLayout>
+        <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView32" app:layout_width="-1" app:layout_height="-2" app:text="Vị trí tương đối" />
+        <TextView app:layout_width="-1" app:layout_height="-2" app:text="Vị trí tương đối giữa 2 đường thẳng AB và CD" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtPositon" app:layout_width="-1" app:layout_height="-2" app:layout_column="1" />
+        <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView33" app:layout_width="-1" app:layout_height="-2" app:text="Góc giữa 2 đường thẳng" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtAngle" app:layout_width="-1" app:layout_height="-2" />
+        <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+        <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2" app:stretchColumns="*">
+            <TextView app:textAppearance="@style/TextAppearance_AppCompat_Large" app:id="@id/textView15" app:layout_width="-1" app:layout_height="-2" app:text="Điểm M(xm, ym)" />
+            <TextView app:layout_width="-2" app:layout_height="-2" app:text="Nhập tọa độ điểm M" />
+            <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                <TextView app:gravity="11" app:layout_width="0dp" app:layout_height="-1" app:text="M(xm, ym)" app:layout_weight="1.0" />
+                <android.support.v7.widget.AppCompatEditText app:id="@id/editXm" app:layout_width="0dp" app:layout_height="-1" app:hint="xm" app:layout_weight="1.0" app:inputType="2002" />
+                <android.support.v7.widget.AppCompatEditText app:id="@id/editYm" app:layout_width="0dp" app:layout_height="-1" app:hint="ym" app:layout_weight="1.0" app:inputType="2002" />
+            </LinearLayout>
+        </LinearLayout>
+        <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView34" app:layout_width="-1" app:layout_height="-2" app:text="Khoảng cách" />
+        <TextView app:layout_width="-2" app:layout_height="-2" app:text="Khoảng cách từ M đến đường thẳng AB" />
+        <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtDistancePoint" app:layout_width="-1" app:layout_height="-2" />
+    </LinearLayout>
+</ScrollView>

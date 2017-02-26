@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+        <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:cardElevation="4dp">
+            <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:stretchColumns="*">
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView" app:layout_width="-1" app:layout_height="-2" app:layout_span="3" app:text="Đường tròn tâm O1, bán kính R1" />
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:id="@id/textView2" app:layout_width="0dp" app:layout_height="-2" app:text="O1(x1, y1)" app:layout_weight="1.0" />
+                    <EditText app:id="@id/editX1" app:layout_width="0dp" app:layout_height="-2" app:hint="x1" app:singleLine="true" app:layout_weight="1.0" app:inputType="2002" />
+                    <EditText app:id="@id/editY1" app:layout_width="0dp" app:layout_height="-2" app:hint="y1" app:singleLine="true" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-1" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:id="@id/textView3" app:layout_width="0dp" app:layout_height="-2" app:text="R1" app:layout_weight="1.0" />
+                    <EditText app:id="@id/editR1" app:layout_width="0dp" app:layout_height="-2" app:layout_span="2" app:ems="10" app:singleLine="true" app:layout_weight="2.0" app:inputType="2002" />
+                </LinearLayout>
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView36" app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="4dp" app:text="Phương trình đường tròn" />
+                <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtEquaCircle" app:layout_width="-1" app:layout_height="-2" app:text="null" />
+                <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:layout_width="-1" app:layout_height="-2" app:text="Chu vi" />
+                <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtLength" app:layout_width="-2" app:layout_height="-2" />
+                <TextView app:background="?unknown_attr_ref: 7f010088" app:layout_width="-1" app:layout_height="1dp" app:layout_margin="2dp" />
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:layout_width="-1" app:layout_height="-2" app:text="Diện tích" />
+                <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtArea" app:layout_width="-2" app:layout_height="-2" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="4dp" app:cardElevation="4dp">
+            <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView4" app:layout_width="-1" app:layout_height="-2" app:text="Đường tròn tâm O2, bán kính R2" />
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:id="@id/textView5" app:layout_width="0dp" app:layout_height="-1" app:text="O2(x2, y2)" app:layout_weight="1.0" />
+                    <EditText app:enabled="true" app:id="@id/editX2" app:layout_width="0dp" app:layout_height="-1" app:hint="x2" app:singleLine="true" app:layout_weight="1.0" app:inputType="2002" />
+                    <EditText app:id="@id/editY2" app:layout_width="0dp" app:layout_height="-1" app:hint="y2" app:singleLine="true" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:layout_weight="3.0">
+                    <TextView app:gravity="11" app:id="@id/textView6" app:layout_width="0dp" app:layout_height="-1" app:text="R2" app:layout_weight="1.0" />
+                    <EditText app:id="@id/editR2" app:layout_width="0dp" app:layout_height="-1" app:ems="10" app:layout_weight="2.0" app:inputType="2002" />
+                </LinearLayout>
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView8" app:layout_width="-1" app:layout_height="-2" app:text="Vị trí tương đối giữa 2 đường tròn" />
+                <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtInteractionCircle" app:layout_width="-1" app:layout_height="-2" app:text="null" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="4dp" app:cardElevation="4dp">
+            <LinearLayout app:orientation="1" app:padding="4dp" app:layout_width="-1" app:layout_height="-2">
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView12" app:layout_width="-1" app:layout_height="-2" app:layout_span="3" app:text="Đường thẳng AB" />
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:layout_width="0dp" app:layout_height="-1" app:text="A(xa, ya)" app:layout_weight="1.0" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editXa" app:layout_width="0dp" app:layout_height="-1" app:hint="xa" app:layout_weight="1.0" app:inputType="2002" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editYa" app:layout_width="0dp" app:layout_height="-1" app:hint="ya" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:layout_width="0dp" app:layout_height="-1" app:text="B(xb, yb)" app:layout_weight="1.0" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editXb" app:layout_width="0dp" app:layout_height="-1" app:hint="xb" app:layout_weight="1.0" app:inputType="2002" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editYb" app:layout_width="0dp" app:layout_height="-1" app:hint="yb" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView11" app:layout_width="-1" app:layout_height="-2" app:layout_span="3" app:text="Vị trí tương đối với đường thẳng" />
+                <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtInteractionLine" app:layout_width="-1" app:layout_height="-2" app:text="null" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="4dp" app:cardElevation="4dp">
+            <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+                <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView35" app:layout_width="-2" app:layout_height="-2" app:text="Phương trình tiếp tuyến tại M" />
+                <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                    <TextView app:gravity="11" app:layout_width="0dp" app:layout_height="-1" app:text="M(xm, ym)" app:layout_weight="1.0" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editXm" app:layout_width="0dp" app:layout_height="-1" app:hint="xm" app:layout_weight="1.0" app:inputType="2002" />
+                    <android.support.v7.widget.AppCompatEditText app:id="@id/editYm" app:layout_width="0dp" app:layout_height="-1" app:hint="ym" app:layout_weight="1.0" app:inputType="2002" />
+                </LinearLayout>
+                <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtEquationTangent" app:layout_width="-1" app:layout_height="-2" app:layout_span="2" />
+                <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textStyle="1" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtEquaTangent" app:layout_width="-1" app:layout_height="-2" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="4dp" app:cardElevation="4dp">
+            <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2"
+                <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+                    <TextView app:textAppearance="?unknown_attr_ref: 1010040" app:id="@id/textView25" app:layout_width="-1" app:layout_height="-2" app:layout_span="4" app:text="Vị trí tương đối với điểm" />
+                    <LinearLayout app:layout_width="-1" app:layout_height="-2" app:weightSum="3.0">
+                        <TextView app:gravity="11" app:layout_width="-1" app:layout_height="-1" app:text="C(xa, ya)" app:layout_weight="1.0" />
+                        <android.support.v7.widget.AppCompatEditText app:id="@id/editXc" app:layout_width="-1" app:layout_height="-1" app:hint="xc" app:layout_weight="1.0" app:inputType="2002" />
+                        <android.support.v7.widget.AppCompatEditText app:id="@id/editYc" app:layout_width="-1" app:layout_height="-1" app:hint="yc" app:layout_weight="1.0" app:inputType="2002" />
+                    </LinearLayout>
+                    <TextView app:textAppearance="?unknown_attr_ref: 1010041" app:textColor="?unknown_attr_ref: 7f010088" app:id="@id/txtInteractionPoint" app:layout_width="-1" app:layout_height="-2" />
+                </LinearLayout>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</ScrollView>

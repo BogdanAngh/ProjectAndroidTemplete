@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <android.support.design.widget.AppBarLayout android:layout_width="-1" android:layout_height="-2">
+        <android.support.v7.widget.Toolbar android:id="@id/toolbar" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f010049" />
+    </android.support.design.widget.AppBarLayout>
+    <ScrollView android:layout_width="-1" android:layout_height="-1">
+        <TextView android:id="@id/text_view" android:padding="16dp" android:layout_width="-1" android:layout_height="-2" />
+    </ScrollView>
+</LinearLayout>
